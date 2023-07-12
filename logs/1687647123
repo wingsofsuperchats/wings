@@ -1,0 +1,106 @@
+[
+    {
+        "event": "start",
+        "time": 1687647123,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687647526,
+        "author": "YaBoySoy Is A God",
+        "author_id": "UCybT39Qzw6dpRkQMu16mW5Q",
+        "text": "Who’s jersey is that behind you",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1687647615,
+        "author": "YaBoySoy Is A God",
+        "author_id": "UCybT39Qzw6dpRkQMu16mW5Q",
+        "text": "So your just a bandwagon?",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1687647719,
+        "author": "YaBoySoy Is A God",
+        "author_id": "UCybT39Qzw6dpRkQMu16mW5Q",
+        "text": "Who is wings 007?",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1687649192,
+        "author": "mark brennan youtube channel ",
+        "author_id": "UCuiCyZW5WbbmPQW8VVzaf_g",
+        "text": "None",
+        "usd": 1.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687649208,
+        "author": "McGravy",
+        "author_id": "UCDhI7LYv3HOKuDNc3DlCZGQ",
+        "text": "You may get a special visitor from a special department soon. Big ups everyone ",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1687649256,
+        "author": "Alakazam",
+        "author_id": "UCZrzmYBdBdDAi9HRRgEzDQQ",
+        "text": "None",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687651002,
+        "author": "We Coming",
+        "author_id": "UCnm_-YwsdJ-IUCoSwK_94Rw",
+        "text": "We plan on leaking bank documents. Sparky back :star_struck:",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1687652284,
+        "author": "The Trees",
+        "author_id": "UCTHMbEmzzWgtIT6NCjR5J2A",
+        "text": "He said sparky is back. I’d be worried wings. ",
+        "usd": 1.99
+    },
+    {
+        "event": "wings_message",
+        "time": 1687652807,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "we're almost 2 hours into the stream we've made around 20 dollars",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687652815,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "if you can please help out with a like or a donation",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687653065,
+        "author": "Tyakack",
+        "author_id": "UCU6VncOmcNmtpghbtA6k4cA",
+        "text": "Just showing love. I don't have anything to say.",
+        "usd": 20.0
+    },
+    {
+        "event": "end",
+        "time": 1687654636,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 40.94
+    }
+]
