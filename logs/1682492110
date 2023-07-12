@@ -1,0 +1,58 @@
+[
+    {
+        "event": "start",
+        "time": 1682492110,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1682494328,
+        "author": "Krasko",
+        "author_id": "UCyhHH4ED-3_Kpx5VHJfaEYw",
+        "text": "None",
+        "usd": 0.65
+    },
+    {
+        "event": "superchat",
+        "time": 1682494715,
+        "author": "Supreme God",
+        "author_id": "UCOm6ffuA-4kAGAgaYMS9_jQ",
+        "text": "Been a rough night but this stream has been helping a lot thanks for entertaining us wings ",
+        "usd": 19.99
+    },
+    {
+        "event": "superchat",
+        "time": 1682495595,
+        "author": "Max Dyer",
+        "author_id": "UCAAgNsKY8NsNW9Yr27OXBuw",
+        "text": "thanks for the stream wings",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1682495781,
+        "author": "Oscar Rodriguez",
+        "author_id": "UCO8sfwjCmJU0GbbUB9nmIVQ",
+        "text": "How you doing, pimp? Thanks for the stream!",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1682496160,
+        "author": "Victor Harrington",
+        "author_id": "UCY7ajkH49-BFvQKqeuvOgNw",
+        "text": "long time watcher since WaW days, still popping headshots all these years later, keep up the good content and good luck in your fight! ",
+        "usd": 5.0
+    },
+    {
+        "event": "end",
+        "time": 1682497309,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 37.64
+    }
+]

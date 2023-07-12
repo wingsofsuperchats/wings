@@ -1,0 +1,106 @@
+[
+    {
+        "event": "start",
+        "time": 1685653301,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1685653874,
+        "author": "diaper samurai",
+        "author_id": "UCrSp7jlq2JTgDOx39ckbprw",
+        "text": "Yo Wings get a dub ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1685654043,
+        "author": "Graham Robinson",
+        "author_id": "UCIT6Fh2udxi1wX478ENN5yA",
+        "text": "Hello mate. Hope you’re well ✌🏼",
+        "usd": 12.52
+    },
+    {
+        "event": "superchat",
+        "time": 1685654745,
+        "author": "optimistically cynical",
+        "author_id": "UCFllR0gywZPT3h_JhOdM45g",
+        "text": "would you train with Sam htde for the next bout ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1685657859,
+        "author": "Guyanese Fritz Harelm",
+        "author_id": "UC7FrWtQc4RJG1Iwx8oGaWeg",
+        "text": "You need a centrist democrat to divided in the US",
+        "usd": 2.49
+    },
+    {
+        "event": "superchat",
+        "time": 1685658125,
+        "author": "Guyanese Fritz Harelm",
+        "author_id": "UC7FrWtQc4RJG1Iwx8oGaWeg",
+        "text": "The US needs a a good old school liberal balanced ",
+        "usd": 2.49
+    },
+    {
+        "event": "superchat",
+        "time": 1685659142,
+        "author": "RP",
+        "author_id": "UCLlSPQsks6V_2oRMyeNJWQQ",
+        "text": "Wings, I won 50 buck betting on you in that match. I'll give you half",
+        "usd": 25.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1685661602,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "if you enjoy rainbow please consider donating",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1685662311,
+        "author": "Nargungnir",
+        "author_id": "UClSzeEnVm9dkNLGcRrmIysQ",
+        "text": "Why did they part catalog a module?",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1685662892,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": "None",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1685663046,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": "no charge back .I'm a big fan of u",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1685663158,
+        "author": "Bojangles",
+        "author_id": "UCU9x5VVhS-QghObsTP_yaqA",
+        "text": "the phil slander is stressing Clyde out ",
+        "usd": 2.0
+    },
+    {
+        "event": "end",
+        "time": 1685664752,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 68.48
+    }
+]

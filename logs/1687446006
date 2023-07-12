@@ -1,0 +1,354 @@
+[
+    {
+        "event": "start",
+        "time": 1687446006,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687446297,
+        "author": "akedai",
+        "author_id": "UCZL7HjOWcaZVcu6hCbw3bHg",
+        "text": "wassup playboi. I'm gonna send you sf6",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687446353,
+        "author": "TwitchandAsh",
+        "author_id": "UCxYUHj0wyY5XJ-JT-ysvB1w",
+        "text": "They gon need several subs combined to fit you’re wide body.",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1687446361,
+        "author": "Vintage",
+        "author_id": "UC4csAO6zdvXQPirrHGWMQtA",
+        "text": "Good morning Wings how are you today?",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1687446547,
+        "author": "dyp official",
+        "author_id": "UCaAvQ4LcuOmbNsEOLMYgP3g",
+        "text": "you should play WoW, how have been since the fight",
+        "usd": 2.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687447096,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "what is happening?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687447160,
+        "author": "Alakazam",
+        "author_id": "UCZrzmYBdBdDAi9HRRgEzDQQ",
+        "text": "None",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687447774,
+        "author": "prod. ajblanks",
+        "author_id": "UCvGbWl0pmZNP4qwSwyVCvgA",
+        "text": "None",
+        "usd": 1.99
+    },
+    {
+        "event": "wings_message",
+        "time": 1687449452,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "if you enjoy the stream please consider donating",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687449694,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "ban jimmy",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687449799,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "honestly i'd rather you donate than become a member",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687449807,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "I dont keep track of members and never factor it in",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687449848,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "130 each day",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687449872,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "I was banned from all sites that allow things to be put on stream",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687449937,
+        "author": "capricorn893",
+        "author_id": "UCzccGdnOAAeU6Oa6fmp5pmw",
+        "text": "None",
+        "usd": 1.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687449937,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "mods you see these guys like johnny longfeather just ban them pelase",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687449961,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "diablo 4 is done with",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687450098,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "because i'm fucking struggling",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687450098,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "you think i'm selling cars because I want too?",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687450235,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "nah",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687450244,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "final fantasy is going to be a donation goal",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687450276,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "230",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687450292,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "then it doesnt happen",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687450300,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "yes",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687450308,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "ban faded",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687450316,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "both of them",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687450341,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "17",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687450559,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "kane and dog need to be banned",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1687450567,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "if htey talk about cash just ban htem",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687450801,
+        "author": "Alakazam",
+        "author_id": "UCZrzmYBdBdDAi9HRRgEzDQQ",
+        "text": "None",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687450817,
+        "author": "Barry McCockiner",
+        "author_id": "UCfV3XgAM_l1gCRi90f3JdsA",
+        "text": "been saving 6months for the heated pocket a**, finally got it!! had 5 bucks left over, I'm so happy, here it's yours jordie!!! :beaming_face_with_smiling_eyes:",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687451350,
+        "author": "McGravy",
+        "author_id": "UCDhI7LYv3HOKuDNc3DlCZGQ",
+        "text": "Ban anyone who doesn’t donate ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1687451839,
+        "author": "McGravy The III",
+        "author_id": "UCnm_-YwsdJ-IUCoSwK_94Rw",
+        "text": "Ban anyone who doesn’t donate. Put the camera back",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1687451839,
+        "author": "Bigearn82",
+        "author_id": "UCqvkTewqbKcByCZWeeiCwQQ",
+        "text": "Sup wings",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1687452065,
+        "author": "Apollo360XD",
+        "author_id": "UCq82Qod6Qg1frGLxpNa04lA",
+        "text": "Hope you're doing okay wings. I just got here. ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687452840,
+        "author": "FinalLaugh87",
+        "author_id": "UCsK616KuOgX5wo_nHsPrKxA",
+        "text": "I know you don't play fighters much but that MK1 is giving me 90s vibes. did you play MK back in the day?:smiling_face_with_sunglasses:",
+        "usd": 50.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687453365,
+        "author": "Bojangles",
+        "author_id": "UCU9x5VVhS-QghObsTP_yaqA",
+        "text": "can you make chat superchat only? ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687457739,
+        "author": "djruden",
+        "author_id": "UC8AxlSArlEka97544xjXLLw",
+        "text": "Love the Diablo gameplay, 2 is my favorite of the series! I'm over here playing Diablo 4 right now while I watch ~",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687458086,
+        "author": "mark",
+        "author_id": "UC8j5Hv2iGuHkkHFYJabWiBw",
+        "text": "will you play destiny 2 with me",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687458151,
+        "author": "Blackout",
+        "author_id": "UC7becUUsx-UcJBa2UaZ3zug",
+        "text": "Thanks for the shoutout pimp",
+        "usd": 19.99
+    },
+    {
+        "event": "superchat",
+        "time": 1687458264,
+        "author": "Blackout",
+        "author_id": "UC7becUUsx-UcJBa2UaZ3zug",
+        "text": "Oh yes FF16",
+        "usd": 19.99
+    },
+    {
+        "event": "superchat",
+        "time": 1687458337,
+        "author": "akedai",
+        "author_id": "UCZL7HjOWcaZVcu6hCbw3bHg",
+        "text": "hell yeah. (I was manipulated into donating this btw. jk)",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687461943,
+        "author": "NPC #76",
+        "author_id": "UC3zvV3bd7J49Ou_cTEKJTIw",
+        "text": "big ups to the maidenless ps5'less",
+        "usd": 2.55
+    },
+    {
+        "event": "end",
+        "time": 1687463310,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 156.47000000000003
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "event": "start",
+        "time": 1680736573,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1680737050,
+        "author": "tyler",
+        "author_id": "UCBnIowFRnsAlvTBXr-GyBpA",
+        "text": "sorry I haven't donated in a while I hope your alright wings ",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1680737566,
+        "author": "Sounds of the Underground",
+        "author_id": "UCkgto5c_OtZ8eyANeOD7Q4w",
+        "text": "Is Kelly and Brandy going to be the ring girls?",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1680737849,
+        "author": "Influence History",
+        "author_id": "UCHjXdjZbBbpcDAv9lZfB2kw",
+        "text": "I just bought my first truck it's a 1993 ranger",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1680738236,
+        "author": "Influence History",
+        "author_id": "UCHjXdjZbBbpcDAv9lZfB2kw",
+        "text": "if you were able to select yourself a ring theme as you enter like something out of WWE what do you pick and what would be your catch phrase?",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1680738462,
+        "author": "Michael Figueroa",
+        "author_id": "UC3-FgSjR8dfHprB9iHtkPuA",
+        "text": "You said you \"think\" Keem is covering hotel and flights? Also reservations for high capacity hotels need to be made months in advance...",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1680740173,
+        "author": "001FirstRule",
+        "author_id": "UCDg7xKJPHQhHDAEtKzzBU_A",
+        "text": "Boogie is pretending this whole thing ain’t happening, do they have a backup opponent in cause of if y’all don’t make it?",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1680740326,
+        "author": "respergu",
+        "author_id": "UCFTleus_uceYD-7zJX7CCeQ",
+        "text": "No pressure Mr Wings!",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1680742334,
+        "author": "Influence History",
+        "author_id": "UCHjXdjZbBbpcDAv9lZfB2kw",
+        "text": "you could play a ds2 no death run, chat can pick your class and starting gifts and make it a community thing",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1680742479,
+        "author": "Alakazam",
+        "author_id": "UCZrzmYBdBdDAi9HRRgEzDQQ",
+        "text": "ban anybody who knows what I said ",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1680745078,
+        "author": "Derich Ip",
+        "author_id": "UCA9zFHjKBEAhIndQp22eFKw",
+        "text": "hey want some wendys chili?",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1680745304,
+        "author": "Yuri Kostya",
+        "author_id": "UCmYx3ZEFJdMXcAahm7Im0ag",
+        "text": "Your streaming career is coming to an end…..",
+        "usd": 1.99
+    },
+    {
+        "event": "wings_message",
+        "time": 1680745514,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "he is saying that because you'll be banned by the end of next stream most likely",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1680745547,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "i'm not upset I'm just disappointed in myself",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1680746107,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 49.980000000000004
+    }
+]

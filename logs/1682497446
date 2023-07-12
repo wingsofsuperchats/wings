@@ -1,0 +1,74 @@
+[
+    {
+        "event": "start",
+        "time": 1682497446,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1682497890,
+        "author": "Rahul",
+        "author_id": "UCubqV9usk2sACvgT2g53B4Q",
+        "text": "Thanks for your streams Jordie!",
+        "usd": 9.9
+    },
+    {
+        "event": "superchat",
+        "time": 1682499583,
+        "author": "Donnie Donaldson",
+        "author_id": "UC7VE9917OvgOSufv1KAdN5Q",
+        "text": "Hey J, would u wingo my pingo for a diamond ringo",
+        "usd": 2.75
+    },
+    {
+        "event": "superchat",
+        "time": 1682499817,
+        "author": "Donnie Donaldson",
+        "author_id": "UC7VE9917OvgOSufv1KAdN5Q",
+        "text": "This stream feels like a funeral BIGUPS PEPSI PIMP",
+        "usd": 2.75
+    },
+    {
+        "event": "superchat",
+        "time": 1682500011,
+        "author": "mortalhunter",
+        "author_id": "UCZF13TDA_GYznPTyINFD0MQ",
+        "text": "How we doin today pimp",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1682500164,
+        "author": "Marlon Calloway",
+        "author_id": "UClQmtrGCZ8b6S9mO6vFRLvA",
+        "text": "I got chu let’s start the donations goal",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1682500172,
+        "author": "Donnie Donaldson",
+        "author_id": "UC7VE9917OvgOSufv1KAdN5Q",
+        "text": "The media mistakenly called u Richard for the fite",
+        "usd": 2.75
+    },
+    {
+        "event": "superchat",
+        "time": 1682501277,
+        "author": "Zac T",
+        "author_id": "UCyAJNi1n5qU0hh2xGadM1Ig",
+        "text": "Burning the midnight oil ?",
+        "usd": 2.49
+    },
+    {
+        "event": "end",
+        "time": 1682503468,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 24.619999999999997
+    }
+]

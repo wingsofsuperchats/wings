@@ -1,0 +1,42 @@
+[
+    {
+        "event": "start",
+        "time": 1686947186,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1686947218,
+        "author": "Redfeather",
+        "author_id": "UCbvKiQHQseBhdERL9xPdupQ",
+        "text": "None",
+        "usd": 19.99
+    },
+    {
+        "event": "superchat",
+        "time": 1686948041,
+        "author": "Graham Robinson",
+        "author_id": "UCIT6Fh2udxi1wX478ENN5yA",
+        "text": "Hey bro ✌🏼",
+        "usd": 12.81
+    },
+    {
+        "event": "superchat",
+        "time": 1686948299,
+        "author": "ItsBeastly23",
+        "author_id": "UCqtjjeCt1Y1xP8sRBHiPA-Q",
+        "text": "which operator do you think gives the best head?",
+        "usd": 5.0
+    },
+    {
+        "event": "end",
+        "time": 1686949279,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 37.8
+    }
+]

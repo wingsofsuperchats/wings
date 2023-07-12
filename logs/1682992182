@@ -1,0 +1,42 @@
+[
+    {
+        "event": "start",
+        "time": 1682992182,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1682992272,
+        "author": "Butler Bees",
+        "author_id": "UCcZ-meEYPq-wwnfu8wuNePQ",
+        "text": "Wings, would you say you’re an optimist, pessimist, or a PepsiSierraMist?",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1682995742,
+        "author": "Link Hoskins",
+        "author_id": "UCP_RKHBJiSYWE9-F6jomA0Q",
+        "text": "Did you get your psn account back?",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1682996016,
+        "author": "The Mysterious Drifter",
+        "author_id": "UCF2AXksdcIqx6Jo0Za2ZPCg",
+        "text": "None",
+        "usd": 4.99
+    },
+    {
+        "event": "end",
+        "time": 1682996650,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 11.97
+    }
+]

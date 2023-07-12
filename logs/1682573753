@@ -1,0 +1,42 @@
+[
+    {
+        "event": "start",
+        "time": 1682573753,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1682574334,
+        "author": "Warren Waller",
+        "author_id": "UCdOZGMGqpBGSI1G-jOX_5gg",
+        "text": "Lemme get a rain check on a gunfight next time.",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1682575189,
+        "author": "AssDust",
+        "author_id": "UCOwqSIKVXvYmDpLyiGBFTOQ",
+        "text": "what you doing if you have to poop on plane?",
+        "usd": 1.61
+    },
+    {
+        "event": "superchat",
+        "time": 1682575640,
+        "author": "FaythD",
+        "author_id": "UCQ5nCfrTrBzyVENfWIJBg0Q",
+        "text": "hey wings I am coming to the fight can you get me ringside to hype you up",
+        "usd": 6.24
+    },
+    {
+        "event": "end",
+        "time": 1682580862,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 9.84
+    }
+]

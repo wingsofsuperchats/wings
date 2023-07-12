@@ -1,0 +1,90 @@
+[
+    {
+        "event": "start",
+        "time": 1681922139,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1681922857,
+        "author": "jsmooth d",
+        "author_id": "UCe0zn4Il_dhwQ2CS2qP8arw",
+        "text": "Glad you’re playing Final Surgery ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1681923148,
+        "author": "Dr Frenchfries",
+        "author_id": "UCsp56pAY0tnDCmo1_qQH3Sg",
+        "text": "#NickKnew",
+        "usd": 3.33
+    },
+    {
+        "event": "superchat",
+        "time": 1681926817,
+        "author": "facepuncher74",
+        "author_id": "UCvHzccFwwPvc2n4X0PNrF9A",
+        "text": "Hello the wing man, I offer you more smeckles ",
+        "usd": 2.48
+    },
+    {
+        "event": "superchat",
+        "time": 1681926995,
+        "author": "Forever Asylum",
+        "author_id": "UCqIKjnFbjHc_UkC2NRSofvQ",
+        "text": "anime poll ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1681927817,
+        "author": "respergu",
+        "author_id": "UCFTleus_uceYD-7zJX7CCeQ",
+        "text": "Mr Wings! Do you think Boogie could use the RIkishi's Stinkface move ? He may want to cheat during the fight !!",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1681927954,
+        "author": "WingedSword",
+        "author_id": "UCC6k4b3qLsPcR-RdbBhaLmQ",
+        "text": "Hi wings",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1681929463,
+        "author": "Davis Navarro",
+        "author_id": "UC4EnS2m75Ln5V2MG6YvQ1nA",
+        "text": "I’d normally be the first to dunk on you, but you deserve hella props for actually following through on the fight. You best find some UK chili ",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1681929729,
+        "author": "giometro",
+        "author_id": "UC6R1EmiZc5cYXRWesXkQ23w",
+        "text": "proud of your progress wings. keep it up",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1681930932,
+        "author": "Mike Oxmells-Grim",
+        "author_id": "UCR4-Mofc3MpeO64DdduY_yQ",
+        "text": "What is your favorite Word Processor Software?",
+        "usd": 2.49
+    },
+    {
+        "event": "end",
+        "time": 1681932525,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 29.260000000000005
+    }
+]

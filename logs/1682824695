@@ -1,0 +1,82 @@
+[
+    {
+        "event": "start",
+        "time": 1682824695,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1682824937,
+        "author": "Pahhd",
+        "author_id": "UC9cR8y1NliDJVGHyjY9xPJA",
+        "text": "As a fellow southerner, what's your go to southern food?",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1682825639,
+        "author": "Lets go Brandon 2024",
+        "author_id": "UCDxcEIGPmw6ZO37STx7UCEQ",
+        "text": "R6 ranked? ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1682825687,
+        "author": "Kevin Jones",
+        "author_id": "UCStsIKuNEMZht4BKx83GJvw",
+        "text": "2 weeks & counting. #May13th",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1682825929,
+        "author": "jjjjjjjj",
+        "author_id": "UCUv8J8Ktib9TZq6aZmrJb3A",
+        "text": "None",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1682826381,
+        "author": "jt",
+        "author_id": "UCUv8J8Ktib9TZq6aZmrJb3A",
+        "text": "Happy Saturday pimps",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1682826953,
+        "author": "Christian Klausmeyer",
+        "author_id": "UCO_ScXJ5s_cfV4m0Y7k1mXA",
+        "text": "hey I think you may have sent the request to the wrong person lmao it's just chrisklaus psn tag, all lowercase, should be the red background with the bloodborne avatar",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1682827285,
+        "author": "Lets go Brandon 2024",
+        "author_id": "UCDxcEIGPmw6ZO37STx7UCEQ",
+        "text": "Please play PUBG. free to play. battle royal.",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1682828825,
+        "author": "Palestine",
+        "author_id": "UCWUGUIu16yzURNq-nal7Mjg",
+        "text": "Hey buddy, looking for another tonight? ",
+        "usd": 2.0
+    },
+    {
+        "event": "end",
+        "time": 1682831997,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 40.980000000000004
+    }
+]

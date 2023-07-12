@@ -1,0 +1,74 @@
+[
+    {
+        "event": "start",
+        "time": 1682233321,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1682233499,
+        "author": "Warren Waller",
+        "author_id": "UCdOZGMGqpBGSI1G-jOX_5gg",
+        "text": "It’s your bday? Happy bday Jordie. Boogie is goin down if that fight is still on.",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1682234241,
+        "author": "facepuncher74",
+        "author_id": "UCvHzccFwwPvc2n4X0PNrF9A",
+        "text": "Mi’lord, here are smeckles from the local village",
+        "usd": 2.47
+    },
+    {
+        "event": "superchat",
+        "time": 1682235466,
+        "author": "Graffmatical 1",
+        "author_id": "UCL02sB4ZHmULKzlA9faRDgA",
+        "text": "Wings is gonna ko boogie",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1682235926,
+        "author": "Graffmatical 1",
+        "author_id": "UCL02sB4ZHmULKzlA9faRDgA",
+        "text": "After you KO boogie you should call out Ethan Ralph ",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1682236393,
+        "author": "dflexone",
+        "author_id": "UCfdiTFGRKNRcF6klQk5XzIA",
+        "text": "Are you into the bloodbourne lore?",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1682236442,
+        "author": "Just Another Matt",
+        "author_id": "UCbTHSAZxUl-bB2AL9UrwllA",
+        "text": "F thé h8rs you keep doing you. Much love from Ga 🫶",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1682240046,
+        "author": "KingN641994",
+        "author_id": "UCm4X7FAODAmKdX46BZ3XB7w",
+        "text": "Have watched any lore vids? If so what's ur fav?",
+        "usd": 2.0
+    },
+    {
+        "event": "end",
+        "time": 1682242066,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 25.419999999999998
+    }
+]

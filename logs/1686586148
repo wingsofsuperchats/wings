@@ -1,0 +1,66 @@
+[
+    {
+        "event": "start",
+        "time": 1686586148,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1686586552,
+        "author": "KEY PICKS",
+        "author_id": "UCONjzhXzLcdciRRPc9rgK6g",
+        "text": "who's the next fight for the power punching pimp?",
+        "usd": 1.64
+    },
+    {
+        "event": "superchat",
+        "time": 1686587092,
+        "author": "Graham Robinson",
+        "author_id": "UCIT6Fh2udxi1wX478ENN5yA",
+        "text": "Big up Jordie. Hope you’re good.",
+        "usd": 6.24
+    },
+    {
+        "event": "superchat",
+        "time": 1686587245,
+        "author": "aF_Salty fan",
+        "author_id": "UCFZQlTzSnw7td5O9H1MPuyw",
+        "text": "Braves might give Soto 10/350 to play with Acuna ",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1686587496,
+        "author": "aF_Salty fan",
+        "author_id": "UCFZQlTzSnw7td5O9H1MPuyw",
+        "text": "Why do they still message these guys to team kill you it may be the most overplayed “joke” I’ve ever seen. Like it’s not even funny at all anymore ",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1686590375,
+        "author": "AJAX",
+        "author_id": "UCwXvgJrjyGdZW5-rqZxNQ0A",
+        "text": "Wings with the back to back streams, W",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1686590585,
+        "author": "-",
+        "author_id": "UCQ8yhG-3ZLL5s24q_YZq0xw",
+        "text": "Ugh fine, I guess you ARE my little pogchamp.",
+        "usd": 2.24
+    },
+    {
+        "event": "end",
+        "time": 1686592331,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 22.089999999999996
+    }
+]
