@@ -1,0 +1,74 @@
+[
+    {
+        "event": "start",
+        "time": 1688780523,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688780523,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688780523,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "lets keep the blanka train rolling tonight! MAYBE I can hit 3 star diamond.... maybe lol",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688780572,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay we're up and running. gotta use the restroom before i jump on so be right back!",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1688781233,
+        "author": "roflbozo11",
+        "author_id": "UCo17qIZmTWtjQVACCqEl1PA",
+        "text": "Good evening Philip, thx for all the sf6! Been enjoying it ",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1688782716,
+        "author": "redbandit94",
+        "author_id": "UChBM4Wp5XsjyFvzD_-Q8MPw",
+        "text": "ready for a good streaming weekend!",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1688784707,
+        "author": "Poolish",
+        "author_id": "UCAWZBlLRw2zYhqaEnsFVTwQ",
+        "text": "What is the rank after diamond 5 star? Nice sets",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1688786021,
+        "author": "Alex Arsenault",
+        "author_id": "UCjc9fOm70_4MNtWtQkni8Ww",
+        "text": "sorry for derailing in that tip",
+        "usd": 1.5
+    },
+    {
+        "event": "end",
+        "time": 1688791544,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 10.48
+    }
+]

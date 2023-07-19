@@ -1,0 +1,34 @@
+[
+    {
+        "event": "start",
+        "time": 1687728604,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687728604,
+        "author": "arcadecup",
+        "author_id": "UC9289PNDYJVC16qf_Qt8urg",
+        "text": "None",
+        "usd": 1.69
+    },
+    {
+        "event": "superchat",
+        "time": 1687733327,
+        "author": "BloomKit",
+        "author_id": "UCw1Y22aKoOXKLDLS7kJjR4A",
+        "text": "Please tell me your loving the game. It’s fire ",
+        "usd": 1.99
+    },
+    {
+        "event": "end",
+        "time": 1687734947,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 3.6799999999999997
+    }
+]

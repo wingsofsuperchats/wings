@@ -1,0 +1,66 @@
+[
+    {
+        "event": "start",
+        "time": 1688435461,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688435462,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening all!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688435462,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "we had leftovers from yesterdays amazing food",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1688436146,
+        "author": "Xshooter",
+        "author_id": "UC88CNmYxuryT6Q5xioeLz_A",
+        "text": "None",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1688436476,
+        "author": "Low Tier God Jr.",
+        "author_id": "UCvLH1PJlS-WO35hEDLcjJNA",
+        "text": "shout yourself out",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1688437652,
+        "author": "LittleCr0wxx_ENVTuber_Gaming",
+        "author_id": "UCt28V3rpFTxiOWP7jFzy4yQ",
+        "text": "Sent you a tip",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1688442705,
+        "author": "Low Tier God Jr.",
+        "author_id": "UCvLH1PJlS-WO35hEDLcjJNA",
+        "text": "let's workout together ",
+        "usd": 5.0
+    },
+    {
+        "event": "end",
+        "time": 1688445883,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 13.99
+    }
+]

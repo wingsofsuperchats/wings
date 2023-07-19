@@ -1,0 +1,146 @@
+[
+    {
+        "event": "start",
+        "time": 1688838662,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688838663,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good morning everyone!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688838663,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "lets get started",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688838727,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "the playthrough of FF16 is very telling. people gave the first day's coverage (5 vids) a view, then said NOPE, too boring and never came back lol",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688838743,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "Square Enix really F'ed this one up",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688838929,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "yes, game journalists love this game. and its becoming very apparent that their opinions are very different from the common gamer these days",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688838937,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "it has sold way less than other FFs actually",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688838962,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay gonna use the restroom and begin, brb",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688839471,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "@Onso-kumaru nothing you just said is true lol. best selling exclusive? sure, it sold more than god of war ragnarok already, i totally believe that!",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688839479,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "geez you're so blind and brainwashed",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1688842002,
+        "author": "REEEternal",
+        "author_id": "UCDI39_1AF0iqv3T3X--6JxA",
+        "text": "Congrats on the 1000 wins! ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1688842471,
+        "author": "Arkham Edits",
+        "author_id": "UCMkojTUgQUdd0_rhXLIZV4A",
+        "text": "I just watch the Indiana jones movie yesterday night. And I give it a 7/10 ",
+        "usd": 5.26
+    },
+    {
+        "event": "superchat",
+        "time": 1688843488,
+        "author": "ChefBoiRDeez",
+        "author_id": "UCPEt6stWJ7-mc6appqT9zEA",
+        "text": "Beam me up! ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1688844383,
+        "author": "BloomKit",
+        "author_id": "UCw1Y22aKoOXKLDLS7kJjR4A",
+        "text": " But we all one big family. It’s the same",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1688851606,
+        "author": "Choombaguette",
+        "author_id": "UC-caaNYCbsQI15hZevk8NUA",
+        "text": "I hope they don't make Dragon Quest 12 like this.",
+        "usd": 1.67
+    },
+    {
+        "event": "superchat",
+        "time": 1688856694,
+        "author": "EzySteve",
+        "author_id": "UCbkelD2cuZKjK-hoi_M9p4w",
+        "text": "Loving the more FFXVI and Diablo 4 for chill Phil",
+        "usd": 1.5
+    },
+    {
+        "event": "superchat",
+        "time": 1688857194,
+        "author": "EzySteve",
+        "author_id": "UCbkelD2cuZKjK-hoi_M9p4w",
+        "text": "I agree, FFXVI like any other FF has it's issues.",
+        "usd": 1.5
+    },
+    {
+        "event": "end",
+        "time": 1688858421,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 15.91
+    }
+]

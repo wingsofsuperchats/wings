@@ -1,0 +1,114 @@
+[
+    {
+        "event": "start",
+        "time": 1689011644,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1689011645,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good morning everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1689011645,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "i studied up on Marisa tech, i need to figure out this one normal that's commonly used in a combo. shes very basic but incredibly damaging at high levels",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1689011645,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "the #1 ranked Marisa in the world changed from classic to modern controls. that says something about the character i think",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1689012065,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "whew okay, finally able to get stuff going here",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1689012073,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "let me post up that we're live",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1689012542,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay im back!",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689013716,
+        "author": "Tyakack",
+        "author_id": "UCU6VncOmcNmtpghbtA6k4cA",
+        "text": "I'm just now getting into street fighter. If there was one tip you could give me what would it be? I'm completely new to fighting games. ",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689014104,
+        "author": "Arkham Edits",
+        "author_id": "UCMkojTUgQUdd0_rhXLIZV4A",
+        "text": "The viewers want Batman Arkham knight ",
+        "usd": 2.1
+    },
+    {
+        "event": "superchat",
+        "time": 1689016766,
+        "author": "Tyakack",
+        "author_id": "UCU6VncOmcNmtpghbtA6k4cA",
+        "text": "Would you say I need to buy an arcade joystick to be good on street fighter or can I play on controller?",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689018060,
+        "author": "GameTrekker",
+        "author_id": "UC6YirucIxEAcVmQzS9YG-mg",
+        "text": "Careful, the CPU is set to Punish Counter, so you're basically not testing how well all these combo starters will work normally.",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689026530,
+        "author": "Kazuya Mishima",
+        "author_id": "UCzlVfWAzyHbEkAffYmQIysw",
+        "text": "A fight is about who's left standing. Nothing else",
+        "usd": 2.48
+    },
+    {
+        "event": "superchat",
+        "time": 1689026756,
+        "author": "roflbozo11",
+        "author_id": "UCo17qIZmTWtjQVACCqEl1PA",
+        "text": "Hello, hope all is well. Thx for the sf6 ",
+        "usd": 1.99
+    },
+    {
+        "event": "end",
+        "time": 1689031650,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 31.57
+    }
+]

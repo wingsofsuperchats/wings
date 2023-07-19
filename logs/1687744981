@@ -1,0 +1,202 @@
+[
+    {
+        "event": "start",
+        "time": 1687744981,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "what is going on with this podcast. it uploaded to 94% but is now stuck",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "restarted, resumed, still at 94% and not moving wtf",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "it plays fine so i have no idea",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "wait maybe not",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "now it wont play",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "but it just did before the restart wtf",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "yeah something si wrong, i think i have to restart again",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "hopefully its not the HD crapping out",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "brb gonna restart again",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay restarted again, lets see what happens here",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "the podcast wouldnt' fully upload for some unknown reason despite not being corrupted",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "so im going to edit it out of the live stream instead",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "and then get the stream started here",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "i think it will be fine now, it just might not be cut out perfectly bc the preveiw wouldn't load on youtube. of course lol",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "anyway let me get the stream set up now",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "now the capture device isnt' working wtf",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "yeah its obvious im having issues",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1687744982,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "now im restarting OBS",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687745763,
+        "author": "Matthew Castellanos",
+        "author_id": "UCAfv5DeRObYZXZsTfqYSJJg",
+        "text": "Phil it’s my birthday and I appreciate the years of content and laughs and would appreciate a birthday shoutout. ",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1687750699,
+        "author": "ZombieJesus",
+        "author_id": "UCu8LMQeUsaP_TsHrskDfyWg",
+        "text": "U said cuphead dlc was too short but zelda 2 long?",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687750836,
+        "author": "ZombieJesus",
+        "author_id": "UCu8LMQeUsaP_TsHrskDfyWg",
+        "text": "U said cuphead dlc was too short but zelda 2 long?",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687751029,
+        "author": "MagicianPooperfield",
+        "author_id": "UCJXQQv3s2Re2bhCLPyU0UAg",
+        "text": "The magician Copperfield has done some amazing illusions. Me on the other hand, I can turn prairie dogs into Lincoln logs! P.S. Phil, keep up the good work!",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1687751689,
+        "author": "Marc Thomas",
+        "author_id": "UCW5h2qoGSryapnY4ohBcm7g",
+        "text": "\"how 'boutique a game of lucky hit?\" remember?",
+        "usd": 2.0
+    },
+    {
+        "event": "end",
+        "time": 1687754412,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 20.990000000000002
+    }
+]

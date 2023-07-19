@@ -1,0 +1,122 @@
+[
+    {
+        "event": "start",
+        "time": 1688176083,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688176084,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "good evening everyone",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688176084,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "well i think im going to do more Ryu in Casual play to try and improve, then try ranked again. but i need way more practice first",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688176262,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "okay just posted up that we're live",
+        "usd": 0.0
+    },
+    {
+        "event": "dsp_message",
+        "time": 1688176270,
+        "author": "DSPGaming",
+        "author_id": "UCGAQFQoZNIFUnQQuA-Llu9A",
+        "text": "going to go grab a coffee and then we'll get started, brb",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1688178894,
+        "author": "joeyw1001",
+        "author_id": "UCaVvAIWb6Tu2Kk3GHHn4BCw",
+        "text": "i hope you have a good upcoming weekend phil :^)",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1688180666,
+        "author": "tyler",
+        "author_id": "UCBnIowFRnsAlvTBXr-GyBpA",
+        "text": "for some reason it won't let me become a member it's crazy it is on YouTube end sorry ",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1688181848,
+        "author": "3hunna",
+        "author_id": "UCjuWdZNXxpdcpPXcPFaD8ow",
+        "text": "We paid you for the headband! I will not be back",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1688182560,
+        "author": "WE PAID FOR HEADBAND",
+        "author_id": "UCgt1WA_q6m5Y-C1QwqoNzWA",
+        "text": "We paid for the headband where is it ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1688182868,
+        "author": "BloomKit",
+        "author_id": "UCw1Y22aKoOXKLDLS7kJjR4A",
+        "text": "Believe in the me that believes in you! Go Phil!!",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1688182868,
+        "author": "Jenna Lane Snow",
+        "author_id": "UC5OKxjMbd2X4VkWQwGqVNEw",
+        "text": "You and Derich can eat my Trader Joe's taco <3",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1688183046,
+        "author": "Jenna Lane Snow",
+        "author_id": "UC5OKxjMbd2X4VkWQwGqVNEw",
+        "text": "Officer Sanders is coming to Markham haha",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1688184804,
+        "author": "Scared of competition, stuck on level one pug man",
+        "author_id": "UCdmvk47cho3_YG6WrUYX5-Q",
+        "text": "Says Ryu is easy2win. gets dominated all night. ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1688186495,
+        "author": "Marc Thomas",
+        "author_id": "UCW5h2qoGSryapnY4ohBcm7g",
+        "text": "will you be making the question lists for tomorrow",
+        "usd": 2.0
+    },
+    {
+        "event": "end",
+        "time": 1688187249,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 23.96
+    }
+]
