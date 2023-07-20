@@ -1,0 +1,594 @@
+[
+    {
+        "event": "start",
+        "time": 1689810243,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689810244,
+        "author": "Rainbow Child",
+        "author_id": "UCaVWCCF1EHzGUPy12Q7mMfg",
+        "text": "hi wings I saw you were coming to Nashville and would like to see if I could meet you would you be open for meeting fans and if so where'd you be at?",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689810244,
+        "author": "TwitchandAsh",
+        "author_id": "UCxYUHj0wyY5XJ-JT-ysvB1w",
+        "text": "Cheese said he’s twice the r6 player you could ever be and said he would beat you on Bog, thoughts?",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1689810357,
+        "author": "Strange tar",
+        "author_id": "UCYOTtKQfLK75Sikxx9tSzyA",
+        "text": "Next fight wings vs 007",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689810389,
+        "author": "gary gelthaus",
+        "author_id": "UC6V6gAIHEsGBnDlyd6CuZuQ",
+        "text": "minecraft when?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689810583,
+        "author": "Madd ",
+        "author_id": "UCpRUGqOOrF9rF1cLcg-o2sQ",
+        "text": "m80",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1689810679,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "tiger want to jump on?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689810954,
+        "author": "WingsofIslam",
+        "author_id": "UCnJc_R0bBDdM6KBf0N2L0Gw",
+        "text": "DO U RUN REVIEWTECHUSA?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689810962,
+        "author": "Madd ",
+        "author_id": "UCpRUGqOOrF9rF1cLcg-o2sQ",
+        "text": "keep the comms strictly about the game",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689811405,
+        "author": "Madd ",
+        "author_id": "UCpRUGqOOrF9rF1cLcg-o2sQ",
+        "text": "Grant the gimp",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689811438,
+        "author": "N S",
+        "author_id": "UCT_Unh_RI2wIUHD_XE_XOMA",
+        "text": "Word on the street is that 007 is offering $500 for a Cheese 1v1…go get that money PIMP!",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1689811704,
+        "author": "Well Swayed",
+        "author_id": "UCK9I3dmIVloKHbJLL4YK61A",
+        "text": ":candle:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689811914,
+        "author": "A Smoke Break",
+        "author_id": "UCka_RnDjp_jVExFV6DxZI3A",
+        "text": "What up jordie! Kill it today!",
+        "usd": 9.99
+    },
+    {
+        "event": "ban",
+        "time": 1689812164,
+        "author": "Jace Burdette ",
+        "author_id": "UCLJ-ogGux2gMnCgGnIiosgQ",
+        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689812583,
+        "author": "Grant Bolen",
+        "author_id": "UCRR4UABfsF8f8hLhQS2WBgQ",
+        "text": "Thoughts on gay rights wings?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689812857,
+        "author": "cocolefleur",
+        "author_id": "UCU700SGPUgLL7PIZbb2OFbQ",
+        "text": "why won't you 1v1 cheese?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689812890,
+        "author": "OneBar",
+        "author_id": "UCokCQUbcxQf6jEwQmuWpTYQ",
+        "text": "Man you got owned who cares if you lose against cheese just 1v1 him",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689813503,
+        "author": "Dragon Bearer",
+        "author_id": "UCgxe3GgXLrcTkUvLBL0yFFA",
+        "text": "Eat in the mic loudly till it makes chi mad ",
+        "usd": 20.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689813543,
+        "author": "Uhhh Okay",
+        "author_id": "UC_HuTfir7OYseSejAkYiTZw",
+        "text": "Shout out RealTawk, YUH HEARD",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1689814236,
+        "author": "Cal Caleb",
+        "author_id": "UCtW6cL2GjOTcsSGss653s6g",
+        "text": "Did black people tip ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689814712,
+        "author": "OneBar",
+        "author_id": "UCokCQUbcxQf6jEwQmuWpTYQ",
+        "text": "How are yall almost losing in casual",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689814721,
+        "author": "Clyde Baxter",
+        "author_id": "UCHq6kEGamVC1of8jtxW3RFg",
+        "text": "one bar welcome to ban world",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689814963,
+        "author": "TMK FVTVRE",
+        "author_id": "UC-oh7ldKXV2DBogEPHq1jog",
+        "text": "got a Rocko",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689814979,
+        "author": "gamaguy3",
+        "author_id": "UCU-r1qCpRF98-iVu3DmGYzw",
+        "text": "Hope all is well brother",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1689815003,
+        "author": "TMK FVTVRE",
+        "author_id": "UC-oh7ldKXV2DBogEPHq1jog",
+        "text": "got a Rocko",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689815189,
+        "author": "TMK FVTVRE",
+        "author_id": "UC-oh7ldKXV2DBogEPHq1jog",
+        "text": ":_Thermite:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689815366,
+        "author": "Jbo 2000",
+        "author_id": "UCCtqfAINBmWO26YZ1Gw8fgQ",
+        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689815431,
+        "author": "Billy Ethel",
+        "author_id": "UC-8RuYXKg2NsaVXteCkEI-Q",
+        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689815648,
+        "author": "RebaFluff",
+        "author_id": "UCcWFub35VTegI0Qm2_YSSLQ",
+        "text": "like cream cheese or what kind of cream you talking about?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689815858,
+        "author": "TMK FVTVRE",
+        "author_id": "UC-oh7ldKXV2DBogEPHq1jog",
+        "text": "big rock",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689816721,
+        "author": "bearsfan1109",
+        "author_id": "UChsq96bwSVA4RcJU7Yg4G8Q",
+        "text": "is this prerecorded? @Wings of Redemption ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689816891,
+        "author": "Cloud Strike",
+        "author_id": "UC9cih3-BfBOjebbbUbm9NSg",
+        "text": "I deleted my old account and channel Wings. I just got out the hospital. Hope you are well. ",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1689816963,
+        "author": "zizzle",
+        "author_id": "UC8OzqSAabF3kGW56fO5e5Iw",
+        "text": "lose weight",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689817052,
+        "author": "Cloud Strike",
+        "author_id": "UC9cih3-BfBOjebbbUbm9NSg",
+        "text": "Mental health reasons. Super stressed. Cant converse until 5 more days. Big ups Chat I see you! ",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1689817335,
+        "author": "Pepe",
+        "author_id": "UCVriRMB3hJrRA0uofewEEkw",
+        "text": "If it's pre-recorded why not just show footage of you playing good?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689817343,
+        "author": "Pepe",
+        "author_id": "UCVriRMB3hJrRA0uofewEEkw",
+        "text": "If it's pre-recorded why not just show footage of you playing good?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689817617,
+        "author": "bearsfan1109",
+        "author_id": "UChsq96bwSVA4RcJU7Yg4G8Q",
+        "text": "nooooo",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689817641,
+        "author": "Anibal Alejandro",
+        "author_id": "UCtVlfId6mL-1YzwFBTSUqTA",
+        "text": "manchild",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689817657,
+        "author": "Max Copperfield",
+        "author_id": "UCUzNyVm7Ac5eEN2c7QvcWSg",
+        "text": "Really? All the trolling this stream and someone asking to play a game is what triggered you?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689817802,
+        "author": "Casey Ledoux",
+        "author_id": "UCJ44JsfHLgm3OhExjc6xmCw",
+        "text": "1v1 :cheese_wedge:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689817811,
+        "author": "Casey Ledoux",
+        "author_id": "UCJ44JsfHLgm3OhExjc6xmCw",
+        "text": "1v1 :cheese_wedge:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689817835,
+        "author": "Kafka Simp",
+        "author_id": "UCfJtYSMRKt82JnEnjvpvA3Q",
+        "text": "carried to diamond as usual",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689817948,
+        "author": "RebGoogle",
+        "author_id": "UCEeLyrMa8MLg3-MCBYPWSQA",
+        "text": "@Wingsofredemption do u watch streamers throughout the day and if so then who’s your favorite to sit back and chill",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689818262,
+        "author": "JakobTheGoon",
+        "author_id": "UCCiv1u8KuaOgrmQyZ-85G_Q",
+        "text": "Hey Jordie, haven't watched in a few days. How close are you to Diamond now?",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1689818512,
+        "author": "Carlson",
+        "author_id": "UCl72hpfiHVtOlARsaazrSGw",
+        "text": "Was is Brandy?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689818690,
+        "author": "Chazz Jisholm Jr",
+        "author_id": "UCc1TWmGBCHiWfFSk3d6Ff8Q",
+        "text": "C",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689819271,
+        "author": "Grant Bolen",
+        "author_id": "UCRR4UABfsF8f8hLhQS2WBgQ",
+        "text": "Ban deez but Liz",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689819287,
+        "author": "Supreme Emperor",
+        "author_id": "UCT_69Xv7DjdEyQ-M5ItvrRQ",
+        "text": "I thought wings was good at this game? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689819392,
+        "author": "Grant Bolen",
+        "author_id": "UCRR4UABfsF8f8hLhQS2WBgQ",
+        "text": "^",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689819432,
+        "author": "Grant Bolen",
+        "author_id": "UCRR4UABfsF8f8hLhQS2WBgQ",
+        "text": "^",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689819577,
+        "author": "IIXLV",
+        "author_id": "UCXcYrW1BHdTJ5OizidRWbWQ",
+        "text": ":face-fuchsia-poop-shape::face-fuchsia-poop-shape::face-fuchsia-poop-shape::face-fuchsia-poop-shape::face-fuchsia-poop-shape::face-fuchsia-poop-shape::face-fuchsia-poop-shape::face-fuchsia-poop-shape:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689819690,
+        "author": "InsaniTEA",
+        "author_id": "UCaHsoYlHCoZC2xxzqz9rRhA",
+        "text": "Aint much but thx for always entertaining me pimp",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1689819972,
+        "author": "Madd ",
+        "author_id": "UCpRUGqOOrF9rF1cLcg-o2sQ",
+        "text": "i heard the faint crack of a pepsi ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689820166,
+        "author": "New England Hustler",
+        "author_id": "UCbw6KjZEFBi6bLFgT2Wei8A",
+        "text": "Riq ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689820336,
+        "author": "Mike Hawk",
+        "author_id": "UCjDr2gHUxFEIXxznsg9jCpA",
+        "text": "blade is streaming wings you gonna collab",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689820756,
+        "author": "Bendy Wendy",
+        "author_id": "UCpB_WNvCrn3vAL1IfzqtIjg",
+        "text": "Honestly Kenny had the right idea with them pillies",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1689820877,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "jump on hoozier",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1689820933,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "you joining hoosier dz?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689822847,
+        "author": "Dragon Bearer",
+        "author_id": "UCgxe3GgXLrcTkUvLBL0yFFA",
+        "text": " According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies bye ",
+        "usd": 10.0
+    },
+    {
+        "event": "ban",
+        "time": 1689824454,
+        "author": "Pudgy",
+        "author_id": "UC5Hu3jhrUPRteobH2zEzoNw",
+        "text": "racoons eating the doordash at the front porch ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689824737,
+        "author": "Supreme Emperor",
+        "author_id": "UCT_69Xv7DjdEyQ-M5ItvrRQ",
+        "text": "2 for 3 ain’t good",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689825399,
+        "author": "Garrett Fox",
+        "author_id": "UCiewaFmNlKDrMVfhuP9GA5g",
+        "text": "What’s the weight situation these days? Looks bad.",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1689825625,
+        "author": "Garrett Fox",
+        "author_id": "UCiewaFmNlKDrMVfhuP9GA5g",
+        "text": "Laziest streamer in the game.",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1689825786,
+        "author": "Mario Luigi",
+        "author_id": "UCcFxcnaarClOXnyWAsWLLJw",
+        "text": "This real enough?",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689825843,
+        "author": "Garrett Fox",
+        "author_id": "UCiewaFmNlKDrMVfhuP9GA5g",
+        "text": "Do some jumping jacks or something. GYAT.",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1689826125,
+        "author": "Garrett Fox",
+        "author_id": "UCiewaFmNlKDrMVfhuP9GA5g",
+        "text": "Africa is a pro-level call out.",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1689826182,
+        "author": "Garrett Fox",
+        "author_id": "UCiewaFmNlKDrMVfhuP9GA5g",
+        "text": "LOL",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1689826360,
+        "author": "DivineTiger97",
+        "author_id": "UC2qjHvHb-tea4OAm3XGmwDA",
+        "text": "thx for the r6 entertainment and for defending me earlier ",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1689826610,
+        "author": "Toast",
+        "author_id": "UCZKz1m0lf-hmOm5wpfVo0BA",
+        "text": "RIP brandon ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689827232,
+        "author": "Toast",
+        "author_id": "UCZKz1m0lf-hmOm5wpfVo0BA",
+        "text": "DUDE WHIPPED",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689827256,
+        "author": "Höst",
+        "author_id": "UC-6qQ2jcttXU2vY0N5pj9ag",
+        "text": "throw",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689827774,
+        "author": "Toast",
+        "author_id": "UCZKz1m0lf-hmOm5wpfVo0BA",
+        "text": "thatcher would have been better",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1689827967,
+        "author": "Toast",
+        "author_id": "UCZKz1m0lf-hmOm5wpfVo0BA",
+        "text": "gg nice try wings but your boys threw ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1689828866,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 93.88999999999999
+    }
+]
