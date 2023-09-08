@@ -1,0 +1,682 @@
+[
+    {
+        "event": "start",
+        "time": 1694141288,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694141290,
+        "author": "The Mysterious Drifter",
+        "author_id": "UCF2AXksdcIqx6Jo0Za2ZPCg",
+        "text": "None",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1694141527,
+        "author": "Bendy Wendy",
+        "author_id": "UC0eXCe2gA1uPqxAWziur5mw",
+        "text": "Hello everyone!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694141559,
+        "author": "Another Nobody",
+        "author_id": "UCM8nwUqxqG1hxte8nbvCgSQ",
+        "text": "Don’t worry TY, all of us do",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694141567,
+        "author": "Ty",
+        "author_id": "UC7n48RiMoqgR6kVFGg6mSQw",
+        "text": "I'm sorry but I hate wings",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1694141656,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "wendy is ban on sight at this point",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1694141664,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "she doesnt donate and all she does is troll",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694141705,
+        "author": "WingsOfVietDong",
+        "author_id": "UCUNMqXeLVkaU5TlANolxfNg",
+        "text": "Am I banned ?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694141753,
+        "author": "dopamine",
+        "author_id": "UCgradIQC6LnLXPl1ZwyuwEg",
+        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1694141802,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "i'll stream starfield tomorrow",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694141802,
+        "author": "Bojangles",
+        "author_id": "UCuuWPvS9WCiDAS4OD_Z2NiA",
+        "text": "Stand by your words face cam at 200",
+        "usd": 2.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1694141810,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "but its gonna be on a short leash",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694141883,
+        "author": "Bojangles",
+        "author_id": "UCuuWPvS9WCiDAS4OD_Z2NiA",
+        "text": "WHt",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694142021,
+        "author": "Pepsi",
+        "author_id": "UCkTVnrIxkGnjHcCDM6aupMA",
+        "text": "crack open a cold one pimp",
+        "usd": 1.46
+    },
+    {
+        "event": "superchat",
+        "time": 1694142239,
+        "author": "Shacklesjpg",
+        "author_id": "UC8XurKUNQInjjdGNfr9b8wQ",
+        "text": "Have you heard about what happened to EDP, plus have you played Starfield yet? First Impressions?",
+        "usd": 10.0
+    },
+    {
+        "event": "ban",
+        "time": 1694142305,
+        "author": "WingsOfVietDong",
+        "author_id": "UCUNMqXeLVkaU5TlANolxfNg",
+        "text": "You setting a face came goal to pay off starfield ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694142412,
+        "author": "Jobangles",
+        "author_id": "UCcjQ9rfHz1iKOgmn3h14KXQ",
+        "text": "I didn't spoil anything important, like siding with the emperor and the elder brain",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694142597,
+        "author": "KfMan",
+        "author_id": "UCKAs7sQ9In1oG1a8CmRkEzQ",
+        "text": "your bad mood is putting John in a bad mood",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694142768,
+        "author": "Alakazam",
+        "author_id": "UCZrzmYBdBdDAi9HRRgEzDQQ",
+        "text": "None",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1694143993,
+        "author": "Jaydon Evans",
+        "author_id": "UC995OgzTIo3MCgJJ7ve8QCQ",
+        "text": "is this prerecorded pimp ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694143993,
+        "author": "Riq Jelly",
+        "author_id": "UC6zN2KvaKr8MtWxe5nrBvwA",
+        "text": "Wings is playing support dood ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694144581,
+        "author": "Ben Gorodn",
+        "author_id": "UCkS7UjIdADF4_91C1kAKYig",
+        "text": "Shout out my boy Devon Erickson",
+        "usd": 2.06
+    },
+    {
+        "event": "ban",
+        "time": 1694144863,
+        "author": "Mebthe12luvulongtime",
+        "author_id": "UCUFXgwWTRkC_KgBM_5Qnz6A",
+        "text": "Hi Jordie, what is your opinion on the Oprah/Rock backlash?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694144871,
+        "author": "HubbaBubba",
+        "author_id": "UC7nrQ4u7JETya6CLnIryNOg",
+        "text": "did we hit the cam goal for this stream?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694145000,
+        "author": "HubbaBubba",
+        "author_id": "UC7nrQ4u7JETya6CLnIryNOg",
+        "text": "??",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694145000,
+        "author": "HubbaBubba",
+        "author_id": "UC7nrQ4u7JETya6CLnIryNOg",
+        "text": "??",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694145008,
+        "author": "Botched operations",
+        "author_id": "UCm-Bzkxnj4D602B8L06FzZQ",
+        "text": "A dream match would be a 2v2. Wings and LTG V.S Syndicate and Viscant",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694145008,
+        "author": "Botched operations",
+        "author_id": "UCm-Bzkxnj4D602B8L06FzZQ",
+        "text": "A dream match would be a 2v2. Wings and LTG V.S Syndicate and Viscant",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694145016,
+        "author": "Fire Fist Ace",
+        "author_id": "UC96XM8E7fm2qX5hl8TlOCVw",
+        "text": "wings what’s the most food uve ever ate in one sitting?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694145363,
+        "author": "JUSTICEFORNITRO",
+        "author_id": "UC26PpATVx-Qmwoitq-1D0dQ",
+        "text": "@Wings of Redemption can you unban your best friend nitro, he gives good advice",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1694145371,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "any mods in here?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694145420,
+        "author": "Alejandro Mendoza",
+        "author_id": "UC7ausbqmYBl3oIFmgI67BcQ",
+        "text": "Don't send me to ban world and why mods communist?",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1694145565,
+        "author": "YOUCANTHIDERICHARD",
+        "author_id": "UCVhpAzDw1TjhKJfb6nUmJwA",
+        "text": "talk about da church you cant hide we know",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694145669,
+        "author": "BadaBing",
+        "author_id": "UCDGr10idDl-eOPU051Y00rQ",
+        "text": "None",
+        "usd": 0.99
+    },
+    {
+        "event": "superchat",
+        "time": 1694145694,
+        "author": "Alejandro Mendoza",
+        "author_id": "UC7ausbqmYBl3oIFmgI67BcQ",
+        "text": "None",
+        "usd": 0.99
+    },
+    {
+        "event": "ban",
+        "time": 1694145734,
+        "author": "Carried Droner",
+        "author_id": "UCzzm4TmAColrHr7FsqqHeeA",
+        "text": "is this pre recorded?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694145742,
+        "author": "BadaBing",
+        "author_id": "UCDGr10idDl-eOPU051Y00rQ",
+        "text": "None",
+        "usd": 0.99
+    },
+    {
+        "event": "superchat",
+        "time": 1694145767,
+        "author": "Alejandro Mendoza",
+        "author_id": "UC7ausbqmYBl3oIFmgI67BcQ",
+        "text": "None",
+        "usd": 0.99
+    },
+    {
+        "event": "superchat",
+        "time": 1694145807,
+        "author": "BadaBing",
+        "author_id": "UCDGr10idDl-eOPU051Y00rQ",
+        "text": "None",
+        "usd": 0.99
+    },
+    {
+        "event": "superchat",
+        "time": 1694145903,
+        "author": "BadaBing",
+        "author_id": "UCDGr10idDl-eOPU051Y00rQ",
+        "text": "None",
+        "usd": 0.99
+    },
+    {
+        "event": "superchat",
+        "time": 1694146024,
+        "author": "BadaBing",
+        "author_id": "UCDGr10idDl-eOPU051Y00rQ",
+        "text": "None",
+        "usd": 0.99
+    },
+    {
+        "event": "superchat",
+        "time": 1694146137,
+        "author": "BadaBing",
+        "author_id": "UCDGr10idDl-eOPU051Y00rQ",
+        "text": "None",
+        "usd": 0.99
+    },
+    {
+        "event": "ban",
+        "time": 1694146717,
+        "author": "KEYLOGSBIGDINGDONG",
+        "author_id": "UCcxIb8AyLtdX8OoXJdVambQ",
+        "text": "you need to get better dood the money aint gonna carry the 450 pound land monster forever",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694146813,
+        "author": "NICKSAYSGO",
+        "author_id": "UCkLnbMmnl3sbPEMWplzH4mQ",
+        "text": "Give your mods a raise or else ",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1694146999,
+        "author": "Co Cola",
+        "author_id": "UClzv8qjgVV8rhMjjhswXhUA",
+        "text": "I wasnt even trolling ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694147184,
+        "author": "Mebthe12luvulongtime",
+        "author_id": "UCUFXgwWTRkC_KgBM_5Qnz6A",
+        "text": "Stop donating to @Wings of Redemption and start donating to the mods",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694147393,
+        "author": "play just dance wingo",
+        "author_id": "UCrSMrBI5Mq-4gAQtHRsZPwA",
+        "text": "None",
+        "usd": 0.73
+    },
+    {
+        "event": "ban",
+        "time": 1694147409,
+        "author": "None",
+        "author_id": "UCrSMrBI5Mq-4gAQtHRsZPwA",
+        "text": "None",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694147450,
+        "author": "lildiccdean2",
+        "author_id": "UCc72f6wCaloa1Xh_PsQ6Qew",
+        "text": "What’s the weight limit on your chair?",
+        "usd": 1.99
+    },
+    {
+        "event": "wings_message",
+        "time": 1694147586,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "john anybody talking about donations without trying to give them or trolling in general please time out",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694147643,
+        "author": "KfMan",
+        "author_id": "UCKAs7sQ9In1oG1a8CmRkEzQ",
+        "text": "how long til cam goes away I need the pity stream",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1694147651,
+        "author": "KfMan",
+        "author_id": "UCKAs7sQ9In1oG1a8CmRkEzQ",
+        "text": "how long til cam goes away I need the pity stream",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694147651,
+        "author": "KfMan",
+        "author_id": "UCKAs7sQ9In1oG1a8CmRkEzQ",
+        "text": "how long til cam goes away I need the pity stream",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694147699,
+        "author": "KfMan",
+        "author_id": "UCKAs7sQ9In1oG1a8CmRkEzQ",
+        "text": "how long til cam goes away I need the pity stream",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694147812,
+        "author": "lildiccdean2",
+        "author_id": "UCc72f6wCaloa1Xh_PsQ6Qew",
+        "text": "What hardware store did you get your chair from ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1694147868,
+        "author": "GloriaIP",
+        "author_id": "UC42QsuxjbATy_cXzgpPAJ5w",
+        "text": "don't superchat wings his mods will ban you anyway",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694147893,
+        "author": "Light Of The Twin Lamps",
+        "author_id": "UCZb4qM6VGpmz_gvnKcsvkNQ",
+        "text": "ayo pimp, yo shawty kelly finna look like a snack",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1694147925,
+        "author": "Jacob McKlowski",
+        "author_id": "UCqn9VgKOnAqJgaqQRmLX0-w",
+        "text": "He did ban someone who donated $2 earlier",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694147949,
+        "author": "Mauricio Rubio",
+        "author_id": "UCRQsKfXVlsbrBuYOb9_LtXA",
+        "text": "How much for a chair sniff pimp",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1694147981,
+        "author": "GloriaIP",
+        "author_id": "UC42QsuxjbATy_cXzgpPAJ5w",
+        "text": "@Matt because you aren't donating broke boy",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694148013,
+        "author": "Light Of The Twin Lamps",
+        "author_id": "UCZb4qM6VGpmz_gvnKcsvkNQ",
+        "text": "time to sniff pimp",
+        "usd": 50.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694148013,
+        "author": "NICKSAYSGO",
+        "author_id": "UCkLnbMmnl3sbPEMWplzH4mQ",
+        "text": "#PayYourMods",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1694148215,
+        "author": "KfMan",
+        "author_id": "UCKAs7sQ9In1oG1a8CmRkEzQ",
+        "text": "this is the opposite of no cam, please fix it",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1694148279,
+        "author": "jason ward",
+        "author_id": "UCB2wQTTcCxxN7n1zalofhGA",
+        "text": "yo",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694148376,
+        "author": "pumpkin",
+        "author_id": "UCP26NX4pTVyH69RZjz0eayg",
+        "text": "wings how much dono for OF live stream of popping smelly kelly’s cherry",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694148915,
+        "author": "Raul Tejada",
+        "author_id": "UCq87pheYl267wc1Uu-XJcog",
+        "text": "i farted ",
+        "usd": 2.69
+    },
+    {
+        "event": "ban",
+        "time": 1694149044,
+        "author": "Perc 31",
+        "author_id": "UCFVTzE-e19xGprlt-oZzrPg",
+        "text": "SHOUT OUT WINGS007",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694149173,
+        "author": "BrownMan3996",
+        "author_id": "UCUpxOiB6Nwko7LFJnHMqq-w",
+        "text": "Marlins coming for that WC spot pimp",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1694149382,
+        "author": "Connie Clarke",
+        "author_id": "UCP23ZSB-dNapUIScJUclKHQ",
+        "text": "Big ups Breaklng Banquet",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694149632,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": "None",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694149721,
+        "author": "Kevin Wu",
+        "author_id": "UCaMlnbtkyaMVWVn7A2qTr6A",
+        "text": "Big ups Breaklng Banquet and Wings0fSigrna",
+        "usd": 1.46
+    },
+    {
+        "event": "superchat",
+        "time": 1694149777,
+        "author": "BrownMan3996",
+        "author_id": "UCUpxOiB6Nwko7LFJnHMqq-w",
+        "text": "Gotta love these fun chill streams ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694150832,
+        "author": "Ayrton Carson",
+        "author_id": "UCGianZZzN95I1dFPtz8z15g",
+        "text": "Is it hard 4 a new player to become good at Siege?",
+        "usd": 4.0
+    },
+    {
+        "event": "ban",
+        "time": 1694151501,
+        "author": "SuperChatsRNotTips1109",
+        "author_id": "UCfGJdiTBK7xp2aTyTrHsonQ",
+        "text": "what you mean hes running around right not R6 is his cardio",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694152161,
+        "author": "Emp Ming Ming",
+        "author_id": "UCY-qaj-wwXfBuoQWvEz9wCQ",
+        "text": "Yo wings can i get a high pitch Pimp also shout out Lummox",
+        "usd": 20.0
+    },
+    {
+        "event": "ban",
+        "time": 1694152362,
+        "author": "FAT CHQDE",
+        "author_id": "UCOQC5T1xkCmy_hdpWiOl15w",
+        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694152379,
+        "author": "Joe The Hammer",
+        "author_id": "UCGCwqRr6SPHzSL-uDYoKLjQ",
+        "text": "I use dove fresh and clean",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1694153691,
+        "author": "Lucifer Arise",
+        "author_id": "UCMuIsST8VZw48_3uClvXTrg",
+        "text": "I love you, get em ",
+        "usd": 36.58
+    },
+    {
+        "event": "superchat",
+        "time": 1694153933,
+        "author": "Lucifer Arise",
+        "author_id": "UCMuIsST8VZw48_3uClvXTrg",
+        "text": "that's the currency difference, love you man ",
+        "usd": 7.32
+    },
+    {
+        "event": "superchat",
+        "time": 1694154126,
+        "author": "Lucifer Arise",
+        "author_id": "UCMuIsST8VZw48_3uClvXTrg",
+        "text": "nice kills brother ",
+        "usd": 7.32
+    },
+    {
+        "event": "ban",
+        "time": 1694154434,
+        "author": "Dr Bimbo",
+        "author_id": "UCyX7DzDmn7tmboU0nG0mvJA",
+        "text": ":musical_note:Just Dance :musical_notes: :musical_note:Just Dance :musical_notes: :musical_note:Just Dance :musical_notes: :musical_note:Just Dance :musical_notes: :musical_note:Just Dance :musical_notes:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694154442,
+        "author": "Chili Fried Mustang",
+        "author_id": "UCsFTCzQGcuL3rfCTTNZeL_A",
+        "text": ":musical_note:Just Dance :musical_notes: :musical_note:Just Dance :musical_notes: :musical_note:Just Dance :musical_notes: :musical_note:Just Dance :musical_notes: :musical_note:Just Dance :musical_notes:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694154724,
+        "author": "Average Nba YoungBoy fan",
+        "author_id": "UCad_TUqgKYeXc3dbaAveZeA",
+        "text": "Wings what are your thoughts on jägers and their tipping tendencies?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1694156069,
+        "author": "Llama87 - Gaming Channel",
+        "author_id": "UCisVOt92qlv_fw6Uam0zSkg",
+        "text": "you've sat in a room for 15 years",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1694156734,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 202.46999999999997
+    }
+]
