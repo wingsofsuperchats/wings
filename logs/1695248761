@@ -1,0 +1,434 @@
+[
+    {
+        "event": "start",
+        "time": 1695248761,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695248793,
+        "author": "respergu",
+        "author_id": "UCFTleus_uceYD-7zJX7CCeQ",
+        "text": "Mr Wings! Any thoughts on the Microsoft leaks? ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695248817,
+        "author": "DaggerDingus",
+        "author_id": "UCS38bTn5Tut9pH-yxL1Oulg",
+        "text": "You ever gonna play Starfield? I promise you’re gonna like it!",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1695248921,
+        "author": "Trevor Nicholls",
+        "author_id": "UC69Pnip3c0LjNTl0LvwFfVg",
+        "text": "We want Starfield ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695248946,
+        "author": "Girth Brooks",
+        "author_id": "UC9LsM-VCmH5pMJzIMjWQEyg",
+        "text": "Where is 672?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695249518,
+        "author": "The one and true bojangles",
+        "author_id": "UCpglHXmumnRCxoLN7luW8CA",
+        "text": "did you stream any of act 2",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695249735,
+        "author": "FREEOwnedbyChucky",
+        "author_id": "UCt7s3DFlRcqOSzzYWL7tGMw",
+        "text": "@Dan you'll be in banworld soon lmao",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695249816,
+        "author": "Jack",
+        "author_id": "UCr9uWXlgk-8jV-ua69FkRXw",
+        "text": "why don't you have 200 viewers?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695249816,
+        "author": "Jack",
+        "author_id": "UCr9uWXlgk-8jV-ua69FkRXw",
+        "text": "why don't you have 200 viewers?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695250049,
+        "author": "SVT1187",
+        "author_id": "UC81GeW2VRl2UxiEnuF1t9dg",
+        "text": "There is a person on twitch streaming with the name Realtawk they are using your photos currently live now. Not sure if you know anything about it. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695250049,
+        "author": "SVT1187",
+        "author_id": "UC81GeW2VRl2UxiEnuF1t9dg",
+        "text": "There is a person on twitch streaming with the name Realtawk they are using your photos currently live now. Not sure if you know anything about it. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695250065,
+        "author": "DinduNutinWong",
+        "author_id": "UC_OYG_JOsAaIozOFOQNQO6g",
+        "text": "SVT for real? imma go look out of curiousity",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695250122,
+        "author": "Spencer Wilson",
+        "author_id": "UCvK63B-HmiBi46nlw8YZBdA",
+        "text": "It definitely se",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695250146,
+        "author": "InsulinPump365",
+        "author_id": "UCBfudfLWCqpKQcsHg-jQnPA",
+        "text": "Thanks for the free content champ, but I would never donate a penny to you",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695250186,
+        "author": "Incognito",
+        "author_id": "UCYMfM9N64zoZS9SpGXCKz7g",
+        "text": "Hey wings, helping you reach your dono goal today. As a long time fan, I hope to see you get out of your comfort zone more and do amazing things. I love to see the happy and upbeat wings. I hope to see him more often.",
+        "usd": 130.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695250299,
+        "author": "L0 Swer",
+        "author_id": "UCuV6pdMuk-qrDd_ySeMf8Yg",
+        "text": "Big time fan hope to run some siege with you I’m a 4 time champ :smiling_face_with_sunglasses::smiling_face_with_sunglasses:",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1695250339,
+        "author": "Alakazam",
+        "author_id": "UCZrzmYBdBdDAi9HRRgEzDQQ",
+        "text": "vest goal reached ",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695250347,
+        "author": "L0 Swer",
+        "author_id": "UCuV6pdMuk-qrDd_ySeMf8Yg",
+        "text": "I play on ps5 ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1695250363,
+        "author": "respergu",
+        "author_id": "UCFTleus_uceYD-7zJX7CCeQ",
+        "text": "Vest time! ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695250597,
+        "author": "L0 Swer",
+        "author_id": "UCuV6pdMuk-qrDd_ySeMf8Yg",
+        "text": "Psn StateofDecay2 add when ya can !",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1695250750,
+        "author": "DNW",
+        "author_id": "UC8SUkEETA6ReJVEnJbUjfNQ",
+        "text": "@Wraith is there a way I can talk to a mod directly? I don't wanna be misunderstood I wanted ask something?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695250766,
+        "author": "Wraith",
+        "author_id": "UC4sbPjdqoazXoiuDSU7tFqQ",
+        "text": "Well at least you found out",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695250863,
+        "author": "Incognito",
+        "author_id": "UCYMfM9N64zoZS9SpGXCKz7g",
+        "text": "Also, the match with boggie was amazing man. I was so happy to see you do something like that. I hope to see you do more great things. If that's podcasts, working with other creators, whatever. I hope you're able to find another wave of sucess. ",
+        "usd": 70.0
+    },
+    {
+        "event": "ban",
+        "time": 1695250911,
+        "author": "Requiem",
+        "author_id": "UCwaILevkb12NM7PqlFi2FfA",
+        "text": "Jesus whale of the century over here ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695250983,
+        "author": "Bruh",
+        "author_id": "UC9XRBMg87LK8Xo-Jq35VxdQ",
+        "text": "bigups lummox",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695251120,
+        "author": "ComedyKorner",
+        "author_id": "UCNiWh3Gi8gS1yAE6NE-cf9g",
+        "text": "+1.5lbs",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695251330,
+        "author": "TeamSwagGod",
+        "author_id": "UCTRnZvUj5MGSD7wLt0Scx5A",
+        "text": "would you ever consider a penile enlargement surgery?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695251475,
+        "author": "L0 Swer",
+        "author_id": "UCuV6pdMuk-qrDd_ySeMf8Yg",
+        "text": "You running that siege at all tonight ? ",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1695251708,
+        "author": "N1C0YA",
+        "author_id": "UCgwN3ggtepT8xB9lyRvlVlA",
+        "text": "Ah got it brotha, it would be dope if pc and console had crossplay. We should def run it again if you have the time. The ystill have the 2v2 on modern warfare like we used to run it. But wish you good",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695252385,
+        "author": "Dark Shadow",
+        "author_id": "UC0KmGmILK3yJ50-dH3xrhKA",
+        "text": "Dsp for sure",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695252651,
+        "author": "Madd ",
+        "author_id": "UCpRUGqOOrF9rF1cLcg-o2sQ",
+        "text": " you can play as a god damned dinosaur? ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695252667,
+        "author": "respergu",
+        "author_id": "UCFTleus_uceYD-7zJX7CCeQ",
+        "text": "Can you pronounce \"water\" with british accent ?",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695252837,
+        "author": "adam m",
+        "author_id": "UCbQVoWjf9z0JJxkq5wf_7IA",
+        "text": "Recorded?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695253200,
+        "author": "Schlomo Goldman",
+        "author_id": "UCy9nKGTH8t8ASZ0W1t5Ac2g",
+        "text": "! 𝖭𝗅𝖦𝖦𝖤𝖱𝖥𝖠𝖦𝖦0𝖳",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695253216,
+        "author": "JuneBug",
+        "author_id": "UCcTgbxK2gb2KRtSA6aIi_Nw",
+        "text": "ban @Schlomo Goldman ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695253273,
+        "author": "OnePumpChump",
+        "author_id": "UC_lQ9-_rM-1_03Q83fMIuTQ",
+        "text": "YOU SAID YOU BOUGHT THE XBOX FOR STATFIELD DUDE",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695253394,
+        "author": "Biff Wink",
+        "author_id": "UCsF4QY-0JXnWzL1fGztRRXw",
+        "text": "Wings did you see the IRL clip of Judy Tester streaming?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695253959,
+        "author": "Spencer Strider",
+        "author_id": "UCFZQlTzSnw7td5O9H1MPuyw",
+        "text": "Thoughts on Acuna being 5 to 1 favorite for MVP",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1695254136,
+        "author": "Rpzzz",
+        "author_id": "UCggpdJgZ03r01HNGmc9-1Eg",
+        "text": "Can we get a Nick Chubb knee injury reaction?",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1695254443,
+        "author": "Rpzzz",
+        "author_id": "UCggpdJgZ03r01HNGmc9-1Eg",
+        "text": "YT Short by MrBowtie1982 has it",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1695254661,
+        "author": "Give Me Balance",
+        "author_id": "UCzpTIAQ8VTQPwP4hkB8QDTQ",
+        "text": "thanks for streaming wings your the best! Are you hyped for gta 6 :face_blowing_a_kiss: ",
+        "usd": 6.17
+    },
+    {
+        "event": "ban",
+        "time": 1695254790,
+        "author": "ConanCRUSHESyou",
+        "author_id": "UCamyoS5YSCj6p7tUDXz8iUA",
+        "text": "sup, fats?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695254871,
+        "author": "Aggressive Pickle",
+        "author_id": "UCh9eZbLtuFmzSPtMRA0gXOQ",
+        "text": "big ups wings dome",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695254871,
+        "author": "Untitled",
+        "author_id": "UCdTly7QyX6yKGSfp9U4dUBg",
+        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695255678,
+        "author": "Brujmoment",
+        "author_id": "UCZlWmYeeNR2kkIbeMcof49w",
+        "text": "shout out my main nigga DiccCheezy",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1695255904,
+        "author": "ShepDawg",
+        "author_id": "UCoaixGL1SCi2FH193XPjB0g",
+        "text": "preventative maintenance on a truck but not your own body, is that a 62iq take?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695255968,
+        "author": "J4k3",
+        "author_id": "UCq5mWM_5knj6l8T1GuX9Pag",
+        "text": "62 iq mods ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695256396,
+        "author": "My Name Is Richard",
+        "author_id": "UCvzjlOXVLiqxlR2F7mSjDrA",
+        "text": ":face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695256485,
+        "author": "Jackson A",
+        "author_id": "UCTYSshBrFTgFlSYtwqpW51Q",
+        "text": "wings you are a friend :)",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1695256533,
+        "author": "Thomas",
+        "author_id": "UC3TAYH6W1xIGcf6I5TXw_bw",
+        "text": "@Daxma people get bullied at 57 in the workplace",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695256905,
+        "author": "Thomas",
+        "author_id": "UC3TAYH6W1xIGcf6I5TXw_bw",
+        "text": "nice",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695257082,
+        "author": "ILostMyAccuracy",
+        "author_id": "UCfDWSHV9Qcl0y8zKE-qRErw",
+        "text": "Enjoying the Content have you ever tried path of exile with you being a D2 fan?",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695258373,
+        "author": "Michael Burke",
+        "author_id": "UC7rzy6kX4QDlir8HKNEIkVA",
+        "text": "Just a little somethin for ya pimp, wish I had more. I look forward to every stream. Love",
+        "usd": 9.99
+    },
+    {
+        "event": "end",
+        "time": 1695260297,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 273.06000000000006
+    }
+]
