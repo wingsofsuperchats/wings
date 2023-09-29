@@ -1,0 +1,546 @@
+[
+    {
+        "event": "start",
+        "time": 1695989281,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695989282,
+        "author": "Joker 🃏",
+        "author_id": "UCAlkRzI-aBkX_nLyyLqW6ww",
+        "text": "None",
+        "usd": 1.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695989282,
+        "author": "Rahul",
+        "author_id": "UCubqV9usk2sACvgT2g53B4Q",
+        "text": "Let’s do something boys!!",
+        "usd": 5.18
+    },
+    {
+        "event": "ban",
+        "time": 1695989306,
+        "author": "Derich lp",
+        "author_id": "UCXShmJV4vcWNZeBbYtOjugw",
+        "text": "Hey @wingsofredemption I think you accidentally banned me the other day",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695989339,
+        "author": "RogerGoooooodell",
+        "author_id": "UCFG_7EIFujP1Bg-_8m5Yvww",
+        "text": "luv u",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695989371,
+        "author": "mariuz",
+        "author_id": "UCl23_g2nP6quB6IO5lLUePg",
+        "text": "None",
+        "usd": 0.64
+    },
+    {
+        "event": "superchat",
+        "time": 1695989476,
+        "author": "Blackout",
+        "author_id": "UC7becUUsx-UcJBa2UaZ3zug",
+        "text": "I know one game you could play ",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1695989645,
+        "author": "Cheese Head69",
+        "author_id": "UC2wwHg-LZ8lH5U_ckKzJyCw",
+        "text": "For some reason I can’t dm you on Twitter, can you read the dm message I sent you on discord? No need to respond right away. Hope everything is going well playa.",
+        "usd": 19.99
+    },
+    {
+        "event": "superchat",
+        "time": 1695989645,
+        "author": "Nerdling Rush!",
+        "author_id": "UCz-ICx-zCnleTe2hQzA1xOw",
+        "text": "this is for the first hour of lies of p",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695989750,
+        "author": "Dylan Spence",
+        "author_id": "UCtFVvYah1MW3521C6gAmzOQ",
+        "text": "2nd hours of lies of p",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695989980,
+        "author": "Ant V",
+        "author_id": "UCj8S3zUu6MAerUN7DDGFbhg",
+        "text": "fat man Pepsi",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695991342,
+        "author": "Rahul",
+        "author_id": "UCubqV9usk2sACvgT2g53B4Q",
+        "text": "I think all speeders should gave the death penalty ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695991947,
+        "author": "pizza bagel",
+        "author_id": "UC4bMrqgux4Cc14yIV0J-KDA",
+        "text": "Donate more",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695991987,
+        "author": "Robert Odessa",
+        "author_id": "UCR34eFECkr-jeoon_qLQ9-w",
+        "text": "Slob ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695992132,
+        "author": "StilgoneOvich",
+        "author_id": "UC54nL2OnOYDJrikmQfsTN9Q",
+        "text": "Do you not think cops have gotten worse because of people’s attitudes like yours?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695992269,
+        "author": "JuanDaCableMan",
+        "author_id": "UCzohl8qm2m1iBKUEn0PbCSQ",
+        "text": "Need some cop killers on deck",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695992415,
+        "author": "pizza bagel",
+        "author_id": "UC4bMrqgux4Cc14yIV0J-KDA",
+        "text": "Wings can we eat sardines on stream:hugging_face::hugging_face::hugging_face:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695993052,
+        "author": "Happy Chappy",
+        "author_id": "UC5V9SCPcUUvd9dxkXIjkxBQ",
+        "text": "Like weight loss surgery? Was that designed to be failed?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695993247,
+        "author": "Rahul",
+        "author_id": "UCubqV9usk2sACvgT2g53B4Q",
+        "text": "This is gettin to be aloe. ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695993247,
+        "author": "loix",
+        "author_id": "UC1eZqcjmN0NhWl3hMhW1rZg",
+        "text": "Update on the lolcow podcast? ",
+        "usd": 2.45
+    },
+    {
+        "event": "superchat",
+        "time": 1695993330,
+        "author": "Rudelude",
+        "author_id": "UC5KPpG7klN4v66SHGOZH_ew",
+        "text": "How many traffic stops happen a day? Probably a lot and since you have found the few bad cops on the internet it makes all of them bad? ",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1695993776,
+        "author": "pie",
+        "author_id": "UCLjR26pThDVwbz8S_E4og5w",
+        "text": "another depressing stream topic lmao",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695993784,
+        "author": "Sirro Minus1",
+        "author_id": "UCYvVlzieDVQeetMXc1cuv0A",
+        "text": "eeeyy wings do you have favorite Knee Grow? ",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695994084,
+        "author": "Frans",
+        "author_id": "UCJdBry77fb1r1bq7BWeAHNw",
+        "text": "Did you actually kill a cat ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695994221,
+        "author": "Sacred",
+        "author_id": "UC-prmyI91v1lLU7yQoFueoQ",
+        "text": "Get a part time job?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695994245,
+        "author": "KJ",
+        "author_id": "UCPtxCdlCIE_1hIuTAyW7N8g",
+        "text": "Do better with money it’s not our fault you can’t afford shit ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695994270,
+        "author": "KJ",
+        "author_id": "UCPtxCdlCIE_1hIuTAyW7N8g",
+        "text": "You tried to get a donation goal twice for just dance but you can’t even play it? Scumbag ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695994593,
+        "author": "Austin",
+        "author_id": "UCtUdkXENnV4GrNfFRlkJ6BQ",
+        "text": "Hi wings channel. I'm gonna spend some money on beer and alchohol tonight so I thought I might as well send a 15 piece your way. Have a beautiful stream man.",
+        "usd": 15.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695994634,
+        "author": "Giopool Gaming",
+        "author_id": "UCbO1_sMtjo0fGWjSrk2TZWA",
+        "text": "Hey wings love your streams how’s life big ups to you you’re a king",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1695994868,
+        "author": "Giopool Gaming",
+        "author_id": "UCbO1_sMtjo0fGWjSrk2TZWA",
+        "text": "Will you watch the new saw movie ",
+        "usd": 9.99
+    },
+    {
+        "event": "ban",
+        "time": 1695994949,
+        "author": "Uncle Paul",
+        "author_id": "UC00Bl5qVPEsx6jggpgpN3vQ",
+        "text": "Jigsaw-Do you wanna play a game? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695995208,
+        "author": "Brian Davis",
+        "author_id": "UC3oWGI8qeg-EtrqAj8dGwgg",
+        "text": "Brandy got blacked",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695995208,
+        "author": "Brian Davis",
+        "author_id": "UC3oWGI8qeg-EtrqAj8dGwgg",
+        "text": "Brandy got blacked",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695995217,
+        "author": "Brian Davis",
+        "author_id": "UC3oWGI8qeg-EtrqAj8dGwgg",
+        "text": "Brandy got blacked",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695995420,
+        "author": "Joey Stufflebeam",
+        "author_id": "UCJOGjGtSfybtkFoH8k9hD8g",
+        "text": "None",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1695995420,
+        "author": "Giopool Gaming",
+        "author_id": "UCbO1_sMtjo0fGWjSrk2TZWA",
+        "text": "Wings I want to give you this money cause you have been inspiring me to stream ",
+        "usd": 9.99
+    },
+    {
+        "event": "ban",
+        "time": 1695995711,
+        "author": "JP Haldeman",
+        "author_id": "UCrd8gTDd91wouJORXJMZ5vQ",
+        "text": "Blade drinks himself to death, Wings eats himself to death. Same thing ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695995849,
+        "author": "The one and true bojangles",
+        "author_id": "UCpglHXmumnRCxoLN7luW8CA",
+        "text": "it's like how you fundraiser for the surgery then bought a 40k mustang",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695995881,
+        "author": "Giopool Gaming",
+        "author_id": "UCbO1_sMtjo0fGWjSrk2TZWA",
+        "text": "I wanna stream call of duty ",
+        "usd": 9.99
+    },
+    {
+        "event": "ban",
+        "time": 1695995986,
+        "author": "Happy Chappy",
+        "author_id": "UC5V9SCPcUUvd9dxkXIjkxBQ",
+        "text": "Hahahah you fucking suck at this game",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695995986,
+        "author": "Happy Chappy",
+        "author_id": "UC5V9SCPcUUvd9dxkXIjkxBQ",
+        "text": "Hahahah you fucking suck at this game",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695996188,
+        "author": "Brian Davis",
+        "author_id": "UC3oWGI8qeg-EtrqAj8dGwgg",
+        "text": "why are you name dropping?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695996237,
+        "author": "loix",
+        "author_id": "UC1eZqcjmN0NhWl3hMhW1rZg",
+        "text": "Have u lost weight or's it a big shirt. Do a 360°?",
+        "usd": 2.45
+    },
+    {
+        "event": "ban",
+        "time": 1695996285,
+        "author": "Memo Sent Me",
+        "author_id": "UC5f6IvlLqweZnLRt2eb06xQ",
+        "text": "@Wings of Redemption minimal effort=minimal donos",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695996472,
+        "author": "Karmic Justice",
+        "author_id": "UCBRSxG6I8TutnywwvygGkKA",
+        "text": "Tea is almost as disabled as her husband ",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1695996480,
+        "author": "None",
+        "author_id": "UCBRSxG6I8TutnywwvygGkKA",
+        "text": "Tea is almost as disabled as her husband ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695996561,
+        "author": "thefaceofFuzz",
+        "author_id": "UC0wZDfagwwJkzOCK0Phx-pQ",
+        "text": "Mornin Jordie and chat!",
+        "usd": 20.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695996569,
+        "author": "Giopool Gaming",
+        "author_id": "UCbO1_sMtjo0fGWjSrk2TZWA",
+        "text": "Can we play a game together one day",
+        "usd": 9.99
+    },
+    {
+        "event": "ban",
+        "time": 1695996650,
+        "author": "Derich Ip",
+        "author_id": "UC55SK677p3_UiT7lovASjCA",
+        "text": "wing are u balding:shushing_face::shushing_face: i have a cream for that it called xena",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695996788,
+        "author": "loix",
+        "author_id": "UC1eZqcjmN0NhWl3hMhW1rZg",
+        "text": "Wings do you fw Assassin's creed, thoughts on 3?",
+        "usd": 2.45
+    },
+    {
+        "event": "ban",
+        "time": 1695998262,
+        "author": "Wraith",
+        "author_id": "UC4sbPjdqoazXoiuDSU7tFqQ",
+        "text": "Trucker wings arc",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695998926,
+        "author": "The one and true bojangles",
+        "author_id": "UCpglHXmumnRCxoLN7luW8CA",
+        "text": "like when you did the fundraiser and bought an 80k mustang",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695998983,
+        "author": "Lazy Bean",
+        "author_id": "UC52UWnlW3sHwHUrNF923ygQ",
+        "text": ":face-red-droopy-eyes:where de donos at:face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695999007,
+        "author": "The one and true bojangles",
+        "author_id": "UCpglHXmumnRCxoLN7luW8CA",
+        "text": "thank you for getting the 80k joke, you're smarter than your dumb mods",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1695999194,
+        "author": "The one and true bojangles",
+        "author_id": "UCpglHXmumnRCxoLN7luW8CA",
+        "text": "@Wings you ready to financially fail your family? Streaming career is dying",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695999226,
+        "author": "Girth Brooks",
+        "author_id": "UC9LsM-VCmH5pMJzIMjWQEyg",
+        "text": "What’s up :egg2: ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695999242,
+        "author": "Pretty Lou",
+        "author_id": "UCRJNqLAuiGLo9rLru_vLWrw",
+        "text": "@Wings Of Redemption all I can tell you for real is that this will blow up in your face later on when you start overreacting again. You gotta actually do something positive with your attitude.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695999250,
+        "author": "Girth Brooks",
+        "author_id": "UC9LsM-VCmH5pMJzIMjWQEyg",
+        "text": "What’s up :egg2: ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1695999250,
+        "author": "The one and true bojangles",
+        "author_id": "UCpglHXmumnRCxoLN7luW8CA",
+        "text": "@Wings really getting emotional over a video game? more than your wife's health",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695999557,
+        "author": "Uhhh Okay",
+        "author_id": "UC_HuTfir7OYseSejAkYiTZw",
+        "text": "Big Mac is lower class delicacy",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1695999646,
+        "author": "Pretty Lou",
+        "author_id": "UCRJNqLAuiGLo9rLru_vLWrw",
+        "text": "@tea no one cares about your weird meat dawg",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695999695,
+        "author": "Dmac ski",
+        "author_id": "UCNebpkGA4uysWgEOd5zO5eA",
+        "text": "I need banana, tasty banana. Put banana in my mouth, squeeze the peel it come in then out. Squeeze Banana. ",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1695999800,
+        "author": "doden",
+        "author_id": "UChOO8l-P9oqnGkKp3xVuREw",
+        "text": "Team divorce or team health?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1695999800,
+        "author": "Dmac ski",
+        "author_id": "UCNebpkGA4uysWgEOd5zO5eA",
+        "text": "You should try Culver’s ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1695999913,
+        "author": "Uhhh Okay",
+        "author_id": "UC_HuTfir7OYseSejAkYiTZw",
+        "text": "Look up the new Azami Elite. Sexy asf",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1696000042,
+        "author": "Golden God",
+        "author_id": "UCZ8sTbxEXV0_QObFOn3adNQ",
+        "text": "Stop giving advice to wings. He ignores it and just makes up excuses",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696000318,
+        "author": "Slog",
+        "author_id": "UCxoWnkOTRn5Ai_IVsYqakxg",
+        "text": "You realise you have a wife? You should be talking like that. ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1696002270,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 163.04000000000002
+    }
+]
