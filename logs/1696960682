@@ -1,0 +1,658 @@
+[
+    {
+        "event": "start",
+        "time": 1696960682,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696960683,
+        "author": "Franklin",
+        "author_id": "UClsY39SOtiqxZ2U5mlANGOQ",
+        "text": "None",
+        "usd": 0.99
+    },
+    {
+        "event": "superchat",
+        "time": 1696960683,
+        "author": "Respect The Plight",
+        "author_id": "UCOSLogMPuFcONstpgJkOZrw",
+        "text": "2 bucks in honor of the Braves and that last play",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1696960683,
+        "author": "Moe Lester ",
+        "author_id": "UCSXcxhv_IYvdAG_qs9YI_iQ",
+        "text": "Big ups LUMMOX",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696960692,
+        "author": "KoopaCzar",
+        "author_id": "UCXyeKzbcLiIjxafcQxPiXMQ",
+        "text": "Would anyone take a $100 just to play destiny for a an hour or so? Seems like a bad deal these days….",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696960705,
+        "author": "Immortal_Witch",
+        "author_id": "UC9wHHIhzkA1juBUOGwBuenw",
+        "text": "So no destiny?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696960714,
+        "author": "Brody Austin",
+        "author_id": "UChXLj4n5do0KDuGaNPhBstg",
+        "text": "where's destiny 2 at",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696960722,
+        "author": "Jesse",
+        "author_id": "UC8_mAHNC7VZzhWSpyEsEnsA",
+        "text": "So, what you're saying is, no Destiny 2.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696960738,
+        "author": "Molag Bal",
+        "author_id": "UC6919q8rP8p0_YPY032xuJw",
+        "text": "he's not interacting with chat, defo pre recorded",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696960762,
+        "author": "WILMER GALVEZ-HERNANDEZ",
+        "author_id": "UCaN-iFDj1bHhqNWmhhcf_ng",
+        "text": "Wait is this really prerecorded?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696960859,
+        "author": "The Mysterious Drifter",
+        "author_id": "UCF2AXksdcIqx6Jo0Za2ZPCg",
+        "text": "None",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1696960916,
+        "author": "Grilled Chicken Sandwich",
+        "author_id": "UCuDq8vRQewfF8vSLeD0CYkQ",
+        "text": "This is worst than destiny",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696960916,
+        "author": "Zack Talks Puro",
+        "author_id": "UCCJw-SwFsjvyaLjaSqAJUPw",
+        "text": "this is so boring",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696960924,
+        "author": "G P",
+        "author_id": "UC2i1KNejFeDXsuLbzpsLSXw",
+        "text": "@Twisty Misty big brain play",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696960932,
+        "author": "French Croissant",
+        "author_id": "UCx2lqx8IAgss65umTrJ3tJw",
+        "text": "\"why isnt my channel growing\"",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696960989,
+        "author": "TheKillingWomb",
+        "author_id": "UCuJW6CvHRgz2C2oE7cV4HJA",
+        "text": "Favorite Alice in Chains song? Love you Jordie!",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1696961111,
+        "author": "LilWayneWayneRooney",
+        "author_id": "UCwovVnUfe2h3aYyVpTPivgQ",
+        "text": "Destiny 2",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696961135,
+        "author": "Willy2Guns",
+        "author_id": "UCqIML6ODSDzQfoq5jPJ-5Zg",
+        "text": "RIP Bernie Gores",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696961151,
+        "author": "TheDanimal97",
+        "author_id": "UCZn8D30hWtJ2nGfuG9UCczw",
+        "text": "Hey Jordie, apparently you died in the Israeli/Hamas war...",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696961224,
+        "author": "Dan Dan!",
+        "author_id": "UCiBz12gCVfF1rz5W38Txw7g",
+        "text": "Hi wings, would you recommend Diablo 2? I liked 3 and 4 but 2 looks a bit outdated imo. Ik zoomer take lol. Thanks for the fun content. Also have you played persona 5 or any persona game? ",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1696961329,
+        "author": "Soul Psych Records",
+        "author_id": "UCGG7AwbOhyHLFmsGVA0K_MQ",
+        "text": "sing us another song PIMP. Maybe some death metal",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1696961912,
+        "author": "Dan Dan!",
+        "author_id": "UCiBz12gCVfF1rz5W38Txw7g",
+        "text": "Have you ever played a persona game wings?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962009,
+        "author": "Jeandalf",
+        "author_id": "UC6x2ZKVzajwUJ9bPF9bYh4A",
+        "text": "so he scammed another donator by not playing destiny when they payed for it?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962468,
+        "author": "WingsOfBottomFragging",
+        "author_id": "UC2JwJhQmBAN_W9mB5NIBW9Q",
+        "text": "why are people still talking about blackout?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962476,
+        "author": "Joshua Ceballos",
+        "author_id": "UCNwi4lvCdgoDRCoQSMswHpQ",
+        "text": "#justice4blackout",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962476,
+        "author": "Samuel Hyde",
+        "author_id": "UCGQ4PSRjnnf-q5mrLAf-RnQ",
+        "text": "Literally obese, cant cook, perpetually inside, cant be bothered to play a free videogame after being given money - complains about feeling depressed. omegalul",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962485,
+        "author": "Basket",
+        "author_id": "UC2qEIVCdg4w4hRur7KLUEKA",
+        "text": "He has a vacuum business remember ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962493,
+        "author": "Pickle",
+        "author_id": "UCE2mfO1pkfXDxJRhgFWJnaQ",
+        "text": "Blackout get your money back man",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962493,
+        "author": "GlowTroy",
+        "author_id": "UCbGgTUnQL7-0shgKFTy6Gmg",
+        "text": "Pepsi bandit are you streaming destiny ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962493,
+        "author": "Bojangles",
+        "author_id": "UCi4JFyrAycLdWmR6bF-wMPg",
+        "text": "Big ups Samuel Hyde in chat, huge fan",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962510,
+        "author": "Leon Rififi",
+        "author_id": "UCeNuvETh_rsK2Jff2zsfJkw",
+        "text": "J4B",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962510,
+        "author": "Back Seat Gaming",
+        "author_id": "UC1-Sy-I1yT3SosAgncyMj5w",
+        "text": "LUMMOX ARE YOU SEEING THIS",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962518,
+        "author": "Jeandalf",
+        "author_id": "UC6x2ZKVzajwUJ9bPF9bYh4A",
+        "text": "no you have promised",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962526,
+        "author": "RandyLeftHandy",
+        "author_id": "UCEXSuv54cE1gkp_aczo8FDg",
+        "text": "more like talking at chat",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962534,
+        "author": "Kryptonite Krunch",
+        "author_id": "UCRR_YtCXI-cN9ulDuPOXVrg",
+        "text": "Pepsi man",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962543,
+        "author": "WingsOfBottomFragging",
+        "author_id": "UCoRvD1Ro6drEI3vGdBlQtFw",
+        "text": "chat seems toxic",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962543,
+        "author": "GetRektSlob 187",
+        "author_id": "UChbJ0eEd1RVVUBIsu7PbVmA",
+        "text": "Wings won’t play Destiny bc it’s a grind. Proceeds to play Diablo. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962551,
+        "author": "urbanexcursion",
+        "author_id": "UCofM1725W0ZJmq5dCIT1pcw",
+        "text": "you're not talking to chat. you're talking to yourself",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962575,
+        "author": "Bojangles",
+        "author_id": "UChOGKFdzd49N87jRiGHW6Kw",
+        "text": "it's whiteins fault. he never asked jordies price for d2 he just thought if he threw money at him he HAD to play it",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962624,
+        "author": "Just A Llama",
+        "author_id": "UCqJuhvje9CEeZaPmpcqXHgw",
+        "text": ":face-red-droopy-eyes::face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962624,
+        "author": "ArtfulAllsop",
+        "author_id": "UCHjOqXvPZ3H3oREjdTlS78g",
+        "text": ":face-red-droopy-eyes::face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962745,
+        "author": "Jaws Plays",
+        "author_id": "UCdGbQJ-ZE_NPXPorv_Inz-A",
+        "text": "Destiny 2?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696962769,
+        "author": "Goodyear Blimp Lyric Bot",
+        "author_id": "UCIVdtabATsuC2T5I-ieY6Rw",
+        "text": "Make you high for a dollar that's the way I pimp gold links and minks and shrimpDinners on the bayou them is all of the things that ain't gonna by you",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696962777,
+        "author": "Not Bojangles",
+        "author_id": "UCvFHcTuMhA7I-0a97KmlpPg",
+        "text": "thanks mod who ban me for saying wings was right",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1696963100,
+        "author": "Goodyear Blimp Lyric Bot",
+        "author_id": "UCIVdtabATsuC2T5I-ieY6Rw",
+        "text": "Lit up like the 4th I'm a happy drunk come to papa big momma 'cause yourDaddy's drunk I want to pump pump it up like the Goodyear blimp",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696963181,
+        "author": "SuperChatsRNotTips1109",
+        "author_id": "UCfGJdiTBK7xp2aTyTrHsonQ",
+        "text": "basically what hes saying is little words make big boy cranky",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696963181,
+        "author": "Kelly Dongola",
+        "author_id": "UCKmjyrin6um92f7PWOzCqWA",
+        "text": "eh wha?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696963229,
+        "author": "Guardsman",
+        "author_id": "UC_85IrfHV3knZ3olIvrImxA",
+        "text": "MODS DO YOUR FUXKING JOB",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696963310,
+        "author": "Ir3353",
+        "author_id": "UC-haNan02YxVb1a__kCu1Bg",
+        "text": "Serious question: why not play it now instead of this boring Diablo stream?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696963350,
+        "author": "Chinese Baby",
+        "author_id": "UCD_GirqaSL_k47IqsIC4YrQ",
+        "text": "did you hear that noise pieeeemp??",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696963513,
+        "author": "Coughjaw 01",
+        "author_id": "UClWYrt6z6FiWKQgs_fnzfrQ",
+        "text": "jesus that's a fat dude",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696963537,
+        "author": "Back Seat Gaming",
+        "author_id": "UC1-Sy-I1yT3SosAgncyMj5w",
+        "text": "hows the dono goal going",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696963812,
+        "author": "Friendly Homie",
+        "author_id": "UCAaxJ9fwy7rCbHSxuxwJ7Cg",
+        "text": "150 baseball IQ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696964120,
+        "author": "Not Bojangles",
+        "author_id": "UCvFHcTuMhA7I-0a97KmlpPg",
+        "text": "this is my last sock, here 2 for protection",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1696964273,
+        "author": "Desert Cruiser",
+        "author_id": "UCvBanoP2DTojjvSMvrgFt5w",
+        "text": "you gotta do Blackout right and play Destiny 2 1 time",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696964411,
+        "author": "FinalLaugh87",
+        "author_id": "UCsK616KuOgX5wo_nHsPrKxA",
+        "text": "I'm off today smoking ribs and enjoying this stream. May you have a great week, Pimp! Was Diablo 4 really that bad? ",
+        "usd": 50.0
+    },
+    {
+        "event": "ban",
+        "time": 1696964509,
+        "author": "Chrono Frog",
+        "author_id": "UCM95QDaYRy8lq5qVirJq8sA",
+        "text": "“Thanks for the 50 dollars man” = I won’t play destiny 2 after blackout donated ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696964841,
+        "author": "nukesaturn",
+        "author_id": "UC2-Wr9rQqyTa3WeS-nnbzGA",
+        "text": "so the Orioles are just cooked, huh?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696964914,
+        "author": "Matt Mireles",
+        "author_id": "UC0rnc_vUW-myNWzDT1umIoQ",
+        "text": "When is the Destiny 2 stream scheduled for? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696965449,
+        "author": "Ryan Giggs Shagger",
+        "author_id": "UCxwDhzH7_fddI1cRdSEp1sg",
+        "text": "big ups bernie gores",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696965683,
+        "author": "Not Bojangles",
+        "author_id": "UCvFHcTuMhA7I-0a97KmlpPg",
+        "text": "thank you final laugh for not donating for a game to be played. You donate to donate no anterior motives",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696965764,
+        "author": "901aerol",
+        "author_id": "UCgRmy6GfcpyI65BmCHJ3Z-Q",
+        "text": "is kelly still preachin?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696965844,
+        "author": "Yumehami",
+        "author_id": "UCWPchVifBvx9Gp8DdwbWw0g",
+        "text": "isn't Kelly a Muslim ?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696965869,
+        "author": "sosuke aizen",
+        "author_id": "UCzIQ9EnBZhgP3PccMm5T-kg",
+        "text": "does kellys family know you are an outspoken athiest online?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696965869,
+        "author": "Not Bojangles",
+        "author_id": "UCvFHcTuMhA7I-0a97KmlpPg",
+        "text": "have you ever stepped foot in a church? did you burst into flames as an ahtiest",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696965958,
+        "author": "Ballzuckerberg",
+        "author_id": "UCGv-6VA_-cgmHKoStZ6j0yA",
+        "text": "does kelly struggle with you being atheist?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696966132,
+        "author": "Matt Mireles",
+        "author_id": "UC0rnc_vUW-myNWzDT1umIoQ",
+        "text": "What happened to Destiny 2? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696967557,
+        "author": "Drag Coeffcient",
+        "author_id": "UCLbaqo4HfKlOI5MQjR8bLmA",
+        "text": "Disgusting slob",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696967889,
+        "author": "M W",
+        "author_id": "UCHcMvli5LV6IMjKiP3ctzVw",
+        "text": "Just here to dislike and get banned, I’ll be back next video to dislike it again. Not a bot btw JJ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696968542,
+        "author": "Maxywoo",
+        "author_id": "UCbM7Qyo9Y4Qfx6V-BXUUAuA",
+        "text": "None",
+        "usd": 1.23
+    },
+    {
+        "event": "superchat",
+        "time": 1696968759,
+        "author": "Lucifer Arise",
+        "author_id": "UCMuIsST8VZw48_3uClvXTrg",
+        "text": "Hey buddy hope your having a good one !",
+        "usd": 7.36
+    },
+    {
+        "event": "ban",
+        "time": 1696969331,
+        "author": "Spats",
+        "author_id": "UCBPDW1nVjV8iJ8kBNVd1jbQ",
+        "text": "Wings how are you not gonna play destiny when that one guys given you thousands of dollars",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696970260,
+        "author": "Joseph",
+        "author_id": "UCXM2rnxt1ygfkTP5RQ-Hh8w",
+        "text": "Thoughts on the stream schedule lummox posted? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696972775,
+        "author": "skarsgard",
+        "author_id": "UCQRGjV9CcZsTAdtcnBZWo-Q",
+        "text": "still havent hit donation goal pimp",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1696972953,
+        "author": "Jimmy JimJim",
+        "author_id": "UC4G8EleSokRTIgPqIZLokmA",
+        "text": "Hey J, have u seen the wingsofworkaholic calendar",
+        "usd": 2.64
+    },
+    {
+        "event": "ban",
+        "time": 1696973122,
+        "author": "slexDysicpanda",
+        "author_id": "UCYv-wtn4TEmYuR2lDVcQsBQ",
+        "text": "Wait I just tuned in I’m never this early for the donation whining ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696973187,
+        "author": "sdasd asdsaddas",
+        "author_id": "UCP4-xKoEKhieg9HxzaFpV0A",
+        "text": "DESTINY 2",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696973259,
+        "author": "sdasd asdsaddas",
+        "author_id": "UCP4-xKoEKhieg9HxzaFpV0A",
+        "text": "blackout",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696973300,
+        "author": "Dan Kincaid",
+        "author_id": "UCYelzOTLLfd41VKBK_Qw8GA",
+        "text": "Remember when you scammed blackout for $99",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696973550,
+        "author": "Gaara_Yuzawa1",
+        "author_id": "UC_niprtr-tq1meN6Q01YlJw",
+        "text": "when you gonna pay your taxes",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1696973590,
+        "author": "Jimmy JimJim",
+        "author_id": "UC4G8EleSokRTIgPqIZLokmA",
+        "text": "RIP Bernard Gores the Rabbi killed under a Wendy’s which was hit with an Israeli Drone ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1696974424,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 87.19000000000001
+    }
+]
