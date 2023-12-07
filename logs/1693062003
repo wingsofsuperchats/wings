@@ -81,14 +81,6 @@
     },
     {
         "event": "ban",
-        "time": 1693064778,
-        "author": "TMK FVTVRE",
-        "author_id": "UC-oh7ldKXV2DBogEPHq1jog",
-        "text": "100% Joshua",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1693064843,
         "author": "Mebthe12luvulongtime",
         "author_id": "UCUFXgwWTRkC_KgBM_5Qnz6A",
@@ -98,22 +90,6 @@
     {
         "event": "ban",
         "time": 1693064899,
-        "author": "TMK FVTVRE",
-        "author_id": "UC-oh7ldKXV2DBogEPHq1jog",
-        "text": "British accent wings",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1693064907,
-        "author": "TMK FVTVRE",
-        "author_id": "UC-oh7ldKXV2DBogEPHq1jog",
-        "text": "British accent wings",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1693064989,
         "author": "TMK FVTVRE",
         "author_id": "UC-oh7ldKXV2DBogEPHq1jog",
         "text": "British accent wings",
@@ -218,14 +194,6 @@
     {
         "event": "ban",
         "time": 1693067099,
-        "author": "Albert W.",
-        "author_id": "UCIJYa94HV-o8d-e5OKjMFyg",
-        "text": ":face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1693067107,
         "author": "Albert W.",
         "author_id": "UCIJYa94HV-o8d-e5OKjMFyg",
         "text": ":face-red-droopy-eyes:",

@@ -193,14 +193,6 @@
     },
     {
         "event": "ban",
-        "time": 1689815003,
-        "author": "TMK FVTVRE",
-        "author_id": "UC-oh7ldKXV2DBogEPHq1jog",
-        "text": "got a Rocko",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1689815189,
         "author": "TMK FVTVRE",
         "author_id": "UC-oh7ldKXV2DBogEPHq1jog",
@@ -281,14 +273,6 @@
     },
     {
         "event": "ban",
-        "time": 1689817343,
-        "author": "Pepe",
-        "author_id": "UCVriRMB3hJrRA0uofewEEkw",
-        "text": "If it's pre-recorded why not just show footage of you playing good?",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1689817617,
         "author": "bearsfan1109",
         "author_id": "UChsq96bwSVA4RcJU7Yg4G8Q",
@@ -314,14 +298,6 @@
     {
         "event": "ban",
         "time": 1689817802,
-        "author": "Casey Ledoux",
-        "author_id": "UCJ44JsfHLgm3OhExjc6xmCw",
-        "text": "1v1 :cheese_wedge:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1689817811,
         "author": "Casey Ledoux",
         "author_id": "UCJ44JsfHLgm3OhExjc6xmCw",
         "text": "1v1 :cheese_wedge:",
@@ -386,14 +362,6 @@
     {
         "event": "ban",
         "time": 1689819392,
-        "author": "Grant Bolen",
-        "author_id": "UCRR4UABfsF8f8hLhQS2WBgQ",
-        "text": "^",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1689819432,
         "author": "Grant Bolen",
         "author_id": "UCRR4UABfsF8f8hLhQS2WBgQ",
         "text": "^",

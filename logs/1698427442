@@ -81,23 +81,7 @@
     },
     {
         "event": "ban",
-        "time": 1698427954,
-        "author": "Dan",
-        "author_id": "UC672XnHKLyK9Jtrjuev04Fw",
-        "text": "is this a pity stream",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1698427987,
-        "author": "MFMAHOO",
-        "author_id": "UCUjjk_avHJf8Cg_bHhOu7ZA",
-        "text": "10 mins in and has 150 damn ",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1698428027,
         "author": "MFMAHOO",
         "author_id": "UCUjjk_avHJf8Cg_bHhOu7ZA",
         "text": "10 mins in and has 150 damn ",
@@ -322,14 +306,6 @@
     {
         "event": "ban",
         "time": 1698431103,
-        "author": "Kyle420",
-        "author_id": "UCxdTio6KT95vdDkAI99oxQA",
-        "text": "@Wiley Coyote do zebras have the n word pass?",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1698431111,
         "author": "Kyle420",
         "author_id": "UCxdTio6KT95vdDkAI99oxQA",
         "text": "@Wiley Coyote do zebras have the n word pass?",
@@ -592,14 +568,6 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1698433929,
-        "author": "Bongoman337",
-        "author_id": "UCQ_PJWl9h6WJyX-cmet3acw",
-        "text": ":face-red-droopy-eyes::face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
         "event": "superchat",
         "time": 1698434163,
         "author": "Revolver Ocelot",
@@ -717,14 +685,6 @@
         "author": "Too good Lol",
         "author_id": "UCbRDkT8q_eoP0p1Q1lvpI_g",
         "text": "again, wings has less people watching his stream than his weight in pounds",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1698437063,
-        "author": "Alezandro Jimenez",
-        "author_id": "UCkuOpxdFrq9hEZCns4IdfUw",
-        "text": "chocke",
         "usd": 0.0
     },
     {

@@ -185,14 +185,6 @@
     },
     {
         "event": "ban",
-        "time": 1699729707,
-        "author": "Kenny Gayloggins",
-        "author_id": "UCvNTNKeIZPyXGw4fJw0qfjA",
-        "text": "Wingz of sedition ",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1699729771,
         "author": "Guy",
         "author_id": "UCNpCMiObjwiiLSCmTNkEkYA",
@@ -242,14 +234,6 @@
     {
         "event": "ban",
         "time": 1699730547,
-        "author": "ocodes",
-        "author_id": "UC3CJgJRmvhQCLsZYv_NTyTA",
-        "text": "\"You see a black guy with my wife...cheating\"",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1699730555,
         "author": "ocodes",
         "author_id": "UC3CJgJRmvhQCLsZYv_NTyTA",
         "text": "\"You see a black guy with my wife...cheating\"",
@@ -698,14 +682,6 @@
     {
         "event": "ban",
         "time": 1699739427,
-        "author": "trojanowski111",
-        "author_id": "UCJ51kslNqMAuClr0sfuPIpg",
-        "text": "I was gonna donate but the I don't know the PIN to the stolen card! WTF Wings!",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1699739475,
         "author": "trojanowski111",
         "author_id": "UCJ51kslNqMAuClr0sfuPIpg",
         "text": "I was gonna donate but the I don't know the PIN to the stolen card! WTF Wings!",

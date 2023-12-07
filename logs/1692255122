@@ -128,14 +128,6 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1692257202,
-        "author": "JuneBug",
-        "author_id": "UCcTgbxK2gb2KRtSA6aIi_Nw",
-        "text": "shot lmfao",
-        "usd": 0.0
-    },
-    {
         "event": "superchat",
         "time": 1692257452,
         "author": "ChiGodd",
@@ -352,14 +344,6 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1692266422,
-        "author": "Stamps600",
-        "author_id": "UCWMX6uPYLNGI3QxucKur-zw",
-        "text": "N word is being dropped like crazy",
-        "usd": 0.0
-    },
-    {
         "event": "superchat",
         "time": 1692266471,
         "author": "KaoticTaco",
@@ -386,14 +370,6 @@
     {
         "event": "ban",
         "time": 1692267244,
-        "author": "Jason Luv",
-        "author_id": "UCxl1aEGv6ses27rVZ9XK6nw",
-        "text": "1. Dont Ask to change Games2. Dont ask about my personal life3. Dont tell me to play for fun4. My name is Jordie nothing else.5. I dont joke around so please dont attempt to joke around with me.",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1692267389,
         "author": "Jason Luv",
         "author_id": "UCxl1aEGv6ses27rVZ9XK6nw",
         "text": "1. Dont Ask to change Games2. Dont ask about my personal life3. Dont tell me to play for fun4. My name is Jordie nothing else.5. I dont joke around so please dont attempt to joke around with me.",

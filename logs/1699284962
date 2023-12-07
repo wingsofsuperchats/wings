@@ -472,14 +472,6 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1699290578,
-        "author": "AombieZandy",
-        "author_id": "UCN5ASLpSH9qTTW-gfhequFA",
-        "text": "HAHA",
-        "usd": 0.0
-    },
-    {
         "event": "end",
         "time": 1699291743,
         "author": "",

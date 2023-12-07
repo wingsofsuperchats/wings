@@ -114,22 +114,6 @@
     {
         "event": "ban",
         "time": 1690335265,
-        "author": "rwrcecrr",
-        "author_id": "UCLukmQza5SpvTAjgCkWzRtw",
-        "text": ":face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1690335265,
-        "author": "Alex B",
-        "author_id": "UCoVVxqSL2OQwHtQu3hVTsFQ",
-        "text": ":face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1690335265,
         "author": "Alex B",
         "author_id": "UCoVVxqSL2OQwHtQu3hVTsFQ",
         "text": ":face-red-droopy-eyes:",
@@ -713,14 +697,6 @@
     },
     {
         "event": "ban",
-        "time": 1690341973,
-        "author": "Clyde Baxter",
-        "author_id": "UCHq6kEGamVC1of8jtxW3RFg",
-        "text": ":face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1690342424,
         "author": "Jbo 2000",
         "author_id": "UCCtqfAINBmWO26YZ1Gw8fgQ",
@@ -746,14 +722,6 @@
     {
         "event": "ban",
         "time": 1690342707,
-        "author": "mumpernickle",
-        "author_id": "UCPekoDzOo9x_o_dtqANGNSw",
-        "text": "Wings will you ever box again or are you trying to keep your perfect record??? ",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1690342715,
         "author": "mumpernickle",
         "author_id": "UCPekoDzOo9x_o_dtqANGNSw",
         "text": "Wings will you ever box again or are you trying to keep your perfect record??? ",

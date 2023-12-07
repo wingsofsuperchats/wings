@@ -41,14 +41,6 @@
     },
     {
         "event": "ban",
-        "time": 1694399567,
-        "author": "zeke",
-        "author_id": "UCnbgsv-5Lrd-HBWBUqWtCuw",
-        "text": ":automobile::soon_arrow:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1694399680,
         "author": "Mario Luigi",
         "author_id": "UC8M6rNSBTXX_3Tba8Mag6fQ",
@@ -234,14 +226,6 @@
     {
         "event": "ban",
         "time": 1694402483,
-        "author": "Aesop Aesop",
-        "author_id": "UCLJe4BYFdMlHzJpiTZT6q-A",
-        "text": "i dont get it whats a chomo am i missing something",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1694402491,
         "author": "Aesop Aesop",
         "author_id": "UCLJe4BYFdMlHzJpiTZT6q-A",
         "text": "i dont get it whats a chomo am i missing something",

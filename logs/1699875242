@@ -49,14 +49,6 @@
     },
     {
         "event": "ban",
-        "time": 1699876364,
-        "author": "The Outlaw",
-        "author_id": "UC995ZW-SB0ebBQRblWPgoMw",
-        "text": "camping",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1699876824,
         "author": "xander hatmaker",
         "author_id": "UCbe0_KeX2EsjzJFx-aWtdVA",

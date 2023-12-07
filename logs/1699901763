@@ -73,14 +73,6 @@
     },
     {
         "event": "ban",
-        "time": 1699903300,
-        "author": "A grumpy yokozuna",
-        "author_id": "UCN3B1Lb5I-ETncbTgGhhvJw",
-        "text": "Is lummox in here? Big ups ",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1699903638,
         "author": "Jax Glass",
         "author_id": "UCTrnpvS_wvtpyCAHjv-JqUw",
@@ -321,23 +313,7 @@
     },
     {
         "event": "ban",
-        "time": 1699909023,
-        "author": "whena",
-        "author_id": "UC7FrnMzme3BxECNKGhGyKFw",
-        "text": "370 Gator Rd, Caddo Valley, AR 71923",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1699909136,
-        "author": "TurgidBanana",
-        "author_id": "UCDWNkLdEY5EbCujhTS6iGtg",
-        "text": "blackout will never leave. he loves the abuse",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1699909144,
         "author": "TurgidBanana",
         "author_id": "UCDWNkLdEY5EbCujhTS6iGtg",
         "text": "blackout will never leave. he loves the abuse",
@@ -501,14 +477,6 @@
         "author": "Uncle Cuban",
         "author_id": "UCODHm_uKDiMtodAJE-1zaIA",
         "text": "that's Brandys brother",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1699910884,
-        "author": "RhinoGater",
-        "author_id": "UCrgUmFHj8k7VvB98HBxkBTg",
-        "text": "oh he went there, leave the kids out of this",
         "usd": 0.0
     },
     {

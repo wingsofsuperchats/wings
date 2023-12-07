@@ -105,14 +105,6 @@
     },
     {
         "event": "ban",
-        "time": 1698840536,
-        "author": "James Turner",
-        "author_id": "UCWhha93i5iexzUNX-T-AJYg",
-        "text": "You’re a failure",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1698840633,
         "author": "Polly Prissy Pants",
         "author_id": "UC6TyaKS3fU4Gn86P9EypzGg",

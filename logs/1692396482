@@ -24,22 +24,6 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1692396485,
-        "author": "PlumpTump",
-        "author_id": "UCmbS0p-m5ZvuCg4O6otcxCg",
-        "text": "@Tea im sorry to hear that i hope u feel better",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1692396486,
-        "author": "Harry",
-        "author_id": "UCcHzCH96HD5qkhJ2GAt_f-w",
-        "text": "Are you an alcoholic Tea",
-        "usd": 0.0
-    },
-    {
         "event": "superchat",
         "time": 1692396486,
         "author": "Ricardo Cantoral",
@@ -62,14 +46,6 @@
         "author_id": "UCD1yrV1S27z13dloHAFE5ng",
         "text": "8K still isn't enough, genius.",
         "usd": 2.0
-    },
-    {
-        "event": "ban",
-        "time": 1692396873,
-        "author": "CantKillShibby🛸",
-        "author_id": "UCpxsC-gZXjDqq3W8Hgl3DIg",
-        "text": "elon is a pioneer of free speech how could u hate someone like that?",
-        "usd": 0.0
     },
     {
         "event": "ban",
@@ -129,23 +105,7 @@
     },
     {
         "event": "ban",
-        "time": 1692397750,
-        "author": "Future Sesh",
-        "author_id": "UCebi7StgAFa0eK-GLT3f0xQ",
-        "text": "Ooooo is this another pity stream?",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1692397919,
-        "author": "Alex B",
-        "author_id": "UCoVVxqSL2OQwHtQu3hVTsFQ",
-        "text": ":face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1692397935,
         "author": "Alex B",
         "author_id": "UCoVVxqSL2OQwHtQu3hVTsFQ",
         "text": ":face-red-droopy-eyes:",
@@ -960,14 +920,6 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1692404788,
-        "author": "Kelly Dongola",
-        "author_id": "UCvU3LpL7mDaT_hXRnS7rrKw",
-        "text": "WingsOfTesticularTorsion",
-        "usd": 0.0
-    },
-    {
         "event": "superchat",
         "time": 1692404812,
         "author": "lou sassle",
@@ -1034,14 +986,6 @@
     {
         "event": "ban",
         "time": 1692406793,
-        "author": "LƏTSD0ITAGAlN",
-        "author_id": "UCDJB8Vxx1BF9nCPGxlEBTUA",
-        "text": "am I banned",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1692406889,
         "author": "LƏTSD0ITAGAlN",
         "author_id": "UCDJB8Vxx1BF9nCPGxlEBTUA",
         "text": "am I banned",

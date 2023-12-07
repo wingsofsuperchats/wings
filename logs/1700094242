@@ -873,14 +873,6 @@
     },
     {
         "event": "ban",
-        "time": 1700103525,
-        "author": "E.C.S",
-        "author_id": "UCFFQXS81NRI16sceKqwpkvw",
-        "text": "rage quit?",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1700103565,
         "author": "Rusty Shackleford",
         "author_id": "UC2LENmL6twJDkQemO7Cveig",

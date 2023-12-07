@@ -337,14 +337,6 @@
     },
     {
         "event": "ban",
-        "time": 1691891621,
-        "author": "Madd ",
-        "author_id": "UCpRUGqOOrF9rF1cLcg-o2sQ",
-        "text": "teammate needs to stop getting bandit ",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1691891685,
         "author": "MightyHorseRocks",
         "author_id": "UC2ZuI0MVTfbzSy_Vu2rAudg",

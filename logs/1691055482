@@ -297,14 +297,6 @@
     },
     {
         "event": "ban",
-        "time": 1691058323,
-        "author": "Λurora",
-        "author_id": "UCB4538z0QoadIPnatl9tpHA",
-        "text": "ban anyone not dropping their favorite eminem song",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1691058387,
         "author": "RamboSaysRIP",
         "author_id": "UC_DMtzDxegXQ4ve40VsNWGg",
@@ -354,14 +346,6 @@
     {
         "event": "ban",
         "time": 1691058733,
-        "author": "Serry",
-        "author_id": "UCTh1COUh62sVKUh4kNX5QYg",
-        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1691058741,
         "author": "Serry",
         "author_id": "UCTh1COUh62sVKUh4kNX5QYg",
         "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
@@ -536,54 +520,6 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1691059942,
-        "author": "yugonmakmibus",
-        "author_id": "UCl_5Xx71_0PSfF4HtBgD1zQ",
-        "text": "*you",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1691059942,
-        "author": "yugonmakmibus",
-        "author_id": "UCl_5Xx71_0PSfF4HtBgD1zQ",
-        "text": "*you",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1691059942,
-        "author": "yugonmakmibus",
-        "author_id": "UCl_5Xx71_0PSfF4HtBgD1zQ",
-        "text": "*you",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1691059950,
-        "author": "yugonmakmibus",
-        "author_id": "UCl_5Xx71_0PSfF4HtBgD1zQ",
-        "text": "*you",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1691059952,
-        "author": "yugonmakmibus",
-        "author_id": "UCl_5Xx71_0PSfF4HtBgD1zQ",
-        "text": "*you",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1691059952,
-        "author": "yugonmakmibus",
-        "author_id": "UCl_5Xx71_0PSfF4HtBgD1zQ",
-        "text": "*you",
-        "usd": 0.0
-    },
-    {
         "event": "superchat",
         "time": 1691060001,
         "author": "Notta lolcow",
@@ -690,14 +626,6 @@
     {
         "event": "ban",
         "time": 1691061064,
-        "author": "Wraith",
-        "author_id": "UC4sbPjdqoazXoiuDSU7tFqQ",
-        "text": "Wings you should become a detective ",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1691061072,
         "author": "Wraith",
         "author_id": "UC4sbPjdqoazXoiuDSU7tFqQ",
         "text": "Wings you should become a detective ",

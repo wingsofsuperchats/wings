@@ -256,22 +256,6 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1695995208,
-        "author": "Brian Davis",
-        "author_id": "UC3oWGI8qeg-EtrqAj8dGwgg",
-        "text": "Brandy got blacked",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695995217,
-        "author": "Brian Davis",
-        "author_id": "UC3oWGI8qeg-EtrqAj8dGwgg",
-        "text": "Brandy got blacked",
-        "usd": 0.0
-    },
-    {
         "event": "superchat",
         "time": 1695995420,
         "author": "Joey Stufflebeam",
@@ -310,14 +294,6 @@
         "author_id": "UCbO1_sMtjo0fGWjSrk2TZWA",
         "text": "I wanna stream call of duty ",
         "usd": 9.99
-    },
-    {
-        "event": "ban",
-        "time": 1695995986,
-        "author": "Happy Chappy",
-        "author_id": "UC5V9SCPcUUvd9dxkXIjkxBQ",
-        "text": "Hahahah you fucking suck at this game",
-        "usd": 0.0
     },
     {
         "event": "ban",
@@ -453,14 +429,6 @@
         "author": "Pretty Lou",
         "author_id": "UCRJNqLAuiGLo9rLru_vLWrw",
         "text": "@Wings Of Redemption all I can tell you for real is that this will blow up in your face later on when you start overreacting again. You gotta actually do something positive with your attitude.",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695999250,
-        "author": "Girth Brooks",
-        "author_id": "UC9LsM-VCmH5pMJzIMjWQEyg",
-        "text": "What’s up :egg2: ",
         "usd": 0.0
     },
     {

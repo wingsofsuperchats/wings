@@ -40,30 +40,6 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1695192807,
-        "author": "Natsuki",
-        "author_id": "UCJ8fNzgufXRTrf1su_NT66g",
-        "text": "@Wings of Redemption a lady of the night will be at your door in 30 minutes!!!",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695192815,
-        "author": "Natsuki",
-        "author_id": "UCJ8fNzgufXRTrf1su_NT66g",
-        "text": "@Wings of Redemption a lady of the night will be at your door in 30 minutes!!!",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695192847,
-        "author": "Natsuki",
-        "author_id": "UCJ8fNzgufXRTrf1su_NT66g",
-        "text": "@Wings of Redemption a lady of the night will be at your door in 30 minutes!!!",
-        "usd": 0.0
-    },
-    {
         "event": "superchat",
         "time": 1695193496,
         "author": "Back To Pray",
@@ -157,14 +133,6 @@
         "author": "Ryan Parmelee",
         "author_id": "UCNKBfL8yz2J4vsKpUxBAfPA",
         "text": "SCP Containment Breach is the scariest gamr I've played.",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695195781,
-        "author": "Ryan Parmelee",
-        "author_id": "UCNKBfL8yz2J4vsKpUxBAfPA",
-        "text": "@C Falcon No way.",
         "usd": 0.0
     },
     {
@@ -273,22 +241,6 @@
     },
     {
         "event": "ban",
-        "time": 1695197370,
-        "author": "Ryan Parmelee",
-        "author_id": "UCNKBfL8yz2J4vsKpUxBAfPA",
-        "text": "I wonder what the avg weight of an American is for each state.",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695197378,
-        "author": "Ryan Parmelee",
-        "author_id": "UCNKBfL8yz2J4vsKpUxBAfPA",
-        "text": "I wonder what the avg weight of an American is for each state.",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1695197589,
         "author": "Dan Silverton",
         "author_id": "UCCf8KqpX5Z9sn__ZlJJw9PQ",
@@ -305,39 +257,7 @@
     },
     {
         "event": "ban",
-        "time": 1695197645,
-        "author": "Ryan Parmelee",
-        "author_id": "UCNKBfL8yz2J4vsKpUxBAfPA",
-        "text": "Have you ever ate at the heart attack grill?",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695197654,
-        "author": "Ryan Parmelee",
-        "author_id": "UCNKBfL8yz2J4vsKpUxBAfPA",
-        "text": "Have you ever ate at the heart attack grill?",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695197662,
-        "author": "Ryan Parmelee",
-        "author_id": "UCNKBfL8yz2J4vsKpUxBAfPA",
-        "text": "Have you ever ate at the heart attack grill?",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1695197783,
-        "author": "Ryan Parmelee",
-        "author_id": "UCNKBfL8yz2J4vsKpUxBAfPA",
-        "text": "Unless you're like 7 feet you shouldn't be over 200lbs.",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695197791,
         "author": "Ryan Parmelee",
         "author_id": "UCNKBfL8yz2J4vsKpUxBAfPA",
         "text": "Unless you're like 7 feet you shouldn't be over 200lbs.",

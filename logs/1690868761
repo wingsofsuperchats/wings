@@ -73,14 +73,6 @@
     },
     {
         "event": "ban",
-        "time": 1690869511,
-        "author": "jrtxwjt",
-        "author_id": "UCKByjTJUyCLtHs-2ivEq2hQ",
-        "text": ":face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1690869575,
         "author": "Chris K",
         "author_id": "UCP693jzc1eob9qV2NSIe4Mw",
@@ -101,14 +93,6 @@
         "author": "Madd ",
         "author_id": "UCpRUGqOOrF9rF1cLcg-o2sQ",
         "text": "horrible aim",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1690869616,
-        "author": "Xander ",
-        "author_id": "UC-hsb44q-od8nP-Ot9yymBw",
-        "text": ":face-red-droopy-eyes:",
         "usd": 0.0
     },
     {
@@ -200,14 +184,6 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1690870665,
-        "author": "Hold My Big W",
-        "author_id": "UCahTz9gPfDpeEts3XIoPwOg",
-        "text": "KFC chicken has a weird aftertaste that I hate",
-        "usd": 0.0
-    },
-    {
         "event": "superchat",
         "time": 1690870674,
         "author": "FinalLaugh87",
@@ -277,14 +253,6 @@
         "author": "Wings of Redemption",
         "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
         "text": "restarting stream to add delay",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1690871230,
-        "author": "Tyson",
-        "author_id": "UCXuVAIhemDlzboAWQm6pRXw",
-        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
         "usd": 0.0
     },
     {
@@ -585,14 +553,6 @@
     },
     {
         "event": "ban",
-        "time": 1690877833,
-        "author": "Pockets Full",
-        "author_id": "UC7VreyQCLadzUgRPezEUoRg",
-        "text": "Wings whyd I get timed out?",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1690877841,
         "author": "Cleitus",
         "author_id": "UC94HP2p8XVkYmpfL7QihaAQ",
@@ -737,14 +697,6 @@
     },
     {
         "event": "ban",
-        "time": 1690879622,
-        "author": "meatr0ckeT",
-        "author_id": "UCMmkgQJgt0mbmZU5qvilllA",
-        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1690879678,
         "author": "JuneBug",
         "author_id": "UCcTgbxK2gb2KRtSA6aIi_Nw",
@@ -770,14 +722,6 @@
     {
         "event": "ban",
         "time": 1690880073,
-        "author": "Inflatable Lasagna",
-        "author_id": "UCn0FtvD0iXHnriXx6tozKxA",
-        "text": "oh mah lorrr",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1690880089,
         "author": "Inflatable Lasagna",
         "author_id": "UCn0FtvD0iXHnriXx6tozKxA",
         "text": "oh mah lorrr",

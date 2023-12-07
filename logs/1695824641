@@ -129,14 +129,6 @@
     },
     {
         "event": "ban",
-        "time": 1695827393,
-        "author": "Lazy Bean",
-        "author_id": "UC52UWnlW3sHwHUrNF923ygQ",
-        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1695827418,
         "author": "cyraxofredemption",
         "author_id": "UCAS9e-T58bXf3dpH6_OrcKw",
@@ -166,14 +158,6 @@
         "author_id": "UCGNunx5FJlvgfp9R13ODM6Q",
         "text": "[Five bucks] Have no life, these streams help me pass the time (thx). Games, shows and movies are so bad now--feels like no one tests before release.",
         "usd": 4.98
-    },
-    {
-        "event": "ban",
-        "time": 1695827507,
-        "author": "cyraxofredemption",
-        "author_id": "UCAS9e-T58bXf3dpH6_OrcKw",
-        "text": ":face-red-droopy-eyes:",
-        "usd": 0.0
     },
     {
         "event": "ban",
@@ -376,22 +360,6 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1695828585,
-        "author": "Wurthy",
-        "author_id": "UCKAFIwEpr4yhtLnx1kw5Btw",
-        "text": "donos comin in pimp",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695828585,
-        "author": "ParkerSaint",
-        "author_id": "UC2Gx10xaqiYGM2UwyOdP5og",
-        "text": "wings you missed a $200 dono",
-        "usd": 0.0
-    },
-    {
         "event": "superchat",
         "time": 1695828682,
         "author": "0p10ids",
@@ -445,22 +413,6 @@
         "author": "xtacy",
         "author_id": "UCgradIQC6LnLXPl1ZwyuwEg",
         "text": "ban anyone donating pocket change ",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695829231,
-        "author": "sloth",
-        "author_id": "UC0bY9WhqDWcZ1bSxRtusFSQ",
-        "text": "#wingsofdivorce",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695829231,
-        "author": "sloth",
-        "author_id": "UC0bY9WhqDWcZ1bSxRtusFSQ",
-        "text": "#wingsofdivorce",
         "usd": 0.0
     },
     {
@@ -597,22 +549,6 @@
         "author": "banjoscreampies",
         "author_id": "UCOdZqd8LQaWUN67b3CbQEjQ",
         "text": "Wings, your not yourself when your hungry pol",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695831008,
-        "author": "JCV",
-        "author_id": "UCB1eu3Tj0LPWNXMYldUEsVg",
-        "text": "what would help this dying channel is to play any other game",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695831008,
-        "author": "JCV",
-        "author_id": "UCB1eu3Tj0LPWNXMYldUEsVg",
-        "text": "what would help this dying channel is to play any other game",
         "usd": 0.0
     },
     {
@@ -818,14 +754,6 @@
     {
         "event": "ban",
         "time": 1695832163,
-        "author": "Brandon13",
-        "author_id": "UCxnYliDtZm3UDWpsKdtOfHw",
-        "text": "You don’t wanna roam wings you can’t stop the BS ",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695832172,
         "author": "Brandon13",
         "author_id": "UCxnYliDtZm3UDWpsKdtOfHw",
         "text": "You don’t wanna roam wings you can’t stop the BS ",

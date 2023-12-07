@@ -65,22 +65,6 @@
     },
     {
         "event": "ban",
-        "time": 1695249816,
-        "author": "Jack",
-        "author_id": "UCr9uWXlgk-8jV-ua69FkRXw",
-        "text": "why don't you have 200 viewers?",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1695250049,
-        "author": "SVT1187",
-        "author_id": "UC81GeW2VRl2UxiEnuF1t9dg",
-        "text": "There is a person on twitch streaming with the name Realtawk they are using your photos currently live now. Not sure if you know anything about it. ",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1695250049,
         "author": "SVT1187",
         "author_id": "UC81GeW2VRl2UxiEnuF1t9dg",

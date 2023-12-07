@@ -209,14 +209,6 @@
     },
     {
         "event": "ban",
-        "time": 1696111029,
-        "author": "Chrono Frog",
-        "author_id": "UCM95QDaYRy8lq5qVirJq8sA",
-        "text": "Dude just got timed for asking a question ",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1696111062,
         "author": "Arcane Rabbit",
         "author_id": "UC7fMhlhJgtM1_LKeLGkKrQQ",
@@ -289,14 +281,6 @@
     },
     {
         "event": "ban",
-        "time": 1696112198,
-        "author": "Steven Smith",
-        "author_id": "UCEmqOYJb3NonHhlEFFmHg-Q",
-        "text": "@Arcane Rabbit imagine thinking DSP is a loser while being a Wings fan LOL",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1696112351,
         "author": "DuttySZN",
         "author_id": "UCtKFGJPxiGAb-S7NuC7uSxw",
@@ -317,14 +301,6 @@
         "author": "Sacred",
         "author_id": "UC-prmyI91v1lLU7yQoFueoQ",
         "text": "Don’t lose pimp ",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1696113503,
-        "author": "Really Talk",
-        "author_id": "UCpO3sefjTd8j-ROwuJraYPA",
-        "text": "did you cry today?",
         "usd": 0.0
     },
     {
@@ -373,14 +349,6 @@
         "author": "Steven Smith",
         "author_id": "UCEmqOYJb3NonHhlEFFmHg-Q",
         "text": "Yeah, because why be selfless and do something with your spouse when you can stay home and stuff your face lol",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1696113801,
-        "author": "tbonedude12",
-        "author_id": "UCUpRv-kGInjLAvSt_HqFPqg",
-        "text": "imagine having a husband not willing to leave the house one hour per week for you :/",
         "usd": 0.0
     },
     {
@@ -600,36 +568,12 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1696117435,
-        "author": "Way",
-        "author_id": "UCsYGgaxrjH4m1RcaINaqXcQ",
-        "text": "Does your granny give good head?",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1696117435,
-        "author": "Way",
-        "author_id": "UCsYGgaxrjH4m1RcaINaqXcQ",
-        "text": "Does your granny give good head?",
-        "usd": 0.0
-    },
-    {
         "event": "superchat",
         "time": 1696117499,
         "author": "joshrich07",
         "author_id": "UCmOhenGZ1q7MQlzeFti--XA",
         "text": "shout out to Shrek and Fiona on their anniversary",
         "usd": 2.0
-    },
-    {
-        "event": "ban",
-        "time": 1696117515,
-        "author": "joshrich07",
-        "author_id": "UCmOhenGZ1q7MQlzeFti--XA",
-        "text": "shout out to Shrek and Fiona on their anniversary",
-        "usd": 0.0
     },
     {
         "event": "ban",

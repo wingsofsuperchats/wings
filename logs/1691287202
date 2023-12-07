@@ -153,14 +153,6 @@
     },
     {
         "event": "ban",
-        "time": 1691289112,
-        "author": "Wyred",
-        "author_id": "UCASm8afgEaosR5OKwHeFegw",
-        "text": "lol only responds to comments about food",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1691289249,
         "author": "Voltz",
         "author_id": "UCMLzr-QIfXwdRHWfVLbjqUA",
@@ -541,22 +533,6 @@
         "author": "Gabagoollegs",
         "author_id": "UCjfpN7FwCCqAmAv7Xl6hqIA",
         "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1691296161,
-        "author": "Gabagoollegs",
-        "author_id": "UCjfpN7FwCCqAmAv7Xl6hqIA",
-        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1691296169,
-        "author": "Gabagoollegs",
-        "author_id": "UCjfpN7FwCCqAmAv7Xl6hqIA",
-        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
         "usd": 0.0
     },
     {

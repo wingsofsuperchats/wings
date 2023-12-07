@@ -64,22 +64,6 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1691187329,
-        "author": "Mantequilla OP",
-        "author_id": "UCDIQb4IlmUsRGCD-ErxDF6g",
-        "text": "congratulations for the baby Wings !!",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1691187329,
-        "author": "Mantequilla OP",
-        "author_id": "UCDIQb4IlmUsRGCD-ErxDF6g",
-        "text": "congratulations for the baby Wings !!",
-        "usd": 0.0
-    },
-    {
         "event": "superchat",
         "time": 1691187442,
         "author": "Light Of The Twin Lamps",
@@ -598,14 +582,6 @@
         "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
         "text": "rocky balboa ended the Russian conflict lol",
         "usd": 2.0
-    },
-    {
-        "event": "ban",
-        "time": 1691196982,
-        "author": "Madd ",
-        "author_id": "UCpRUGqOOrF9rF1cLcg-o2sQ",
-        "text": "lol reel tawk, just be yourself ",
-        "usd": 0.0
     },
     {
         "event": "ban",

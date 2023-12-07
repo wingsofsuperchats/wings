@@ -129,14 +129,6 @@
     },
     {
         "event": "ban",
-        "time": 1689782397,
-        "author": "Dylan Hart",
-        "author_id": "UC9hNH3HLl_zM1QsvWIbd-qQ",
-        "text": ":face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1689782405,
         "author": "Slick Rick",
         "author_id": "UCNaaoAiCaRXYccTHqwobU-Q",
@@ -233,50 +225,10 @@
     },
     {
         "event": "ban",
-        "time": 1689783782,
-        "author": "Dylan Hart",
-        "author_id": "UC9hNH3HLl_zM1QsvWIbd-qQ",
-        "text": ":face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1689783814,
-        "author": "Marc Babineau",
-        "author_id": "UCnfNhLir4W-qslHrV3GfHfA",
-        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1689783879,
-        "author": "Dylan Hart",
-        "author_id": "UC9hNH3HLl_zM1QsvWIbd-qQ",
-        "text": ":face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1689783903,
-        "author": "Marc Babineau",
-        "author_id": "UCnfNhLir4W-qslHrV3GfHfA",
-        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1689783919,
         "author": "Mystikkal",
         "author_id": "UCbuTGEMxH5YEr1876SALI6g",
         "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1689783976,
-        "author": "Dylan Hart",
-        "author_id": "UC9hNH3HLl_zM1QsvWIbd-qQ",
-        "text": ":face-red-droopy-eyes:",
         "usd": 0.0
     },
     {

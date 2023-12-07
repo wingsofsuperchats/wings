@@ -137,14 +137,6 @@
     },
     {
         "event": "ban",
-        "time": 1696795844,
-        "author": "Chigodd you have a chemical imbalance",
-        "author_id": "UCKAxh6QXxa8MWby2c7tnkTQ",
-        "text": ":police_car_light:NEWS REPORT BLACKOUT IS GOING ON THE REALTAWK PODCAST :police_car_light:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1696795909,
         "author": "sosuke aizen",
         "author_id": "UCzIQ9EnBZhgP3PccMm5T-kg",
@@ -181,22 +173,6 @@
         "author": "WingsofLiquidRetention ",
         "author_id": "UCNzOHW4R_YeviOjdXGkHxEQ",
         "text": "Someone said kelly looked like a special needs kid one time and I can’t get it out of my head. Would you beat him with a pistol grip?",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1696796071,
-        "author": "WingsofLiquidRetention ",
-        "author_id": "UCNzOHW4R_YeviOjdXGkHxEQ",
-        "text": "Someone said kelly looked like a special needs kid one time and I can’t get it out of my head. Would you beat him with a pistol grip?",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1696796330,
-        "author": "Hubba Bubba",
-        "author_id": "UCy25aHCuKIiGpU6dX2oNm6g",
-        "text": "He also said something about high school cheerleaders",
         "usd": 0.0
     },
     {
@@ -373,14 +349,6 @@
         "author": "Bob Chandler",
         "author_id": "UC0qllLvn_8_uTPqTBhVlucA",
         "text": "L trash stream ",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1696797636,
-        "author": "Elliot Burbank",
-        "author_id": "UCvKbvvQz8r5J4BpMvddIhvw",
-        "text": "8000 hours and blames nobody but himself for his pathetic death",
         "usd": 0.0
     },
     {
@@ -785,14 +753,6 @@
     },
     {
         "event": "ban",
-        "time": 1696801962,
-        "author": "Sploink",
-        "author_id": "UCsgGEEUUbRq01q97hYitxTQ",
-        "text": "sooo.. you have how many hours and you're messing up basic plays like that..?",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1696802164,
         "author": "AfromanK2",
         "author_id": "UC3WU69JPw52YvgdD0X6kdXg",
@@ -832,52 +792,12 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1696802567,
-        "author": "🐸 BubbaFrog 🐸 ",
-        "author_id": "UChAWVcDzw2rlj9fK47WJ18g",
-        "text": "XDDD",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1696802567,
-        "author": "🐸 BubbaFrog 🐸 ",
-        "author_id": "UChAWVcDzw2rlj9fK47WJ18g",
-        "text": "XDDD",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1696802575,
-        "author": "🐸 BubbaFrog 🐸 ",
-        "author_id": "UChAWVcDzw2rlj9fK47WJ18g",
-        "text": "XDDD",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1696802575,
-        "author": "🐸 BubbaFrog 🐸 ",
-        "author_id": "UChAWVcDzw2rlj9fK47WJ18g",
-        "text": "XDDD",
-        "usd": 0.0
-    },
-    {
         "event": "superchat",
         "time": 1696802599,
         "author": "Not Bojangles",
         "author_id": "UCvFHcTuMhA7I-0a97KmlpPg",
         "text": "Ban Untitled for being a snitch narc ",
         "usd": 2.0
-    },
-    {
-        "event": "ban",
-        "time": 1696802664,
-        "author": "🐸 BubbaFrog 🐸 ",
-        "author_id": "UChAWVcDzw2rlj9fK47WJ18g",
-        "text": "XDDD",
-        "usd": 0.0
     },
     {
         "event": "ban",
@@ -953,14 +873,6 @@
     },
     {
         "event": "ban",
-        "time": 1696803397,
-        "author": "DGM",
-        "author_id": "UCLDjGKfx-oxfGDQfdtUaFNw",
-        "text": "You're simply being outplayed stop being a baby",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1696803783,
         "author": "Kendra",
         "author_id": "UCygYCfAu_Er8kZxwnj8Qc8w",
@@ -974,14 +886,6 @@
         "author_id": "UCdTly7QyX6yKGSfp9U4dUBg",
         "text": "Wings can you tell the Perry Carevello 1992 story",
         "usd": 2.0
-    },
-    {
-        "event": "ban",
-        "time": 1696803800,
-        "author": "Kendra",
-        "author_id": "UCygYCfAu_Er8kZxwnj8Qc8w",
-        "text": "I wanna know who Jordie is supporting in that conflict ",
-        "usd": 0.0
     },
     {
         "event": "ban",

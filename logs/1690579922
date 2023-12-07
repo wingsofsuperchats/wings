@@ -152,22 +152,6 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1690582245,
-        "author": "rice fry",
-        "author_id": "UCigPwU5knUi0qVVkKIxQmDA",
-        "text": "yo",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1690582261,
-        "author": "rice fry",
-        "author_id": "UCigPwU5knUi0qVVkKIxQmDA",
-        "text": "yo",
-        "usd": 0.0
-    },
-    {
         "event": "superchat",
         "time": 1690582407,
         "author": "Blackout",
@@ -297,22 +281,6 @@
     },
     {
         "event": "ban",
-        "time": 1690584924,
-        "author": "Snoopy474",
-        "author_id": "UCrEjFySMaroQqyoQ8levUYg",
-        "text": ":face-red-droopy-eyes: < Wings when somebody proves him wrong ",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1690584948,
-        "author": "Jotaro Kujo",
-        "author_id": "UCUUJW7Y2mSdUacZqlxXZSOw",
-        "text": ":face-red-droopy-eyes: why is this getting banned?",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1690584948,
         "author": "Jotaro Kujo",
         "author_id": "UCUUJW7Y2mSdUacZqlxXZSOw",
@@ -329,23 +297,7 @@
     },
     {
         "event": "ban",
-        "time": 1690584989,
-        "author": "Sundowner",
-        "author_id": "UCx85-sD4Lo-K5r_2tKpzhcw",
-        "text": ":face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1690585005,
-        "author": "Lumpy",
-        "author_id": "UCUXqa6ZrEPLuG24NPFTaD1A",
-        "text": ":face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1690585013,
         "author": "Lumpy",
         "author_id": "UCUXqa6ZrEPLuG24NPFTaD1A",
         "text": ":face-red-droopy-eyes:",
@@ -409,14 +361,6 @@
     },
     {
         "event": "ban",
-        "time": 1690585660,
-        "author": "Gary Owen",
-        "author_id": "UCeYqKcD_xoTutYJM7garr5w",
-        "text": ":face-red-droopy-eyes: Do Not Disappoint Lord Commander Wings :face-red-droopy-eyes:",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
         "time": 1690585669,
         "author": "lhmmhl1",
         "author_id": "UChTThpO6_Ti5sN2nZ5D3S-Q",
@@ -440,14 +384,6 @@
         "usd": 0.0
     },
     {
-        "event": "ban",
-        "time": 1690585774,
-        "author": "Snoopy474",
-        "author_id": "UCrEjFySMaroQqyoQ8levUYg",
-        "text": "This stream is lactose intolerant cause any sight of CHEESE and it’ll combust ",
-        "usd": 0.0
-    },
-    {
         "event": "superchat",
         "time": 1690586106,
         "author": "Eric",
@@ -458,14 +394,6 @@
     {
         "event": "ban",
         "time": 1690586162,
-        "author": "Bill Bo",
-        "author_id": "UCIJOapmSJ3-4eyJA8QNuUoA",
-        "text": "don't ban all your viewers",
-        "usd": 0.0
-    },
-    {
-        "event": "ban",
-        "time": 1690586170,
         "author": "Bill Bo",
         "author_id": "UCIJOapmSJ3-4eyJA8QNuUoA",
         "text": "don't ban all your viewers",
