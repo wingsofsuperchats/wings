@@ -1,0 +1,74 @@
+[
+    {
+        "event": "start",
+        "time": 1702465804,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1702466442,
+        "author": "neo",
+        "author_id": "UCo0BKxaSvqcaLHNyHgOC0YA",
+        "text": "wings I wish you played more games and not just lame old call of duty man this shit is for children",
+        "usd": 30.47
+    },
+    {
+        "event": "ban",
+        "time": 1702467537,
+        "author": "Rikkert",
+        "author_id": "UChjipiMPxv7kS0BoMrlH9-g",
+        "text": "Celeste join up with wings man",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1702468327,
+        "author": "Bojangles Alt #65",
+        "author_id": "UCwg7yWcw7YI_F_jqLAG5N3Q",
+        "text": "672 may have abandoned you but I never will, your ride or die fans are for life",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1702468577,
+        "author": "Rahul",
+        "author_id": "UCubqV9usk2sACvgT2g53B4Q",
+        "text": "I’lll never abandon you either ",
+        "usd": 5.24
+    },
+    {
+        "event": "ban",
+        "time": 1702469971,
+        "author": "Andrew willan",
+        "author_id": "UCw5JfIgd3s_gZ9Bxuc0OcSw",
+        "text": "waddup piemp",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1702471631,
+        "author": "JoyOrbison",
+        "author_id": "UCdPL7sxTNgbzuT9YqBSDIsQ",
+        "text": "Enjoining the gameplay Jordie",
+        "usd": 1.96
+    },
+    {
+        "event": "superchat",
+        "time": 1702472107,
+        "author": "Spongeboobie",
+        "author_id": "UClc4ofsJFZ_QVBHiutDSBXQ",
+        "text": "Waiting on my buddy to gett online so we can play zombies",
+        "usd": 4.99
+    },
+    {
+        "event": "end",
+        "time": 1702473609,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 52.660000000000004
+    }
+]
