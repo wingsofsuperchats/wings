@@ -1,0 +1,98 @@
+[
+    {
+        "event": "start",
+        "time": 1704111604,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1704111823,
+        "author": "KingN641994",
+        "author_id": "UCm4X7FAODAmKdX46BZ3XB7w",
+        "text": "happy new year wingo!",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1704113421,
+        "author": "LIL DINGO",
+        "author_id": "UC3LIvA-uCT_muunUfcu8BiQ",
+        "text": "left for work watching the stream and got home to the countinuation of it. big ups brother happy new year from dingo gang",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1704114398,
+        "author": "Mike Hunt",
+        "author_id": "UC5x5MBKqo_QPjq2LyKwSnnA",
+        "text": "PaPa Wingz",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1704114681,
+        "author": "SiMpLe JaN",
+        "author_id": "UC8kw4qLIkPQ6YZtnFukiITA",
+        "text": "been watching for years, glad to see the you coming back.",
+        "usd": 10.0
+    },
+    {
+        "event": "ban",
+        "time": 1704115819,
+        "author": "Thomas Savoie",
+        "author_id": "UChgX3f4WGcGyjxCv4uDaqVg",
+        "text": "Wings would beat Kyle ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1704115876,
+        "author": "Lucifer Arise",
+        "author_id": "UCMuIsST8VZw48_3uClvXTrg",
+        "text": "hey wings hope your doing good :)",
+        "usd": 11.32
+    },
+    {
+        "event": "ban",
+        "time": 1704116796,
+        "author": "Yumehami",
+        "author_id": "UCWPchVifBvx9Gp8DdwbWw0g",
+        "text": "I am not a streamer so I don't care",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1704118169,
+        "author": "Cain Marco",
+        "author_id": "UCZVrZqhzcHvYt3Uz0IDw1Jg",
+        "text": "Jesus, stop camping Wings... Play the game and talk about it. Talk about how good you are at the bottom of the board every game...",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1704119050,
+        "author": "Musashi 🆚️🌍",
+        "author_id": "UCgAotsM-YGoWvlRQ8ziP8iQ",
+        "text": "LMAO",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1704119066,
+        "author": "Keith",
+        "author_id": "UCxTiRoj8WmYYUeNqz_K9djg",
+        "text": "rage quit ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1704119666,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 31.310000000000002
+    }
+]
