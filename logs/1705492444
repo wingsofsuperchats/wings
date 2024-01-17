@@ -1,0 +1,66 @@
+[
+    {
+        "event": "start",
+        "time": 1705492444,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705492574,
+        "author": "Trap Gambino",
+        "author_id": "UCh6Wt1dM4yRtTJp-G7IlEOw",
+        "text": "WINGS IS SCARED TO DEATH OF FIGHTING ME! ",
+        "usd": 9.99
+    },
+    {
+        "event": "superchat",
+        "time": 1705492703,
+        "author": "poorME Official",
+        "author_id": "UCF439w92WEYvRrwfT7tVcCw",
+        "text": "Happyy to see you doing good Jordy",
+        "usd": 2.53
+    },
+    {
+        "event": "ban",
+        "time": 1705492896,
+        "author": "Infinity Lefty",
+        "author_id": "UCZ3usq9NbZT42qHyaugoVIg",
+        "text": "What's good king?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705492920,
+        "author": "Trap Gambino",
+        "author_id": "UCh6Wt1dM4yRtTJp-G7IlEOw",
+        "text": "Just say ur scared bro… i am talking to YOU",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1705494917,
+        "author": "ryan harvey",
+        "author_id": "UCnbtCwHgi1Ug85c5Yebzkwg",
+        "text": "well this is boring, I'm gone",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705494998,
+        "author": "Williams disciple ",
+        "author_id": "UCrc17AEy6Kb09dQdBwsL6FA",
+        "text": "What’s thee chances for playing zombies some day?",
+        "usd": 1.99
+    },
+    {
+        "event": "end",
+        "time": 1705498183,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 16.5
+    }
+]
