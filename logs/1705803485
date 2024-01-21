@@ -1,0 +1,1434 @@
+[
+    {
+        "event": "start",
+        "time": 1705803485,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705803486,
+        "author": "Brett Munger",
+        "author_id": "UC2i6bO6ADlRMCwtlT1eDEbg",
+        "text": "Well, knew it, DSP wage quits Mike clum documentary. Bigs up player, much love :hundred_points:",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1705803559,
+        "author": "Six70two",
+        "author_id": "UCf4K-n3BgVVWKujMoAbqPTw",
+        "text": "you should really really react to the reason behind DSP not doing the doc its lame asf... He timed me out for criticizing ",
+        "usd": 6.72
+    },
+    {
+        "event": "ban",
+        "time": 1705803768,
+        "author": "Trap Gambino",
+        "author_id": "UCh6Wt1dM4yRtTJp-G7IlEOw",
+        "text": "KELLY GOT TRAPPED. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705804074,
+        "author": "Jimbo Jones",
+        "author_id": "UC7UyCLfdJB6lNl00y0vCPSA",
+        "text": "wings would you smoke skunk on stream ever?",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705804485,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "people promised me 400 dollars for ranked play",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705804525,
+        "author": "Rahul",
+        "author_id": "UCubqV9usk2sACvgT2g53B4Q",
+        "text": "Xoxo",
+        "usd": 1.97
+    },
+    {
+        "event": "ban",
+        "time": 1705804549,
+        "author": "Dr. Shrimp Puerto Rico",
+        "author_id": "UCZY650Uvl8Wv24gg0hbrmhg",
+        "text": "who promised that?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705804694,
+        "author": "vorzeo",
+        "author_id": "UCjCXVhqyVr3w0PEWHU7N2vg",
+        "text": "even aim assist can't carry this man",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705804799,
+        "author": "Winston Underwood",
+        "author_id": "UCRJMg6OkWlC1DeODJim1aLw",
+        "text": "",
+        "usd": 0.74
+    },
+    {
+        "event": "ban",
+        "time": 1705804895,
+        "author": "Sean J",
+        "author_id": "UC6_ujOHc5cMHj1EDkqFOGzA",
+        "text": "Rage quit incoming ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705804903,
+        "author": "Madd ",
+        "author_id": "UCpRUGqOOrF9rF1cLcg-o2sQ",
+        "text": "mind, body, spirit and tactical advantage. teammates demonstrate none of these values ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705804944,
+        "author": "Boston Celtics",
+        "author_id": "UCcX44Smn7U3WyDM69rj3CPg",
+        "text": "lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705804952,
+        "author": "Ybvrrv",
+        "author_id": "UCWA-nql0qS3eybxBxHaZnIw",
+        "text": ":face_with_tears_of_joy::face_with_tears_of_joy::face_with_tears_of_joy:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705804960,
+        "author": "Jaydon Evans",
+        "author_id": "UC995OgzTIo3MCgJJ7ve8QCQ",
+        "text": "what's your point ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705804968,
+        "author": "Honkee McGee",
+        "author_id": "UCiD48IGYi7b659U0skPxlFA",
+        "text": "Cope",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705804976,
+        "author": "sk8code14",
+        "author_id": "UCSTr1LRahQtuT9VQOlZZaRg",
+        "text": "im cryin",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705804992,
+        "author": "Jimbo Jones",
+        "author_id": "UC7UyCLfdJB6lNl00y0vCPSA",
+        "text": "ban anyone that's better than me",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805016,
+        "author": "KEEPROLLINROLLINROLLINROLLINYO",
+        "author_id": "UC9CFXMEANeXxkRRS296NTVQ",
+        "text": "LOL",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705805016,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "btw 100 dollars an hour",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705805024,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "we're at 14",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805081,
+        "author": "Sargis Ha",
+        "author_id": "UC9TWLvb1qnaVeaKz4C_Y6Hw",
+        "text": "wings you need to take responsibility, this is comical, you had 9 with 4 seconds on hill ",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705805121,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "at 1 hour stream ends if not at 100 dollars in donations",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705805145,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "I was promised big moneyt o play ranked",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805161,
+        "author": "Jonah",
+        "author_id": "UCsoYtW79RBpjBEotRv91uFw",
+        "text": "Looks like streaming ending ina hour ",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705805161,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "30 minutes",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805169,
+        "author": "Knoxvillain",
+        "author_id": "UCJwJUJbaP2ZTWWsdUU7408w",
+        "text": "if you were having fun, ppl would donate",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805218,
+        "author": "goosemane40",
+        "author_id": "UCv8U4Rs0qluN_ZIu_R2X3nw",
+        "text": "“Don’t talk back to me” LOL",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805218,
+        "author": "Supa l33t killa",
+        "author_id": "UCalvSFuk314ozQcZCapjGkA",
+        "text": ":face-orange-biting-nails: :face-orange-biting-nails:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805234,
+        "author": "Dan Shuman",
+        "author_id": "UCEh9BWVH6MG3J6SM-aiNC0A",
+        "text": "DONT YOU EVER TALK BACK TO HIM",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805330,
+        "author": "nahualito",
+        "author_id": "UC2spoobDJxhs-zBnbyugBBQ",
+        "text": "he just did .. he is heptonite in chat",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805330,
+        "author": "dennis885",
+        "author_id": "UCccfrM7fGlnaXEN85gb9l5w",
+        "text": "Captain Wingo",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705805371,
+        "author": "SeriousDrama",
+        "author_id": "UC7M2ERzm1i99BLSzBzPfv4w",
+        "text": "Hopefully this smalll amount helps. Keep grinding pimp.",
+        "usd": 9.99
+    },
+    {
+        "event": "ban",
+        "time": 1705805427,
+        "author": "BlueVampy",
+        "author_id": "UCn2Gf0XpQwkyC0ANfVJsAew",
+        "text": "90 more dollars to go",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805435,
+        "author": "Carter Phillips",
+        "author_id": "UCUVg9M6JOGCOU-b4BFIc6UA",
+        "text": "lel",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805435,
+        "author": "Winston Underwood",
+        "author_id": "UCRJMg6OkWlC1DeODJim1aLw",
+        "text": "this stream isn't going well",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805443,
+        "author": "SM559",
+        "author_id": "UC2y5Akfwtx_xGyMQYMgkaXA",
+        "text": "mods most likely got a build like wings worthless fks",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805459,
+        "author": "SweetBellic",
+        "author_id": "UCnPbjbI4KbA1EtlJaHikC0w",
+        "text": "RIP BlueGampy f:face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805459,
+        "author": "Phish YEM",
+        "author_id": "UCPJXhWuPzeDK---oI1lJ7OA",
+        "text": "lollollolololOOLSOLSlOl\\",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805467,
+        "author": "Hélà KITSUNÉ",
+        "author_id": "UCJFzPrrNpQYEfi2r-4Qcb1A",
+        "text": "Wtf bluegampy is OG ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805492,
+        "author": "Greg ",
+        "author_id": "UC18xZML792ulBG33ryOzqSA",
+        "text": "you aren't ranked material no offense",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805508,
+        "author": "Peen Lopez",
+        "author_id": "UCYO-7SMkyLJDXOhomGAhvzQ",
+        "text": "Wings I just don't think you're ranked material, homie. You're really struggling and looking for someone else to blame. On another note, I'll never donate and I will always use Adblock.",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705805548,
+        "author": "SeriousDrama",
+        "author_id": "UC7M2ERzm1i99BLSzBzPfv4w",
+        "text": "Here’s another $10. Lets go boys, $80 more to go!",
+        "usd": 9.99
+    },
+    {
+        "event": "ban",
+        "time": 1705805580,
+        "author": "Eli Gonzalez",
+        "author_id": "UC-Ft-R6-4lUKOp7PiAez6fQ",
+        "text": "Bro",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805604,
+        "author": "Aangy",
+        "author_id": "UCIfxHvyY2tlyfSqx9Kg16Aw",
+        "text": "@Ak47fan - they dont want to look here, look listen",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705805629,
+        "author": "Rahul",
+        "author_id": "UCubqV9usk2sACvgT2g53B4Q",
+        "text": "Go team woooo!!!",
+        "usd": 1.97
+    },
+    {
+        "event": "ban",
+        "time": 1705805645,
+        "author": "Dante",
+        "author_id": "UCE7L5lyM2pw33IG-e_UPhlA",
+        "text": "Pls fucking text woody and urge him to go to a hospital or at the lest clue in his own wife ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805653,
+        "author": "Mike Smith",
+        "author_id": "UCvEeXj2S32_nN39qh-fsS3g",
+        "text": "is rapture back?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805862,
+        "author": "comeoncuhhh",
+        "author_id": "UClUcOY_ME5_UPvv5Vot1Fzg",
+        "text": "U are not ranked material man ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805862,
+        "author": "Rahul",
+        "author_id": "UCubqV9usk2sACvgT2g53B4Q",
+        "text": "TALK STRATS NOW, DINT FIGHT",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705805862,
+        "author": "Dislike Button",
+        "author_id": "UCEwGiWvXYE4U_EyL73-V-AQ",
+        "text": "What up bro",
+        "usd": 10.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805870,
+        "author": "TheGameMaster",
+        "author_id": "UC7wSeHaICavf2x5_rsY-Pww",
+        "text": "Ak stop glazing wings lol ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705805886,
+        "author": "Dr. Nowzaradan",
+        "author_id": "UCOXE6OLLBd8cqwjWRFKW_FQ",
+        "text": "One of those nights I see :loudly_crying_face:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705805894,
+        "author": "Winston Underwood",
+        "author_id": "UCRJMg6OkWlC1DeODJim1aLw",
+        "text": "",
+        "usd": 0.74
+    },
+    {
+        "event": "ban",
+        "time": 1705806015,
+        "author": "Jake Campbell",
+        "author_id": "UCS-sLvikJO9GLR9Se46p19Q",
+        "text": "People complain about sbmm but then play ranked non stop. Like what....",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806031,
+        "author": "Letters",
+        "author_id": "UCTfMOtoTmBRGlJbrZSROgNQ",
+        "text": "why is this dude still trying to play cod at 40",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806072,
+        "author": "Winston Underwood",
+        "author_id": "UCRJMg6OkWlC1DeODJim1aLw",
+        "text": "ha",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806080,
+        "author": "Don G",
+        "author_id": "UCRbqRZxmyNggIGCOMd7dAgQ",
+        "text": "Wings your not ranked material ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806128,
+        "author": "cozy scott",
+        "author_id": "UCxusv-9D1xQU9UcJ1TBuHdA",
+        "text": "he just started ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806136,
+        "author": "Carter Phillips",
+        "author_id": "UCUVg9M6JOGCOU-b4BFIc6UA",
+        "text": "Wings if you save Woody's life you will be remembered as a hero",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806144,
+        "author": "Ak47fan",
+        "author_id": "UChCmeErIXPHnKFAYYwofI0w",
+        "text": "Is it true that Woody had a stroke ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705806168,
+        "author": "SeriousDrama",
+        "author_id": "UC7M2ERzm1i99BLSzBzPfv4w",
+        "text": "Big Ups Wings! You’re a Cod YouTube legend!",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1705806168,
+        "author": "Young 9-iron",
+        "author_id": "UCjA90aW2xPj5zHRRScQG8jw",
+        "text": "He’s in bronze?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705806233,
+        "author": "Matt",
+        "author_id": "UClRoQHyDowY6kqqSLMoT7UA",
+        "text": "Let's go Wings! ",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806257,
+        "author": "Jake Campbell",
+        "author_id": "UCS-sLvikJO9GLR9Se46p19Q",
+        "text": "This is ranked you should all be using mcw's tbh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806362,
+        "author": "Muzza",
+        "author_id": "UCDRpVTL0XIDAK36Ct5_yBIQ",
+        "text": "Where's Tea at? like hawnestly",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806386,
+        "author": "روح Franker z",
+        "author_id": "UCQ2LCsvwooMF_D45XOsTZnA",
+        "text": "i spawn , i die",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806402,
+        "author": "SeriousDrama",
+        "author_id": "UC7M2ERzm1i99BLSzBzPfv4w",
+        "text": "Seems like wings is having a connection issue. Lag comp probably ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705806442,
+        "author": "Winston Underwood",
+        "author_id": "UCRJMg6OkWlC1DeODJim1aLw",
+        "text": "mods ban anybody laughing at my gameplay",
+        "usd": 1.49
+    },
+    {
+        "event": "wings_message",
+        "time": 1705806474,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "6 minutes 55 dollars hsort",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705806539,
+        "author": "Matt",
+        "author_id": "UClRoQHyDowY6kqqSLMoT7UA",
+        "text": "",
+        "usd": 55.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806579,
+        "author": "Tiny",
+        "author_id": "UCQRRj54-H9XnA416AMMFuYA",
+        "text": "Lmao $55 for 1 hour",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705806587,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "Rank play is 100 dollars an hour",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806619,
+        "author": "TheGameMaster",
+        "author_id": "UC7wSeHaICavf2x5_rsY-Pww",
+        "text": "Wings why you always gotta act like that ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806628,
+        "author": "Juz",
+        "author_id": "UCWsThuO2yJrkQJ-RxgrYhBA",
+        "text": "That is ridiculous, just play to play ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806628,
+        "author": "wasabi",
+        "author_id": "UCysrTob1oGbJ-tItv5xvT2Q",
+        "text": "the only time wings types in chat is to ask for donos ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806660,
+        "author": "Jack",
+        "author_id": "UCEi8wQGTSxqq_83Bw0Fhevg",
+        "text": ":clown_face: :clown_face: ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806660,
+        "author": "Winston Underwood",
+        "author_id": "UCRJMg6OkWlC1DeODJim1aLw",
+        "text": "be less chill",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806692,
+        "author": "Kyle Denson",
+        "author_id": "UCKYzHvuIpuiw1f1zDmphkeg",
+        "text": "Melted melted 🫠",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806797,
+        "author": "Diffussy",
+        "author_id": "UCviuSQxVVtcpAP-0L3sPobg",
+        "text": "GETTING MELTED LIKE THE 6 POUNDS OF CHEESE BIG WING PUTS ON HIS NACHOS ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806901,
+        "author": "Jon Angle",
+        "author_id": "UCLBW_9C4dCnglbpH4TpIa_w",
+        "text": "Hey aren’t you that guy that tried to pay off a rival call of duty to player so you’d win a rematch?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705806966,
+        "author": "Juz",
+        "author_id": "UCWsThuO2yJrkQJ-RxgrYhBA",
+        "text": "Pepsi",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705807062,
+        "author": "Al Babish",
+        "author_id": "UC-wnRmQAIgVlE0XNShuup1g",
+        "text": "why are you going for kills and not playing the objective???",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705807079,
+        "author": "Rahul",
+        "author_id": "UCubqV9usk2sACvgT2g53B4Q",
+        "text": "Appreciate the games",
+        "usd": 5.27
+    },
+    {
+        "event": "ban",
+        "time": 1705807183,
+        "author": "Keke Poopoo",
+        "author_id": "UCY7WHXXfzNLGdIY1xS4oOPg",
+        "text": "You are doing a bit better this game Wings, the previous game you were awful and you were the reason you lost. Good improvement!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705807280,
+        "author": "Yung",
+        "author_id": "UCmgoifKHof8P3_kVESKqh6g",
+        "text": "How did ur team not rotate off of ur hold ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705807304,
+        "author": "William Eric",
+        "author_id": "UCC3Ka-pX3kpo3fSZNi2Zmzg",
+        "text": "liquid rich",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705807345,
+        "author": "Dante",
+        "author_id": "UCE7L5lyM2pw33IG-e_UPhlA",
+        "text": "What’s the donation goal to get you to ask your friend Woody to seek medical attention? :face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705807449,
+        "author": "Jake Campbell",
+        "author_id": "UCS-sLvikJO9GLR9Se46p19Q",
+        "text": "Why you not using meta weapons. Its putting u at a disadvantage ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705807489,
+        "author": "Goku Black",
+        "author_id": "UCKZMnt25elmZ6HfiKC_R3oA",
+        "text": "mods ban goku black for laughing",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705807498,
+        "author": "R6 Quandingle",
+        "author_id": "UC8kayIWqkMzv5EiLNboFuNQ",
+        "text": "Homie could’ve bought an Ashley Cup. Same thing, $20 cheaper",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705807634,
+        "author": "Untitled",
+        "author_id": "UCdTly7QyX6yKGSfp9U4dUBg",
+        "text": "I think wings is drinking liquid chilli",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705807642,
+        "author": "Winston Underwood",
+        "author_id": "UCRJMg6OkWlC1DeODJim1aLw",
+        "text": "@diskoteka foodmaxxing",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705807659,
+        "author": "PS3productionz",
+        "author_id": "UCZfMmdThfgN3uMON70sOlFQ",
+        "text": "What’s in the chug jug, big boi?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705807763,
+        "author": "5279west",
+        "author_id": "UCH02mjxRvl3yvKIXc2Ep7VQ",
+        "text": "Wings I got like 4 ads already do you make money from ads ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705807868,
+        "author": "Yung",
+        "author_id": "UCmgoifKHof8P3_kVESKqh6g",
+        "text": "Burger town, it’s the trash can at burger town, not my fault ur 0 iq.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705807948,
+        "author": "Andreas",
+        "author_id": "UC2cFm1u25Sn4dYZuYJJoTHQ",
+        "text": "RIP Rocko",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705808013,
+        "author": "Winston Underwood",
+        "author_id": "UCo4-mhX4HkPpJuqyzIkZOmA",
+        "text": "hey you can't talk about money",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705808085,
+        "author": "8 hours job is a scam",
+        "author_id": "UC5KaGliMwFHIO5V2-QDO7AQ",
+        "text": "hey wings what is your stream schedule ?",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705808142,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "37 minutes before stream goes off",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705808287,
+        "author": "SeriousDrama",
+        "author_id": "UC7M2ERzm1i99BLSzBzPfv4w",
+        "text": "Is crown a good player?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705808577,
+        "author": "Squirrel",
+        "author_id": "UCuLCSh-4cNo2FnEMYyr3DcA",
+        "text": "What game is this ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705808995,
+        "author": "iceman🥶",
+        "author_id": "UCzqYCB8knAPjli0raiWGPaQ",
+        "text": "Thoughts on pka talking shit again pimp?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705809003,
+        "author": "George Tau",
+        "author_id": "UCJWHCh-dYt7crMDBLN17bxQ",
+        "text": "you can't outrun a poor diet",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705809068,
+        "author": "Maxywoo",
+        "author_id": "UCbM7Qyo9Y4Qfx6V-BXUUAuA",
+        "text": "@Tatertot_ND I'll do it",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705809285,
+        "author": "happyclaymore24",
+        "author_id": "UCWPaYTUYcILG9K0CSk64jIw",
+        "text": "Wings, Scholar of the Thick Six",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705809358,
+        "author": "BowserFromSonic",
+        "author_id": "UCXUhAGYQEfVpV7E2Y_AiJ0g",
+        "text": "the choke",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705809422,
+        "author": "Christophinie Gaming",
+        "author_id": "UCF3-S-w2nXGI7qkxevINfSA",
+        "text": "You are the one dying brah lol can’t say don’t give them streaks ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705809430,
+        "author": "It’s chase not cHaNcE",
+        "author_id": "UCjbjpbtb5uDj8avT8Qkw1cw",
+        "text": "whats up wingo you still suck at cod ?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705809446,
+        "author": "TOKEN",
+        "author_id": "UCd-rJFHvWCVU5bNDWHd3OCg",
+        "text": "booger is no",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705809591,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "14 minutes 81 dollars short",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705809607,
+        "author": "Andreas",
+        "author_id": "UC2cFm1u25Sn4dYZuYJJoTHQ",
+        "text": "carried diamond ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705809801,
+        "author": "Pierce Conner",
+        "author_id": "UCxzC6uwu-F-flhmeYFe0hJA",
+        "text": "Why is that guy not allowed to use the sniper? This is the weirdest stream I have ever come across lol I am so confused here",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705809946,
+        "author": "Al Babish",
+        "author_id": "UC-wnRmQAIgVlE0XNShuup1g",
+        "text": "100 for ranked",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705810348,
+        "author": "Ak47fan",
+        "author_id": "UChCmeErIXPHnKFAYYwofI0w",
+        "text": "Why ban me? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705810445,
+        "author": "WingsLordofKinder",
+        "author_id": "UCJR1B93tbjdQmJdAFCEwQnw",
+        "text": "Imagine blessing your viewers with this dogshit gameplay and expecting $100/hour LMFAO ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705810453,
+        "author": "Bigearn82",
+        "author_id": "UCqvkTewqbKcByCZWeeiCwQQ",
+        "text": "We still alive pimps",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1705810501,
+        "author": "x box",
+        "author_id": "UCMuiltMysaJPwUt6ImxFUNA",
+        "text": "Wings what are your thoughts on the new Fortnite season?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705810501,
+        "author": "Ice Tea ",
+        "author_id": "UCV2yA4T49trZk4Ef7U6ndlw",
+        "text": "sounding a lil disappointed like dsp there ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705810525,
+        "author": "R6 Quandingle",
+        "author_id": "UC8kayIWqkMzv5EiLNboFuNQ",
+        "text": "“We haven’t hit the standard donation goal.” - WingsOfDarksydePhil",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705810678,
+        "author": "Matthew Correia",
+        "author_id": "UCDgdllX9_DSYhjSQERlWADQ",
+        "text": "W! W! W!",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1705810840,
+        "author": "Matthew Correia",
+        "author_id": "UCDgdllX9_DSYhjSQERlWADQ",
+        "text": "LOL",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705810864,
+        "author": "babymangaming_321",
+        "author_id": "UCgxL1b0a5Nz4wKOCth_3TfQ",
+        "text": "how did wings get so fat after weight loss surgery",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705810985,
+        "author": "John Hodge",
+        "author_id": "UCTQkp5Ra8O0YOTUZrTpGAVA",
+        "text": "Keep your head up pimp! you bring a lot of people joy ",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1705811009,
+        "author": "R6 Quandingle",
+        "author_id": "UC8kayIWqkMzv5EiLNboFuNQ",
+        "text": "WHERES MAH HELP! WHERE’S ASH?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705811049,
+        "author": "x box",
+        "author_id": "UCMuiltMysaJPwUt6ImxFUNA",
+        "text": "Wings how do you feel about Pepsi?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705811178,
+        "author": "I'mCummyElizabeth",
+        "author_id": "UCYRyr30GZTay3qonbyYUL7g",
+        "text": "You lose you end the stream challenge??!!",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705811218,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "last chance",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705811283,
+        "author": "John Hodge",
+        "author_id": "UCTQkp5Ra8O0YOTUZrTpGAVA",
+        "text": "Tell oreo this is for his skill",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1705811307,
+        "author": "Matthew Correia",
+        "author_id": "UC7frqoJA44HAfGqINMG_l-g",
+        "text": "RAPTURE > OREO",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705811347,
+        "author": "ObeseWatchers",
+        "author_id": "UCD0GcgK_wH3bGBNYFVFJrpA",
+        "text": "Post Surgery Kelly + Beat the Surgery WingsofRetardation = Godskin Duo",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705811363,
+        "author": "Sentrygun",
+        "author_id": "UCE7KPM9tl8vXouDT13jjluQ",
+        "text": "oreo would be banned already if it werent for the fact he reminds wings of the food ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705811887,
+        "author": "John Hodge",
+        "author_id": "UCTQkp5Ra8O0YOTUZrTpGAVA",
+        "text": "dont stop playing lol",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1705812145,
+        "author": "Saint Augustine of Hippo",
+        "author_id": "UC8du_fF_0BLeEOeKsYt0wDQ",
+        "text": "dropping the second best player in the team damn ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705812169,
+        "author": "John Hodge",
+        "author_id": "UCTQkp5Ra8O0YOTUZrTpGAVA",
+        "text": "just pick up someone else, and keep things focused so you guys win",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1705812186,
+        "author": "Andreas",
+        "author_id": "UC2cFm1u25Sn4dYZuYJJoTHQ",
+        "text": "Fat Kat",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705812242,
+        "author": "Muzza",
+        "author_id": "UCDRpVTL0XIDAK36Ct5_yBIQ",
+        "text": ":_Look::_Listen: Big ups Big J Piempin' and Big ups Grace period. Like Hawnestly :_Big::_Thermite::_Boxing:",
+        "usd": 26.4
+    },
+    {
+        "event": "ban",
+        "time": 1705812258,
+        "author": "Oreo O lay",
+        "author_id": "UCzdzQmD6eKUVkyWKr6CpS6w",
+        "text": "i got a $10 donation if you guys win two hardpoints with this guy @Wings of Redemption ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705812314,
+        "author": "SmokeyR1",
+        "author_id": "UC9YntZnfgSoxsXpyeVgOrJg",
+        "text": "Wings someone posted you on r/tooktoomuch",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705812355,
+        "author": "Chester Peckerwood IV",
+        "author_id": "UCnoFk9Q7_Wf7qckHkwz3uNg",
+        "text": "Years of trolling just broke this dude completely. Utter paranoia that anybody could be a troll.",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705812435,
+        "author": "I'mCummyElizabeth",
+        "author_id": "UCYRyr30GZTay3qonbyYUL7g",
+        "text": "Token, are you steph curry?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705812500,
+        "author": "Lucifer Arise",
+        "author_id": "UCMuIsST8VZw48_3uClvXTrg",
+        "text": "Hey Jordie, hope your having a good one ",
+        "usd": 14.86
+    },
+    {
+        "event": "ban",
+        "time": 1705812556,
+        "author": "Briguy",
+        "author_id": "UC4441Hzxm0CsWo73I7LcMIw",
+        "text": "is wang on pzempic?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705812669,
+        "author": "ImKDot",
+        "author_id": "UCdUl-8lY2Dnll2ZSYCxP9EQ",
+        "text": "roatate Wingo!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705812765,
+        "author": "I'mCummyElizabeth",
+        "author_id": "UCYRyr30GZTay3qonbyYUL7g",
+        "text": "Who do you guys think would be more likely to appear on the Epstein list, Wings or DSP? No offense, Wings",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705812999,
+        "author": "John Hodge",
+        "author_id": "UCTQkp5Ra8O0YOTUZrTpGAVA",
+        "text": "big ups",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705813409,
+        "author": "John Hodge",
+        "author_id": "UCTQkp5Ra8O0YOTUZrTpGAVA",
+        "text": "wings would you vote for rfk jr? ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705813482,
+        "author": "LoneSurvivor",
+        "author_id": "UCGTRHGDMnmmmjtsnsUHauQQ",
+        "text": "What Crazy thing things the Tr0lls have done ? ",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1705813506,
+        "author": "LoneSurvivor",
+        "author_id": "UCGTRHGDMnmmmjtsnsUHauQQ",
+        "text": "What Crazy thing things the Tr0lls have done ? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705813909,
+        "author": "Charliehustle ",
+        "author_id": "UCaN-iFDj1bHhqNWmhhcf_ng",
+        "text": "This team is not as good as the first one smh",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705814062,
+        "author": "Plainhamburgers",
+        "author_id": "UC0VwEkfN5LwxmFUsKi8hE6w",
+        "text": "Wings is dragging the team down ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705815415,
+        "author": "John Hodge",
+        "author_id": "UCTQkp5Ra8O0YOTUZrTpGAVA",
+        "text": "Just one question wings, would you vote 3rd party",
+        "usd": 2.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705815930,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "token dont ask me about food",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705815930,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "unless you're donating",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705815946,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "we're 110 dollars behind on donations",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705815963,
+        "author": "green",
+        "author_id": "UCmPyq8fsGJnlYD8B-VAYQqg",
+        "text": "Blade Pepsi, coke, or RC COLA ?",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705815979,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "if you want rank game more than today support the stream",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705816011,
+        "author": "trap nichols",
+        "author_id": "UCaszG8WiD6-UEnEmmPBtVUQ",
+        "text": "110 wings behind",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705816124,
+        "author": "John Hodge",
+        "author_id": "UCTQkp5Ra8O0YOTUZrTpGAVA",
+        "text": "Youre the best wings, just stay strong",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1705816156,
+        "author": "A K",
+        "author_id": "UC1JpmcW77j8H8h5mzw7QM8A",
+        "text": "108 short from the goal! We’re almost there",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705816277,
+        "author": "WingsOfConstipation ",
+        "author_id": "UCIeGVZnebGSPEXi5Ifod24w",
+        "text": "Shoutout hoodlums don’t forget to eat your vegetables or you’ll end up like exhibit A ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705816293,
+        "author": "realMoritzSeider",
+        "author_id": "UCfYzZvzNShNWyfafyvybZAw",
+        "text": "Not to be mean but I really don’t think Wings has a neck anymore ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705816486,
+        "author": "MassXPP",
+        "author_id": "UCszFlBqs9Y_dWtTm5x5cq0A",
+        "text": "just like sydicate in the 1v1 am i right bois",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1705817042,
+        "author": "Alex shill Jones",
+        "author_id": "UCZSsT3u19r-hVBrWTkWnPqw",
+        "text": "My b dogg",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1705817050,
+        "author": "looking for work and stuff",
+        "author_id": "UC5rBYtGkdjS1R9y2mujWiqQ",
+        "text": "turn off the light so we can have a floating head stream",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705817468,
+        "author": "AnarchNova",
+        "author_id": "UCQdui9nFOkytvUZXbaMP0ZA",
+        "text": "For real? They never do the podcast ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705820279,
+        "author": "Tryhard Rev Main",
+        "author_id": "UCzENKAtQvRMseIqHbrqzycQ",
+        "text": "that scope aint it for ranked pimp ",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705820480,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "rememeber to donate",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705820553,
+        "author": "Peepo",
+        "author_id": "UCxAfbRNAYpmKlbjHDgnVDGQ",
+        "text": "JK i love wingo",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705820577,
+        "author": "Fantastic Max",
+        "author_id": "UClhqRsadSKoIpTomLbGHRVA",
+        "text": "I spawn I die",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705821020,
+        "author": "God Of The Beach",
+        "author_id": "UCdjaZWZnaja0dyOwat0ulLQ",
+        "text": "ban",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705821100,
+        "author": "Bluu",
+        "author_id": "UCaz1HCkia4EmspVDnd5qB4w",
+        "text": "fat",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705821116,
+        "author": "Justin Downey",
+        "author_id": "UCw_ZO6MS_0bV8TtUzHyvIpA",
+        "text": "Guys wingz is already carrying you girls so y'all need to call it out for him at least!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705821294,
+        "author": "LloydBanks",
+        "author_id": "UCfv5U-R_iZkgOwpN9xjGWsg",
+        "text": "$100 an hour?? Wtf lol",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1705821310,
+        "author": "gabos",
+        "author_id": "UCHLHB97UaaF_p0VuUQqm8Aw",
+        "text": "mans expected 500",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705821310,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "no I didnt want to play ranked",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705821318,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "I was promised big donations if i did",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1705821318,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "I didnt get them",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1705821950,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 193.10000000000002
+    }
+]
