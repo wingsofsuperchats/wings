@@ -1,0 +1,634 @@
+[
+    {
+        "event": "start",
+        "time": 1706549405,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1706549406,
+        "author": "KutzM240B",
+        "author_id": "UCMhJILj_PZcYhgOla7_4FJg",
+        "text": "Play Minecraft",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1706549406,
+        "author": "KutzM240B",
+        "author_id": "UCMhJILj_PZcYhgOla7_4FJg",
+        "text": "Play for honor or some other fighting game",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1706549978,
+        "author": "jcaranda55",
+        "author_id": "UCTQwpibDoOzS39o8BPu12yw",
+        "text": "Answer my question ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706550042,
+        "author": "Morty",
+        "author_id": "UCHgyvYIoUEeLoSZpiCGKc5A",
+        "text": "explain how you failed the 9th grade THREE TIMES but still think you're an intelligent person",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706550050,
+        "author": "Joe The Hammer",
+        "author_id": "UCfnlm6YJood_qpruoz3p55g",
+        "text": "Make bongo a mod ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706550090,
+        "author": "Swaggins",
+        "author_id": "UC25-1yD1nmz4hzXAgBZDLkQ",
+        "text": "Bongo wants to come inside wing",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706550114,
+        "author": "j",
+        "author_id": "UCdjgd3pGezHJkeYzDoRHXlA",
+        "text": "dropped a dislike g",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706550219,
+        "author": "The_reasonable_one",
+        "author_id": "UCcYTsUxGIsCB78LfO205ybw",
+        "text": "I pray that wings looses weight",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706550388,
+        "author": "JD 93 is Alive",
+        "author_id": "UC7GYWekp7uKj9P0TBnUC7HQ",
+        "text": "Can’t hear you over the game ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706550501,
+        "author": "Rskillz",
+        "author_id": "UCr5o0Bxz3d4jodRir0buX4w",
+        "text": "well Wings at least be honest, some nasty things you said were a year or two ago, not when you were 26...can you admit that?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706550549,
+        "author": "Shoe Shiner",
+        "author_id": "UCVpf12D7DoIp2d6gCOvt6gg",
+        "text": "wingo starr is my favorite beatle",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706550598,
+        "author": "j4ck888",
+        "author_id": "UCuemvhqhwNjiR8o7oiX6ErA",
+        "text": "his mic is picking up the sound of flies in the mansion?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1706550710,
+        "author": "Philthy",
+        "author_id": "UCDZ1Jto43zaJS4QrWMotYEg",
+        "text": "",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1706550767,
+        "author": "Rick",
+        "author_id": "UCtVW7auTmiAlmXf9oMlKGHA",
+        "text": "@wings congrats on quitting the diet and podcast. you're not a failure at all honestly",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706550863,
+        "author": "JuanDaCableMan",
+        "author_id": "UCzohl8qm2m1iBKUEn0PbCSQ",
+        "text": "this is so boring and tedious to watch",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706551282,
+        "author": "JD 93 is Alive",
+        "author_id": "UC7GYWekp7uKj9P0TBnUC7HQ",
+        "text": "Donations seem to be drying up ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706551798,
+        "author": "It's JD 93 again",
+        "author_id": "UCbrCr-amHFWWbZDNjYpZ_Xg",
+        "text": "And I get banned after all these comments smh, dudes hate me. No wonder I don’t donate ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1706551911,
+        "author": "Petter Berry",
+        "author_id": "UCu59jLAJwCUy-PD1nGhYLZQ",
+        "text": "i uploaded a new positive highlight video of you if you wanna promote it u said you would if someone made a positive channel ",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1706553151,
+        "author": "NitroV6",
+        "author_id": "UCWFojJv_D68FRBnjaJys2HA",
+        "text": "You never responded to me on Twitter. Homies don’t talk about 8 yr olds normally. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706553240,
+        "author": "NitroV10",
+        "author_id": "UCz1IXFvuSH3t5L0I3e2anXQ",
+        "text": "Homies don’t talk about 8 yr olds normally especially in a sexual way ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706553256,
+        "author": "RichardsLIMPDICK",
+        "author_id": "UCbgtfq8YpsIB_8FyVQUn93g",
+        "text": "the dogs long dead it cant come anywhere",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706553433,
+        "author": "I am Nitro",
+        "author_id": "UC5pf8htD976TGwZMFmJ1Wbg",
+        "text": "Of course so response because you know it’s true",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706553449,
+        "author": "KELLYGOTBLACKED",
+        "author_id": "UC7__ejOZER53Kx3tvc27FEg",
+        "text": "PDF hows the kid videos",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706553546,
+        "author": "Răădargo",
+        "author_id": "UCAa1H9aESL3oI_V6v9iWEmg",
+        "text": "But u are one",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706553812,
+        "author": "ihearandobey",
+        "author_id": "UCjrgmMkOLic72_Wj5RsmdlA",
+        "text": "stop kidding yourself wings you wont lose the weight",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706553868,
+        "author": "Zack Baker",
+        "author_id": "UCC_eHyylHHUvj98Bw681nSQ",
+        "text": "REALLY? Only 1000 calories a day? Are you physically incapable of telling the truth?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706554279,
+        "author": "Ban Bojangles",
+        "author_id": "UC2Da16U0bHV8NopVn5SnWsA",
+        "text": "I am ban evading, please ban me",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706554384,
+        "author": "Bojangles",
+        "author_id": "UCCP3RSb4u-dr64TQkhbFQKQ",
+        "text": "any mods here I got a lot of alts I need banned",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706554505,
+        "author": "bojangles",
+        "author_id": "UCIzb3aGt997KJsN0GSDfqDQ",
+        "text": "I am ban evading, please ban me",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706554521,
+        "author": "KfMan",
+        "author_id": "UCKAs7sQ9In1oG1a8CmRkEzQ",
+        "text": "I am ban evading, please ban me",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706554787,
+        "author": "Nos Fideles",
+        "author_id": "UCCLIO-iY1oVg9IZEJs_-brw",
+        "text": "Am i banned?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706554859,
+        "author": "GorillaGlue8",
+        "author_id": "UCOgwICOa2sIBWyEqKB0aa6w",
+        "text": "WINGS BACK ON LEVEL 1 WITH DSP LOL!",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1706554908,
+        "author": "Dogma",
+        "author_id": "UC4mddztj-jNl5t1fC7mGlFA",
+        "text": "Wings, apparently the chief flaming star guy is claiming boogie and his magic store friend stole $100k from him on the podcast Reddit.",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1706555085,
+        "author": "InsPECtor_Bluey",
+        "author_id": "UCmleHXNwNNCKMbwTtoBx-cQ",
+        "text": "You look exactly like Boogies friends. ",
+        "usd": 2.52
+    },
+    {
+        "event": "ban",
+        "time": 1706555214,
+        "author": "1 1",
+        "author_id": "UCqPWbXlhYewulzcLMp11jVg",
+        "text": "lol I'm sure wing won't wash his hands again after taking a \"pee pee\"",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706555254,
+        "author": "Mr White",
+        "author_id": "UCR_hMteyzgA999ezS_CAQzg",
+        "text": "@Wings of Redemption WHEN YOU JOINING THE LEVEL 1 PODCAST?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706555302,
+        "author": "wingsofweed",
+        "author_id": "UC8bxqDz0O397DHNz_9nTzgg",
+        "text": "Hey @Wings of Redemption maybe we could relax with some grade A south carolina space jam dragonblood kush and smoke lines ontop of kelly and dr grayson",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706555319,
+        "author": "pigman",
+        "author_id": "UCLXOvRDyR9mNDcgguC_lHpg",
+        "text": "@Wings of Redemption WHEN YOU JOINING THE LEVEL 1 PODCAST?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706555875,
+        "author": "jesux.28",
+        "author_id": "UCtSWNDElUs-IpKgqxJt4G7A",
+        "text": "Wingsofunemployment ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1706556019,
+        "author": "Dogma",
+        "author_id": "UC4mddztj-jNl5t1fC7mGlFA",
+        "text": "You should really check out this boogie drama since you two became friends. Especially if it’s true",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1706556084,
+        "author": "Dogma",
+        "author_id": "UC4mddztj-jNl5t1fC7mGlFA",
+        "text": "There was no video, it’s a brand new Reddit post. Had no clue you knew",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1706556430,
+        "author": "InsPECtor_Bluey",
+        "author_id": "UCmleHXNwNNCKMbwTtoBx-cQ",
+        "text": "Alright Jimmy Savile? Can smell you from the UK",
+        "usd": 2.54
+    },
+    {
+        "event": "ban",
+        "time": 1706556438,
+        "author": "InsPECtor_Bluey",
+        "author_id": "UCmleHXNwNNCKMbwTtoBx-cQ",
+        "text": "Alright Jimmy Savile? Can smell you from the UK",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706556600,
+        "author": "BOJANGLES",
+        "author_id": "UC7fMhlhJgtM1_LKeLGkKrQQ",
+        "text": "@Wings I am ban evading can you please ban me",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706556866,
+        "author": "Bojangles the second",
+        "author_id": "UCQtRizyO_oUFg9dxtgW1F3Q",
+        "text": "@Glthompson can you ask jordie to have John bono ban me please",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706556938,
+        "author": "Bojangles Wants Teas Bussy",
+        "author_id": "UC97ouj_fUFDGodcBvnFndHg",
+        "text": "@John Bono can you ban instead of time out so I don't have to comeback later",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706557333,
+        "author": "Hugh Mungus",
+        "author_id": "UC_UCWAtZGOOUT2jnDNfrAfg",
+        "text": "wings can you define a predator?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706557349,
+        "author": "Beaujangles",
+        "author_id": "UCnP_IufqezTAsznLlalZnUg",
+        "text": "@Wings can I get a ban please",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706557357,
+        "author": "Vertz",
+        "author_id": "UCV7DlHnphzBItf7dKdoBl-g",
+        "text": "Wings can you define a predator?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706557478,
+        "author": "Bojangles v2",
+        "author_id": "UCNOXzfD4lvtQo6L2WY9A55g",
+        "text": "@Glthompson can you ask wings to ban me please",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706557938,
+        "author": "nnnnPerson",
+        "author_id": "UC3F1uC6KsgUwfF4tm-XA2HA",
+        "text": "yo mods ban me, i want to appear in 007's restream counter",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706557954,
+        "author": "Smelly Jelly",
+        "author_id": "UCvT0SZbJW8jiNT5_52N3Ifw",
+        "text": "Type real tawk in search on twitch ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706557962,
+        "author": "Eye Sack",
+        "author_id": "UCbZ8fxC2MYMyIlaTxXY9g9Q",
+        "text": "@Smelly Jelly can you post link",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706557978,
+        "author": "future lama512",
+        "author_id": "UCWewGKrb1jzDvy9Vmyl_hyQ",
+        "text": "Hey restreamers big ups",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706558018,
+        "author": "Léon Rififi",
+        "author_id": "UClfo1QCgDMswcxDkG5GwHow",
+        "text": "No mods",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706558058,
+        "author": "Slang Kush 420",
+        "author_id": "UClNQLKce6ab--Kj-07stZFQ",
+        "text": ":hamburger::hamburger::french_fries::french_fries:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706558147,
+        "author": "Karmic Justice",
+        "author_id": "UCBRSxG6I8TutnywwvygGkKA",
+        "text": "@Wings this is bojangles please ban me",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706558284,
+        "author": "Jubongle",
+        "author_id": "UCYLRmdYAvcFlSDt7QDdnUMA",
+        "text": "@Cloud Strike this is a bojangles alt can you please ban me",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706558324,
+        "author": "Clyde Hater",
+        "author_id": "UC8kjN0C4rxNGodL6qT-T9Lg",
+        "text": "@Cloud Strike this is a bojangles alt can you please ban me",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1706558534,
+        "author": "ItsBeastly23",
+        "author_id": "UCqtjjeCt1Y1xP8sRBHiPA-Q",
+        "text": "Wings who are you rooting for in the Super Bowl?",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1706558566,
+        "author": "Bojangles",
+        "author_id": "UCNLQODaWq0OIlQ4EHKromUg",
+        "text": "@Cloud Strike why are you timing out instead of banning",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706558655,
+        "author": "007's Restream",
+        "author_id": "UCjSbXFXJXl5zdOAhFW0EnNg",
+        "text": "Hey wings! how did you manage to make your chair disappear? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706558687,
+        "author": "CaptainBeefheart",
+        "author_id": "UCOIUgvbhMVtKplbfWGH8cKw",
+        "text": "Mawds ban Leon",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706558864,
+        "author": "Bojangles",
+        "author_id": "UCEkzKtU2uYSf_OczsnQHDxg",
+        "text": "@glthompson can you ask wings to ban me",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706558945,
+        "author": "let bojangles blow that back out",
+        "author_id": "UCi_ntrUq0FPdo4Mb7dJoW9A",
+        "text": "@John Bono why are you making this harder than it needs to be",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706559485,
+        "author": "Bojangles",
+        "author_id": "UCuuWPvS9WCiDAS4OD_Z2NiA",
+        "text": "wings can I get a ban",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706559678,
+        "author": "Wings Of Dead Rocko",
+        "author_id": "UCqrk5ac9sue0sw4uQqi3v-g",
+        "text": "Whassup my blimp sized pimp! ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706559686,
+        "author": "Bojangles Poonan",
+        "author_id": "UCWjncO9U2qzF2V39__IwxKQ",
+        "text": "ban check",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706559742,
+        "author": "alcidusax",
+        "author_id": "UCTqFi8J-vP7pKO9tBmkmGXg",
+        "text": "wings is a pdf file",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706559887,
+        "author": "BOJANGLES",
+        "author_id": "UCMMiC1nGDRTUxGzOIME4wWA",
+        "text": "I don't want to troll john, please just ban",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706560347,
+        "author": "Eye Sack",
+        "author_id": "UCbZ8fxC2MYMyIlaTxXY9g9Q",
+        "text": "wings homophobic by proxy?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706560371,
+        "author": "マイ トワル",
+        "author_id": "UCaTUXfQSobHhD_JUuguuYkQ",
+        "text": "why did you ban me ritchard all i did was fart in kellys mouth",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706560419,
+        "author": "Jungle Frag",
+        "author_id": "UC3YrYf1wT9-cnVLaAnjQ-Gw",
+        "text": "Omg webbyfivenine is in the reewl tok twutch chat right now haha",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706560757,
+        "author": "Bro r u crying? Lol wow",
+        "author_id": "UCyIAv-xtuzxeCIxd70p61nQ",
+        "text": "Whats the dono goal? Im about to donate big pimp",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706560814,
+        "author": "Michael Hart",
+        "author_id": "UCWm5NY5N_9JK2WgD5mAtnxg",
+        "text": "begging",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706560927,
+        "author": "HexaNerva",
+        "author_id": "UCWhUMhSdI_dHQRo8Syynwzw",
+        "text": "hahahahahahahahahahha",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1706561362,
+        "author": "Eye Sack",
+        "author_id": "UCbZ8fxC2MYMyIlaTxXY9g9Q",
+        "text": "people just gotta stop donating then we get a new rock bottom",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1706562026,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 35.99
+    }
+]
