@@ -1,0 +1,594 @@
+[
+    {
+        "event": "start",
+        "time": 1709856485,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709856486,
+        "author": "Azura",
+        "author_id": "UCVSNmGcbTGQXsrwBOsbsxWA",
+        "text": "god you are boring",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709856518,
+        "author": "NotNotBojangles",
+        "author_id": "UCWnydnNKyfJp0YJWRv2BAjg",
+        "text": "@wings of redemption why did you get so little money last stream? I wasn’t there. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709856526,
+        "author": "Jortic",
+        "author_id": "UCqo0_ZmUNGpn_M5iM9w21uA",
+        "text": "What’s up pip ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709856591,
+        "author": "Philthy",
+        "author_id": "UCDZ1Jto43zaJS4QrWMotYEg",
+        "text": "This is for you Pimp",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1709856607,
+        "author": "Snail",
+        "author_id": "UCcSaZr1qT52Sz46z4WLCM-w",
+        "text": "I WONDER IF RAINBOW SIX WILL GET A SEQUEL",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709856712,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": "",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709856744,
+        "author": "Dan G.",
+        "author_id": "UCVGEygQC-yTETdGj9iHmkGA",
+        "text": "sup wings. i named my ship in helldivers 2 after you, the SES wings of redemption ",
+        "usd": 10.0
+    },
+    {
+        "event": "ban",
+        "time": 1709856784,
+        "author": "Internet guy",
+        "author_id": "UCaLcfaEx5FVE96ityOWbbvQ",
+        "text": "Shout out Lummox shout out Gigarichard ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709856784,
+        "author": "Glthompson the 2nd ",
+        "author_id": "UCfoZWzFjkuFOgjJAwnrvJvw",
+        "text": "Lou you can leave dude ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709856824,
+        "author": "Hugeearn82",
+        "author_id": "UCEZX_NzLq0W_IK69lDsTJdg",
+        "text": "Mods deleting alot it seems",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709856841,
+        "author": "Shippo",
+        "author_id": "UCOy2twVlP6iOY37rbaEfOcw",
+        "text": "What the heck is going on in chat right now?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709857050,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": " big ups to John cena",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709857179,
+        "author": "HydroIX",
+        "author_id": "UCuXAmhyAE5MQg6B7JoLs0_w",
+        "text": "Yo pimp you need one more? Im down to join",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1709857324,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": "I can't be the only one who thinks the guy wings is talking to sounds like cena",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1709857332,
+        "author": "Dr pp",
+        "author_id": "UC0o4OwBGj8voV385KFjoacg",
+        "text": "Also doesn’t play zombies because he can’t blame the zombies for playing bad",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709857372,
+        "author": "Bryce Blanton",
+        "author_id": "UC0EspWE0f72mMbzqdOIF9DQ",
+        "text": "",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1709857420,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": "sk8 can't see me",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709857517,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": "didn't her dad just step down from all the allegations or something ?",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709857573,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": "tell sk8 ..John cena. stop wearing blue jeans shorts with 20 arm bands lol ",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1709857694,
+        "author": "Glthompson the 2nd ",
+        "author_id": "UCfoZWzFjkuFOgjJAwnrvJvw",
+        "text": "Thanks Chris. I saw you in a certain channels comments the other day. Big ups ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709858467,
+        "author": "Raul Tejada",
+        "author_id": "UCq87pheYl267wc1Uu-XJcog",
+        "text": "yo Richie Dubbz consider supporting the stream pimp and donate!",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709858548,
+        "author": "Richie Dubbz",
+        "author_id": "UC3Uq6pgLJNMG4Ms6X_wdjkA",
+        "text": "",
+        "usd": 1.0
+    },
+    {
+        "event": "ban",
+        "time": 1709858556,
+        "author": "Leon Firiri",
+        "author_id": "UCCk56d2pYjZomwqHGyAr9EA",
+        "text": "I suggested maybe the enemy team were just better and not in fact cheating @Glthompson the 2nd ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709858709,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": "yea thats like Stephen hawking vs Muhammed Ali lol no shot mike old asf ",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1709858870,
+        "author": "Glthompson the 2nd ",
+        "author_id": "UCfoZWzFjkuFOgjJAwnrvJvw",
+        "text": "@Six70two thank god you’re here. Cloud Strike has been hiding everyone and ruining the chat ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709858878,
+        "author": "brownhammer37",
+        "author_id": "UC-Bgp3pBFXJ9pqZ_t8f7FHg",
+        "text": "Wings could put a end to this jake Paul nonsense ",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1709858918,
+        "author": "Chris",
+        "author_id": "UCB_N6j-qcs3tY8BqX6guDIg",
+        "text": "yo wtf free glthompson",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709859087,
+        "author": "Decypther",
+        "author_id": "UCmWFaGUC9q--M4yO9zP1ImA",
+        "text": "Bro is Cody Rhodes ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709859426,
+        "author": "Glthompson the 2nd ",
+        "author_id": "UCfoZWzFjkuFOgjJAwnrvJvw",
+        "text": "Im always getting banned for no reason ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709859450,
+        "author": "Raul Tejada",
+        "author_id": "UCq87pheYl267wc1Uu-XJcog",
+        "text": "yo Mazedeux consider supporting the stream pimp and donate ",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1709859466,
+        "author": "Beer_Oil",
+        "author_id": "UC75vlImxINOlth4Vs20kYpw",
+        "text": "big ups lummux ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709859812,
+        "author": "Fishing 4life",
+        "author_id": "UCCDdMQPolXO2imsYE8i33Hw",
+        "text": ":thumbs_up:",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1709859853,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": "Raul gifted 5 to",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709860030,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": "ban Raul for making me look poor ..show off :grinning_squinting_face: :rolling_on_the_floor_laughing: ",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709860433,
+        "author": "Dino Australia",
+        "author_id": "UCymUxneCTC678BsPgJ08PHg",
+        "text": "Hi Wings! What headset do you recommend for the PS5? ",
+        "usd": 6.62
+    },
+    {
+        "event": "ban",
+        "time": 1709860747,
+        "author": "Timothy Fulkerson",
+        "author_id": "UC5K9z2fn0Uf0oUqHJnbE0Ew",
+        "text": "rip in the guy that donated",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709860835,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": " remember what Jake did to nate Robinson lol",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709861013,
+        "author": "Alex",
+        "author_id": "UCi8JEY1NQIc3t9oXYMC04mw",
+        "text": "Would you box Oleksandr Usyk for 5k? no holding back",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709861109,
+        "author": "Alex",
+        "author_id": "UCi8JEY1NQIc3t9oXYMC04mw",
+        "text": "box boogie for free? again",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709861286,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": "do you. watch bare knuckle fights. .",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1709861600,
+        "author": "Newton",
+        "author_id": "UC47NPnFP3hwyzM9BzS_rIFQ",
+        "text": "Rey might be the best character ever created",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709861850,
+        "author": "Anthony Evans",
+        "author_id": "UCe8x1kLUUWZp2ei4sR-B0ZQ",
+        "text": "sorry for your loss. rip boogie",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709862140,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": "they would chain crackheads to trees on bum fights :grinning_squinting_face: then run off with there clothes",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1709862494,
+        "author": "Newton",
+        "author_id": "UC47NPnFP3hwyzM9BzS_rIFQ",
+        "text": "@Wings of Redemption you should definitely react to the SOTY",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709862720,
+        "author": "Dogma",
+        "author_id": "UC4mddztj-jNl5t1fC7mGlFA",
+        "text": "Hey wings! ",
+        "usd": 9.99
+    },
+    {
+        "event": "ban",
+        "time": 1709863082,
+        "author": "Schaeburn Farm",
+        "author_id": "UCWeTMflzx1S_NJz185R2vwA",
+        "text": "Jordie what's your favorite Kevin James movie?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709863171,
+        "author": "Dino Australia",
+        "author_id": "UCymUxneCTC678BsPgJ08PHg",
+        "text": "Do you think PS5 is better than Xbox ? ",
+        "usd": 5.29
+    },
+    {
+        "event": "ban",
+        "time": 1709863453,
+        "author": "SmoknTumbleWeed",
+        "author_id": "UCvQljzmf0VjR2YMMsVeO3VA",
+        "text": "WHERES MUH HELP!",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709863799,
+        "author": "Dogma",
+        "author_id": "UC4mddztj-jNl5t1fC7mGlFA",
+        "text": "Alright think I figured it out. Apparently there’s an option as a moderator to hide a user from the channel. So messages are hidden but I’m not banned",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1709864347,
+        "author": "emeowgency",
+        "author_id": "UCvSMf2U4Q_sKWXOPL3wCZFg",
+        "text": "I hit a nerve lou? ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709864677,
+        "author": "The Way She Goes",
+        "author_id": "UCsTyUuJeNAifvCTtdjT0mHA",
+        "text": "mods ban anyone from my chat who disagrees when I say that Jeffrey epstien was a Pepsi pimp, shoutout to my Oskar Dirlewanger",
+        "usd": 3.72
+    },
+    {
+        "event": "ban",
+        "time": 1709864830,
+        "author": "SmoknTumbleWeed",
+        "author_id": "UCvQljzmf0VjR2YMMsVeO3VA",
+        "text": "can a 400 pound man fit in a camaro? like awnestly",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709865153,
+        "author": "ThisShowSUCKS",
+        "author_id": "UCANYL0L-hmvkjn7Sr6nvbbw",
+        "text": "Thats going in a BB video",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709865161,
+        "author": "Grand Master Yoda",
+        "author_id": "UCAhqFSniEEwrpVi2Uq17Fuw",
+        "text": "End of the stream incoming ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709865193,
+        "author": "DL5fsE",
+        "author_id": "UCdbTwCOjnJ0bSv39nfm1xXA",
+        "text": "he's the charger guy",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709865209,
+        "author": "Jarl Jordie",
+        "author_id": "UCjJD7bVBpZ4-fYcSMfqbAkQ",
+        "text": "let me guess, someone stole your sweet roll ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709865217,
+        "author": "The Way She Goes",
+        "author_id": "UCsTyUuJeNAifvCTtdjT0mHA",
+        "text": "why didn't you read my superchat jordie , at least read this one boy: shoutout to my digga Shiro Ishi for hooking me up with my chinese cat waifu:eggplant: ",
+        "usd": 3.72
+    },
+    {
+        "event": "ban",
+        "time": 1709865371,
+        "author": "not a drug dealer",
+        "author_id": "UCWw-NsBd1oDfq6vQ6wiMXxg",
+        "text": "people should know",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709865580,
+        "author": "woodytypebeat",
+        "author_id": "UCoIcIIzeeA1KdLH7y6cdHzw",
+        "text": "1015 NW 21st ave ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709865628,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": " Chuck Norris won American idol using only sign language ",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1709865741,
+        "author": "Gabe’s Gaming Show™",
+        "author_id": "UCInHcIau5Vyb4nXa-rvJIVA",
+        "text": "i identify as stolen surgery money ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709865838,
+        "author": "The Way She Goes",
+        "author_id": "UCsTyUuJeNAifvCTtdjT0mHA",
+        "text": "chargebacked buddy, next time read my stuff :crying_face: ",
+        "usd": 1.49
+    },
+    {
+        "event": "ban",
+        "time": 1709865903,
+        "author": "The Way She Goes",
+        "author_id": "UCsTyUuJeNAifvCTtdjT0mHA",
+        "text": "buddy, read my messages before I chargeback again",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709865999,
+        "author": "Agent Smith ",
+        "author_id": "UCjaPdtnJzuio8cFF9_-GWZA",
+        "text": "The Way She Goes and now you banned good job.",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709866096,
+        "author": "Agent Smith ",
+        "author_id": "UCjaPdtnJzuio8cFF9_-GWZA",
+        "text": "",
+        "usd": 2.56
+    },
+    {
+        "event": "ban",
+        "time": 1709866862,
+        "author": "Timmy BigPants",
+        "author_id": "UCACFqByA-wN1ongeA8WhFlQ",
+        "text": "@wingsofredemption why was Kelly talking about a Camaro key yesterday?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1709866934,
+        "author": "Philthy",
+        "author_id": "UCDZ1Jto43zaJS4QrWMotYEg",
+        "text": "Keeping the positive vibes going",
+        "usd": 9.99
+    },
+    {
+        "event": "ban",
+        "time": 1709867015,
+        "author": "Lizard Man",
+        "author_id": "UC1Vbi67ALJeD9-sTRM1Kt3Q",
+        "text": "wow you guys got smoked",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709867047,
+        "author": "Glthompson the 2nd ",
+        "author_id": "UCfoZWzFjkuFOgjJAwnrvJvw",
+        "text": "Is Cloud Strike still here? ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709867232,
+        "author": "Ryan",
+        "author_id": "UCtbuXBV6ljQLxJGQR9TX5bA",
+        "text": "absolutely nothing to show for all that time ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709867248,
+        "author": "Sunemis",
+        "author_id": "UCQfjIaGs5IgsGLp6BFD2vQQ",
+        "text": "LMAOOOOOOOO",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1709867453,
+        "author": "PhineastheTiger",
+        "author_id": "UCEeLyrMa8MLg3-MCBYPWSQA",
+        "text": "@Boston Celtics Most likely not, Trust",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1709868050,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 155.32000000000002
+    }
+]
