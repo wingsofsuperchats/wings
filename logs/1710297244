@@ -1,0 +1,762 @@
+[
+    {
+        "event": "start",
+        "time": 1710297244,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1710297246,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": "",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1710297246,
+        "author": "Ben Kylo",
+        "author_id": "UCyXSFW_tUYoNz4nl_ygRjjA",
+        "text": "Great show tonight, Jordie! The end with Blade was hilarious.",
+        "usd": 6.4
+    },
+    {
+        "event": "ban",
+        "time": 1710297246,
+        "author": "Tyran",
+        "author_id": "UC82G7VRqknJGx7CybLh8U6w",
+        "text": "Wings wont respond unless its a dono Dyllan.",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710297246,
+        "author": "",
+        "author_id": "",
+        "text": "191",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710297338,
+        "author": "",
+        "author_id": "",
+        "text": "222",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710297429,
+        "author": "",
+        "author_id": "",
+        "text": "217",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710297488,
+        "author": "GetThatGriff",
+        "author_id": "UC0BJZBur9VU73dO3ls7_Z1A",
+        "text": "Disaster stream incoming",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710297521,
+        "author": "",
+        "author_id": "",
+        "text": "223",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710297576,
+        "author": "Dale",
+        "author_id": "UCuSnBmGwDR5vkVJPChQdeHA",
+        "text": "Lmao rage quit ",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1710297592,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "greyson clicked stop streaming",
+        "usd": 0.0
+    },
+    {
+        "event": "wings_message",
+        "time": 1710297592,
+        "author": "Wings of Redemption",
+        "author_id": "UCk-xZQ9v9ZyNc9qCunW0jzQ",
+        "text": "it should be back now",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710297612,
+        "author": "",
+        "author_id": "",
+        "text": "191",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710297617,
+        "author": "Alden",
+        "author_id": "UC9TQ-YctzYX33AX0c5xm0Bg",
+        "text": "Was it because of the horse video?",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710297704,
+        "author": "",
+        "author_id": "",
+        "text": "242",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710297754,
+        "author": "Carl peacock",
+        "author_id": "UCU-qLkeGZrgwaU61ce75wyg",
+        "text": "@wings Of Redemption you better answer me or else. ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1710297786,
+        "author": "respergu",
+        "author_id": "UCFTleus_uceYD-7zJX7CCeQ",
+        "text": "Mr Wings good podcast today! :popcorn:",
+        "usd": 2.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710297796,
+        "author": "",
+        "author_id": "",
+        "text": "230",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710297850,
+        "author": "Chig Dungus",
+        "author_id": "UC23Kikf3DEdEVAraxEZ8W7Q",
+        "text": "wingo you should rematch syndicate and promote it like the boxing match",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1710297850,
+        "author": "January Rose",
+        "author_id": "UCTVBpxVI4wosiE4GO5ZSQEA",
+        "text": "what is the cats name. he or she is very cute",
+        "usd": 2.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710297887,
+        "author": "",
+        "author_id": "",
+        "text": "221",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1710297907,
+        "author": "lou sassle",
+        "author_id": "UCFuNBOwfH9Zem0fL5OofAyA",
+        "text": "every podcast is good when wings is behind the wheel .. ",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1710297947,
+        "author": "Hugeearn82",
+        "author_id": "UCEZX_NzLq0W_IK69lDsTJdg",
+        "text": "Sorry for your nuts Greyson",
+        "usd": 2.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710297979,
+        "author": "",
+        "author_id": "",
+        "text": "243",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710298071,
+        "author": "",
+        "author_id": "",
+        "text": "262",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710298162,
+        "author": "",
+        "author_id": "",
+        "text": "273",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710298254,
+        "author": "",
+        "author_id": "",
+        "text": "275",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710298345,
+        "author": "",
+        "author_id": "",
+        "text": "285",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710298437,
+        "author": "",
+        "author_id": "",
+        "text": "283",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1710298519,
+        "author": "Agent Smith ",
+        "author_id": "UCjaPdtnJzuio8cFF9_-GWZA",
+        "text": "",
+        "usd": 6.4
+    },
+    {
+        "event": "viewcount",
+        "time": 1710298529,
+        "author": "",
+        "author_id": "",
+        "text": "279",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710298620,
+        "author": "",
+        "author_id": "",
+        "text": "291",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1710298672,
+        "author": "hansolo989",
+        "author_id": "UCGcUf1n3ky1RlvI0xPiw1eQ",
+        "text": ":_Big:",
+        "usd": 2.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710298712,
+        "author": "",
+        "author_id": "",
+        "text": "300",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710298805,
+        "author": "",
+        "author_id": "",
+        "text": "296",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710298897,
+        "author": "",
+        "author_id": "",
+        "text": "289",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710298906,
+        "author": "Hal Turner",
+        "author_id": "UCb42OvLDsRnCKfEcFqs5IaQ",
+        "text": "Wings killed Rocko by overfeeding it and making it's kidneys fail. The cats love licking the grease that comes out Wings' pores. He abuses Bongo too by ignoring him. ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710298954,
+        "author": "Drunk Dog",
+        "author_id": "UCrTkK1OJicQM0F-xE6fo7bw",
+        "text": "Bongo update",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710298988,
+        "author": "",
+        "author_id": "",
+        "text": "291",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710299080,
+        "author": "",
+        "author_id": "",
+        "text": "286",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710299172,
+        "author": "",
+        "author_id": "",
+        "text": "299",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710299263,
+        "author": "",
+        "author_id": "",
+        "text": "301",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710299355,
+        "author": "",
+        "author_id": "",
+        "text": "307",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710299446,
+        "author": "",
+        "author_id": "",
+        "text": "305",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710299486,
+        "author": "Alwaysydgin",
+        "author_id": "UC6QDQerzIxLXr-5zbEr3VVA",
+        "text": "has he complained about the donation rate or am I early",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710299534,
+        "author": "LOWtGOD",
+        "author_id": "UCFnUpGgXWAuDGSE_w-FtPfQ",
+        "text": "tea you said you'd stop modding for wings",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710299538,
+        "author": "",
+        "author_id": "",
+        "text": "307",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710299630,
+        "author": "",
+        "author_id": "",
+        "text": "306",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710299721,
+        "author": "",
+        "author_id": "",
+        "text": "318",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710299813,
+        "author": "",
+        "author_id": "",
+        "text": "299",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710299904,
+        "author": "",
+        "author_id": "",
+        "text": "308",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710299996,
+        "author": "",
+        "author_id": "",
+        "text": "312",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710300088,
+        "author": "",
+        "author_id": "",
+        "text": "315",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710300180,
+        "author": "",
+        "author_id": "",
+        "text": "330",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710300271,
+        "author": "",
+        "author_id": "",
+        "text": "319",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710300363,
+        "author": "",
+        "author_id": "",
+        "text": "315",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710300380,
+        "author": "PowderedWigLouis",
+        "author_id": "UCH6qTEJVq5rYK_82ULuqYZg",
+        "text": "@tea",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710300455,
+        "author": "",
+        "author_id": "",
+        "text": "318",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710300546,
+        "author": "",
+        "author_id": "",
+        "text": "327",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710300638,
+        "author": "",
+        "author_id": "",
+        "text": "336",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710300711,
+        "author": "highguy",
+        "author_id": "UCClAaJ8ojIxcWOlytHaTTAw",
+        "text": "wheres mmuh help",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710300730,
+        "author": "",
+        "author_id": "",
+        "text": "328",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710300821,
+        "author": "",
+        "author_id": "",
+        "text": "325",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710300904,
+        "author": "Dan Shuman",
+        "author_id": "UCEh9BWVH6MG3J6SM-aiNC0A",
+        "text": "let them yaegers know ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710300913,
+        "author": "",
+        "author_id": "",
+        "text": "332",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710301004,
+        "author": "",
+        "author_id": "",
+        "text": "327",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710301096,
+        "author": "",
+        "author_id": "",
+        "text": "330",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710301188,
+        "author": "",
+        "author_id": "",
+        "text": "326",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710301279,
+        "author": "",
+        "author_id": "",
+        "text": "327",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710301371,
+        "author": "",
+        "author_id": "",
+        "text": "317",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710301388,
+        "author": "NBA Daily",
+        "author_id": "UCvZ2ZA8WujsykPxk7bZD8-Q",
+        "text": "is boogie still dating the underage girl?",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710301462,
+        "author": "",
+        "author_id": "",
+        "text": "326",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710301541,
+        "author": "Robert Lundwall the Singing Salesman",
+        "author_id": "UCrYzoZCOVlGzIEEep6IHafg",
+        "text": "which pet did you put under the bucket? @Wings of Redemption ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710301554,
+        "author": "",
+        "author_id": "",
+        "text": "323",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710301565,
+        "author": "DRGamer4958",
+        "author_id": "UCVKOWP5J_xM1SQ65RZbfYeg",
+        "text": ":)",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710301646,
+        "author": "",
+        "author_id": "",
+        "text": "321",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710301737,
+        "author": "",
+        "author_id": "",
+        "text": "321",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710301829,
+        "author": "",
+        "author_id": "",
+        "text": "318",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710301921,
+        "author": "",
+        "author_id": "",
+        "text": "312",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710302012,
+        "author": "",
+        "author_id": "",
+        "text": "323",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710302104,
+        "author": "",
+        "author_id": "",
+        "text": "327",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710302195,
+        "author": "",
+        "author_id": "",
+        "text": "326",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710302287,
+        "author": "",
+        "author_id": "",
+        "text": "322",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710302379,
+        "author": "",
+        "author_id": "",
+        "text": "317",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710302403,
+        "author": "M.J. Driver",
+        "author_id": "UCFh_x83SZZwQ6nJiG5bjD-g",
+        "text": "you don't need tips, you have money",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710302470,
+        "author": "",
+        "author_id": "",
+        "text": "310",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710302562,
+        "author": "",
+        "author_id": "",
+        "text": "307",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710302653,
+        "author": "",
+        "author_id": "",
+        "text": "308",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1710302693,
+        "author": "DivineTiger97",
+        "author_id": "UC2qjHvHb-tea4OAm3XGmwDA",
+        "text": "thx 4 the content ",
+        "usd": 10.0
+    },
+    {
+        "event": "superchat",
+        "time": 1710302701,
+        "author": "Hugeearn82",
+        "author_id": "UCEZX_NzLq0W_IK69lDsTJdg",
+        "text": "Prostitute for Greyson fund",
+        "usd": 4.99
+    },
+    {
+        "event": "viewcount",
+        "time": 1710302745,
+        "author": "",
+        "author_id": "",
+        "text": "295",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710302806,
+        "author": "M.J. Driver",
+        "author_id": "UCFh_x83SZZwQ6nJiG5bjD-g",
+        "text": "maybe don't take risks",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1710302836,
+        "author": "",
+        "author_id": "",
+        "text": "303",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1710302854,
+        "author": "Beardown_40",
+        "author_id": "UCI7ZeJwI6Vq-Caq8o1d7cew",
+        "text": "Wings of whining ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1710303503,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 45.79
+    }
+]
