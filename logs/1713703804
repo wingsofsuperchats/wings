@@ -1,0 +1,1002 @@
+[
+    {
+        "event": "start",
+        "time": 1713703804,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713703806,
+        "author": "",
+        "author_id": "",
+        "text": "134",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713703898,
+        "author": "",
+        "author_id": "",
+        "text": "146",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713703989,
+        "author": "",
+        "author_id": "",
+        "text": "150",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713704079,
+        "author": "Patchy Beard",
+        "author_id": "UCQdZzKZjS9Cy3EBXLg4OG8w",
+        "text": "What's the origin of nogodsnomonsters, unironically such a cool name, also Happy Birthday ",
+        "usd": 5.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713704081,
+        "author": "",
+        "author_id": "",
+        "text": "164",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713704096,
+        "author": "Matty",
+        "author_id": "UCDxNedXfWpeQtqn9GfidC8g",
+        "text": "Morning Moon ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713704172,
+        "author": "",
+        "author_id": "",
+        "text": "166",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713704264,
+        "author": "",
+        "author_id": "",
+        "text": "155",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713704356,
+        "author": "",
+        "author_id": "",
+        "text": "168",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713704447,
+        "author": "",
+        "author_id": "",
+        "text": "182",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713704450,
+        "author": "Callum",
+        "author_id": "UCOISeYuYN4RM9CgQ2NgY-AA",
+        "text": "Boxing anytime soon? ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713704539,
+        "author": "",
+        "author_id": "",
+        "text": "190",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713704631,
+        "author": "",
+        "author_id": "",
+        "text": "191",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713704722,
+        "author": "",
+        "author_id": "",
+        "text": "194",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713704814,
+        "author": "",
+        "author_id": "",
+        "text": "192",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713704853,
+        "author": "Callum",
+        "author_id": "UCOISeYuYN4RM9CgQ2NgY-AA",
+        "text": "Boxing anytime soon? ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713704905,
+        "author": "",
+        "author_id": "",
+        "text": "205",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713704997,
+        "author": "",
+        "author_id": "",
+        "text": "197",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713705089,
+        "author": "",
+        "author_id": "",
+        "text": "203",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713705159,
+        "author": "Foofighter",
+        "author_id": "UCiIgXApgWMM98DIPgXpupIQ",
+        "text": "Loving the new Vegas streams",
+        "usd": 1.99
+    },
+    {
+        "event": "viewcount",
+        "time": 1713705180,
+        "author": "",
+        "author_id": "",
+        "text": "206",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713705183,
+        "author": "JJ",
+        "author_id": "UC444I20ptjasfXyzdMrKjIQ",
+        "text": "I wish i could just turn 2 dollar donations off",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713705272,
+        "author": "",
+        "author_id": "",
+        "text": "222",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713705365,
+        "author": "",
+        "author_id": "",
+        "text": "211",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713705369,
+        "author": "PepsiDrivenFuGMachine",
+        "author_id": "UCEvZNeV-M_KIbhlF_5VwrZQ",
+        "text": "Happy Berfday Pimp Big Ups:birthday_cake:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713705417,
+        "author": "BigStrongGreg",
+        "author_id": "UCLquRMPui_iIAXSFCp4o6mg",
+        "text": "would you rather fight a bear or 100 chickens",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713705417,
+        "author": "Rahul",
+        "author_id": "UCubqV9usk2sACvgT2g53B4Q",
+        "text": "Happy birthday pimp",
+        "usd": 1.92
+    },
+    {
+        "event": "viewcount",
+        "time": 1713705457,
+        "author": "",
+        "author_id": "",
+        "text": "215",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713705548,
+        "author": "",
+        "author_id": "",
+        "text": "217",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713705640,
+        "author": "",
+        "author_id": "",
+        "text": "229",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713705731,
+        "author": "",
+        "author_id": "",
+        "text": "219",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713705823,
+        "author": "",
+        "author_id": "",
+        "text": "232",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713705915,
+        "author": "",
+        "author_id": "",
+        "text": "234",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713706006,
+        "author": "",
+        "author_id": "",
+        "text": "235",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713706098,
+        "author": "",
+        "author_id": "",
+        "text": "226",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713706190,
+        "author": "",
+        "author_id": "",
+        "text": "239",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713706281,
+        "author": "",
+        "author_id": "",
+        "text": "240",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713706373,
+        "author": "",
+        "author_id": "",
+        "text": "237",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713706416,
+        "author": "NYINE12",
+        "author_id": "UC_tGuQG-hNSYMhZkNscqu9A",
+        "text": "Dam even in gaming wings can’t move much lmao",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713706465,
+        "author": "",
+        "author_id": "",
+        "text": "239",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713706557,
+        "author": "",
+        "author_id": "",
+        "text": "234",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713706648,
+        "author": "",
+        "author_id": "",
+        "text": "226",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713706740,
+        "author": "",
+        "author_id": "",
+        "text": "237",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713706831,
+        "author": "",
+        "author_id": "",
+        "text": "241",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713706859,
+        "author": "Nitro_V700",
+        "author_id": "UCtU-GABFGhOm8LuIjx4Dj3w",
+        "text": "What’s up wings ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713706925,
+        "author": "",
+        "author_id": "",
+        "text": "254",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713707016,
+        "author": "",
+        "author_id": "",
+        "text": "265",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713707020,
+        "author": "John Maxwell",
+        "author_id": "UCDPQQpsfFn7BzfKXaE3KbhA",
+        "text": "good morning wings. who is your favorite new Vegas prostltute?",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1713707061,
+        "author": "NitroV2EG",
+        "author_id": "UCgRZ84PhKhx60mAs8To5u9Q",
+        "text": "Wings is 12 your favorite number ??",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713707108,
+        "author": "",
+        "author_id": "",
+        "text": "252",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713707181,
+        "author": "Too Kool",
+        "author_id": "UCrnX-GZlz5bJExIB_M-6P0g",
+        "text": "happy bday dude",
+        "usd": 7.95
+    },
+    {
+        "event": "ban",
+        "time": 1713707189,
+        "author": "Mickey",
+        "author_id": "UC9IarUmuIohe8RCYJcZ6uvA",
+        "text": "Hello wings how's it's going today ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713707200,
+        "author": "",
+        "author_id": "",
+        "text": "242",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713707291,
+        "author": "",
+        "author_id": "",
+        "text": "236",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713707294,
+        "author": "Jack Chipper",
+        "author_id": "UCZBoB0g51c5drhEyfpc89UQ",
+        "text": "Your thoughts on the show man ",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1713707302,
+        "author": "Jon Malcolm",
+        "author_id": "UCl8J3QYnaBEvekO_dMxDzPA",
+        "text": "",
+        "usd": 12.36
+    },
+    {
+        "event": "viewcount",
+        "time": 1713707383,
+        "author": "",
+        "author_id": "",
+        "text": "231",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713707475,
+        "author": "",
+        "author_id": "",
+        "text": "242",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713707566,
+        "author": "",
+        "author_id": "",
+        "text": "253",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713707658,
+        "author": "",
+        "author_id": "",
+        "text": "261",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713707750,
+        "author": "",
+        "author_id": "",
+        "text": "261",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713707841,
+        "author": "",
+        "author_id": "",
+        "text": "254",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713707933,
+        "author": "",
+        "author_id": "",
+        "text": "250",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713708024,
+        "author": "",
+        "author_id": "",
+        "text": "257",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713708116,
+        "author": "",
+        "author_id": "",
+        "text": "253",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713708208,
+        "author": "",
+        "author_id": "",
+        "text": "248",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1713708299,
+        "author": "",
+        "author_id": "",
+        "text": "266",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713708318,
+        "author": "Hugeearn82",
+        "author_id": "UCEZX_NzLq0W_IK69lDsTJdg",
+        "text": "Happy Birthday pimp!",
+        "usd": 9.99
+    },
+    {
+        "event": "ban",
+        "time": 1713708334,
+        "author": "2013 V6",
+        "author_id": "UCqDym02m4nQS3klVqlrnehg",
+        "text": "270 viewers on fallout. killing it pimp",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713708878,
+        "author": "Warrior2995",
+        "author_id": "UCwUNa4cX1LriMMOWnG8JcjQ",
+        "text": "Big ups pimp!",
+        "usd": 7.25
+    },
+    {
+        "event": "superchat",
+        "time": 1713708983,
+        "author": "Lord Liquorice",
+        "author_id": "UCsp56pAY0tnDCmo1_qQH3Sg",
+        "text": "friendly reminder: you're a boxing champion. congratulations ",
+        "usd": 10.0
+    },
+    {
+        "event": "ban",
+        "time": 1713709152,
+        "author": "Lol",
+        "author_id": "UC9SXmO-viMk3h6fU6M__BGg",
+        "text": "Damn 177 viewers? Should’ve just stayed on Vegas. Maybe more viewers will start pouring in soon ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713709402,
+        "author": "Nitro506",
+        "author_id": "UCriWh4ZHvfQ6ch7CyABLxkQ",
+        "text": "Wings I am trying to help you get better. You have an attraction to mi nors and need help. This is why your Chanel should be removed",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713709507,
+        "author": "Mickey",
+        "author_id": "UC9IarUmuIohe8RCYJcZ6uvA",
+        "text": "Happy birthday wings ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713709950,
+        "author": "WarshWudderSwallows",
+        "author_id": "UCII8oqLsNGY7okhSJwnmDig",
+        "text": "Only 200 viewers ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713710248,
+        "author": "RedneckSammy21",
+        "author_id": "UCc_cz49jzflkWe6Ik1C6-6g",
+        "text": "i dont think bongo leaves the kennel",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713710264,
+        "author": "Toast",
+        "author_id": "UCZKz1m0lf-hmOm5wpfVo0BA",
+        "text": ":_Bongo:",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713710264,
+        "author": "ItsBeastly23",
+        "author_id": "UCqtjjeCt1Y1xP8sRBHiPA-Q",
+        "text": "my girlfriend said, \"It's either wingsofredemption stream or me.\" I told her to pack her bags",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1713710449,
+        "author": "FootballFan2425",
+        "author_id": "UCHr2gm5dTXTxcFProU12v0g",
+        "text": "Does Bongo get daily pets and attention? Please tell us pimp",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713710489,
+        "author": "hamiltonsandwich",
+        "author_id": "UCTTNC0mNWke1cmH0CJoB73A",
+        "text": "More where this comes from if u drop Demon Knight",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1713710522,
+        "author": "Khaines Korner",
+        "author_id": "UC3yu4ucbt_3_KJAki5jncBg",
+        "text": "Just thought i'd show some appreciation. Normally just watch and don't say anything. Love your commentary on lolcow. Savage af!",
+        "usd": 24.74
+    },
+    {
+        "event": "ban",
+        "time": 1713710651,
+        "author": "Jacrispy",
+        "author_id": "UCG6K60cZFL3bm4ehINyHhWA",
+        "text": "xbox Connect mic can’t hear call outs wings control your team ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713710659,
+        "author": "Nitro504",
+        "author_id": "UCb8VL1AR-NExd5q4xh0JQ6Q",
+        "text": "It is amazing how you managed to trick ppl into thinking you are a good person. Good ppl don’t hurt children therapy was the answer ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713710723,
+        "author": "zantar",
+        "author_id": "UCToloZMsOKfDuIPzB76Vw8w",
+        "text": "oh dam happy birthday wings ",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713710763,
+        "author": "Trusted Texan",
+        "author_id": "UCtKDuZ4WACSCbjf_Qm_VOgA",
+        "text": "Happy Birthday Peimp! Hope Wendy’s puts some candles in your Chili today. ",
+        "usd": 49.99
+    },
+    {
+        "event": "superchat",
+        "time": 1713710788,
+        "author": "Ryan",
+        "author_id": "UCNYPCZ9NXWkE21N5H4FApJA",
+        "text": "Happy Birthday pimp!",
+        "usd": 9.99
+    },
+    {
+        "event": "ban",
+        "time": 1713710796,
+        "author": "Hugeearn82",
+        "author_id": "UCEZX_NzLq0W_IK69lDsTJdg",
+        "text": "He was in the experimental gay marine unit",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713710860,
+        "author": "Mami Azami",
+        "author_id": "UCjG-PIZDaYIMp-LfURp_RDA",
+        "text": "Happy birthday Jordie. Have you ever tried TRES LECHES CAKE?",
+        "usd": 19.99
+    },
+    {
+        "event": "superchat",
+        "time": 1713710892,
+        "author": "Jacrispy",
+        "author_id": "UCG6K60cZFL3bm4ehINyHhWA",
+        "text": "drop bad mic and get Atmy back , walmart mic ruing baby stream pimp",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1713710916,
+        "author": "Jacrispy",
+        "author_id": "UCG6K60cZFL3bm4ehINyHhWA",
+        "text": "drop bad mic and get Atmy back , walmart mic ruing baby stream pimp",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713710933,
+        "author": "Nitro503",
+        "author_id": "UCuxPBQx2EqyKsdJ_tcektKg",
+        "text": "My birthday gift will be getting your channel removed like it should be. You don’t deserve a platform",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713710973,
+        "author": "ChiGodd",
+        "author_id": "UCjpQ8EquP0bNZ2Ul4fQsfmQ",
+        "text": "Happy Birthday ",
+        "usd": 19.99
+    },
+    {
+        "event": "ban",
+        "time": 1713711271,
+        "author": "frycarton",
+        "author_id": "UCsUci6OIT2DaegyxPfUtRHA",
+        "text": "Sup richard, whats that kd of yours?",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713711352,
+        "author": "superturret",
+        "author_id": "UCgA7W7LxmX2ib-Aqhz_mXmw",
+        "text": ":birthday_cake: :party_popper: ",
+        "usd": 20.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713711569,
+        "author": "Riverbed Overland",
+        "author_id": "UC5Ppig8iG3r3r2jP89ILSfA",
+        "text": "Happy birthdayy jordie ",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1713711770,
+        "author": "Brett Munger",
+        "author_id": "UC2i6bO6ADlRMCwtlT1eDEbg",
+        "text": "Happy Birthday brother. You and me, slippingg slide contest on your property. You get the dawn dish soap, we got at least acres worth of sliding to go",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1713711939,
+        "author": "foob",
+        "author_id": "UCjI0NIxAvl8ibIE2LFLclGQ",
+        "text": "Hey Jordie have you ever considered being a pro r6 coach since you know alot of strats? Does Wendy's sponsor any teams?",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1713712181,
+        "author": "Big smelly turd",
+        "author_id": "UCauMHrtP9ugckOZP-eQn2RQ",
+        "text": "Had to get a new toilet because the last one got airlifted outta my apartment ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713712358,
+        "author": "dimitri",
+        "author_id": "UCqRxsAmSL5ehNP-j9IsGVmg",
+        "text": "i am for bnwo now!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713712374,
+        "author": "A grumpy yokozuna",
+        "author_id": "UCN3B1Lb5I-ETncbTgGhhvJw",
+        "text": "Fatman,slobfather and Conway conman ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713712648,
+        "author": "Pierre",
+        "author_id": "UCp_5mR7wJQoWQbi41fn5f-A",
+        "text": "Richard would you fentanyl??",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713712938,
+        "author": "DVD SCRATCH - Wingsofredemptions React Rewind",
+        "author_id": "UCHH5jMRhUEUljg_WYspcXhA",
+        "text": "How much for a step on the scale?",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713713035,
+        "author": "DVD SCRATCH - Wingsofredemptions React Rewind",
+        "author_id": "UCHH5jMRhUEUljg_WYspcXhA",
+        "text": "but you just said last week youre 395. So how much for a scale step on if youre so open about it",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713713333,
+        "author": "DVD SCRATCH - Wingsofredemptions React Rewind",
+        "author_id": "UCHH5jMRhUEUljg_WYspcXhA",
+        "text": "how much jordie.",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1713713510,
+        "author": "BlackHydro",
+        "author_id": "UC7uyrIaDXWIsF2cMmvqxC7g",
+        "text": "I’m on your IP ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713713558,
+        "author": "TINY",
+        "author_id": "UC_XmALU7Qb16Fs7mz0RLX7w",
+        "text": "Hey Richard...W Stream",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713713655,
+        "author": "DVD SCRATCH - Wingsofredemptions React Rewind",
+        "author_id": "UCHH5jMRhUEUljg_WYspcXhA",
+        "text": "Do you think that new kid coming to the school and being better at you at Baseball started how your ego is?",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1713713840,
+        "author": "BlackHydro",
+        "author_id": "UC7uyrIaDXWIsF2cMmvqxC7g",
+        "text": "Again, not shocked your a discord mod",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713714033,
+        "author": "DVD SCRATCH - Wingsofredemptions React Rewind",
+        "author_id": "UCHH5jMRhUEUljg_WYspcXhA",
+        "text": "So did you play baseball or not? it seems like youre bouncing around with it. What happened to you playing in HS but dropped out in 9th?",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713714098,
+        "author": "DVD SCRATCH - Wingsofredemptions React Rewind",
+        "author_id": "UCHH5jMRhUEUljg_WYspcXhA",
+        "text": "again, so whats the truth about baseball Jordie.",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713714235,
+        "author": "DVD SCRATCH - Wingsofredemptions React Rewind",
+        "author_id": "UCHH5jMRhUEUljg_WYspcXhA",
+        "text": "prove they arent your brothers. also you have said so much that you were playing in HS and middle school but its all little kid baseball. ",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1713715097,
+        "author": "Marcus Contreras",
+        "author_id": "UCFCd6TSrwkqy8TVSb27UlgA",
+        "text": "What’s the lightest weight you ever weighed in other your baby weight ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713715130,
+        "author": "Saucy Quis",
+        "author_id": "UCSeseMWVyA-qXeuHOCE8bkQ",
+        "text": "wings name 3 deodorant brands ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713715154,
+        "author": "Ojalajim",
+        "author_id": "UCl_Urb5X42j5dNjqmDGQosA",
+        "text": "What happened to new Vegas? ",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1713715718,
+        "author": "Design Patterns",
+        "author_id": "UCqojYyQac9jYJjKW0lixQJg",
+        "text": "only reason dvd is still here is cos he's a pay pig - mods keep him around just incase he donates :face_with_tears_of_joy:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713715959,
+        "author": "Draco",
+        "author_id": "UCtdV7S4jyeurhhrdY5B6htA",
+        "text": "i like the head scratch or finger sniff after every death",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713716088,
+        "author": "DVD SCRATCH - Wingsofredemptions React Rewind",
+        "author_id": "UCHH5jMRhUEUljg_WYspcXhA",
+        "text": "@DashX its his ego, Jordie operates with a very large and fragile ego. Im not saying anything is wrong with that, im emotional sometimes, but LYING about things because of ego or being mean isnt ok",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1713716225,
+        "author": "Cloud Strike",
+        "author_id": "UCOJ5DrPbk50Rnj2wXX-Gc2Q",
+        "text": "Happy birthday Wings",
+        "usd": 4.99
+    },
+    {
+        "event": "superchat",
+        "time": 1713716362,
+        "author": "Kmplxity",
+        "author_id": "UCxHeRE8VWCOHIOZe6ep-w-g",
+        "text": "Happy Bday Brutha ",
+        "usd": 100.0
+    },
+    {
+        "event": "ban",
+        "time": 1713716676,
+        "author": "L. Ron Hoyabembe",
+        "author_id": "UCydIz_nARXa3gEqJfgIOepA",
+        "text": "on his birthday i mean",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713716813,
+        "author": "Newton",
+        "author_id": "UC47NPnFP3hwyzM9BzS_rIFQ",
+        "text": "Peace of wood?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713717426,
+        "author": "Hubba Bubba",
+        "author_id": "UCTen43ymd3v4fZRv9A6MYmg",
+        "text": "im boutta lather myself in wendys chilli and go down on jordy mcgravy jordie",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1713717538,
+        "author": "BrettHarlow",
+        "author_id": "UC3QkccT6iOvTcfglZbzZ1Xw",
+        "text": "Tied ",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1713718308,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 384.09000000000003
+    }
+]
