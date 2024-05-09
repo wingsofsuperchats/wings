@@ -1,0 +1,1506 @@
+[
+    {
+        "event": "start",
+        "time": 1715210044,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715210046,
+        "author": "",
+        "author_id": "",
+        "text": "115",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715210137,
+        "author": "",
+        "author_id": "",
+        "text": "116",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715210229,
+        "author": "",
+        "author_id": "",
+        "text": "118",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715210321,
+        "author": "",
+        "author_id": "",
+        "text": "128",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715210412,
+        "author": "",
+        "author_id": "",
+        "text": "130",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715210504,
+        "author": "",
+        "author_id": "",
+        "text": "150",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715210569,
+        "author": "Donut boi ",
+        "author_id": "UC8kBfZCH5fwOSDnIIgs5fsw",
+        "text": "Wingpedo ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715210596,
+        "author": "",
+        "author_id": "",
+        "text": "150",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715210687,
+        "author": "",
+        "author_id": "",
+        "text": "184",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715210722,
+        "author": "Snoopy474",
+        "author_id": "UCrEjFySMaroQqyoQ8levUYg",
+        "text": "Riqqy riqqy riqqy can’t you see, somehow you’re hypnotised by Wendy’s Chilli ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715210779,
+        "author": "",
+        "author_id": "",
+        "text": "190",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715210860,
+        "author": "BreeZaH",
+        "author_id": "UCrhiHr3y8FgrmHq56AWDB_w",
+        "text": "HEY DINGO WINGO ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715210870,
+        "author": "",
+        "author_id": "",
+        "text": "196",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715210940,
+        "author": "Thorn",
+        "author_id": "UCRctS0pi2N0q7-PV1fOxPRw",
+        "text": "Can we see you on your best attacking and defending Op if they are available? Much love pimp. Keep it up.",
+        "usd": 5.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715210962,
+        "author": "",
+        "author_id": "",
+        "text": "197",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715211013,
+        "author": "Thestigz",
+        "author_id": "UCnWuhBJiGNusjoHplhHVZ8A",
+        "text": "V6 is the low t version ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715211029,
+        "author": "Mike Perry",
+        "author_id": "UC93A6tHU63WrFcohWFms_DA",
+        "text": "I don’t think wings can fit in those cars",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715211053,
+        "author": "IsiahTats",
+        "author_id": "UCLkU88VNJ_Z1_DA6QKsVd6w",
+        "text": "how much to start GTA online. Rainbow so boring",
+        "usd": 2.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715211054,
+        "author": "",
+        "author_id": "",
+        "text": "213",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715211145,
+        "author": "",
+        "author_id": "",
+        "text": "218",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715211237,
+        "author": "",
+        "author_id": "",
+        "text": "235",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715211329,
+        "author": "",
+        "author_id": "",
+        "text": "231",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715211420,
+        "author": "",
+        "author_id": "",
+        "text": "241",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715211512,
+        "author": "",
+        "author_id": "",
+        "text": "242",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715211512,
+        "author": "Lil Spooky",
+        "author_id": "UCZ-PkDm6jiubyB2K37qHcZg",
+        "text": "2014 Mustang, RED (:face-red-droopy-eyes::face-red-droopy-eyes:)With A Black Racing Stripe, Its V6, (:automobile::automobile::automobile:) Its V6, (:automobile::automobile::automobile:)Its V6, (:automobile::automobile::automobile:)",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715211528,
+        "author": "Riverbed Overland",
+        "author_id": "UC5Ppig8iG3r3r2jP89ILSfA",
+        "text": ":_Big::_Big::_Big::_Big: @lil spooky ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715211552,
+        "author": "IsiahTats",
+        "author_id": "UCLkU88VNJ_Z1_DA6QKsVd6w",
+        "text": "how much to start GTA online. Rainbow so boring",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715211604,
+        "author": "",
+        "author_id": "",
+        "text": "238",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715211696,
+        "author": "",
+        "author_id": "",
+        "text": "233",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715211730,
+        "author": "BlarnacleBoy",
+        "author_id": "UCV5612IZWHgaOjrsJ-chY2A",
+        "text": "captivating gameplay, sitting behind a wall and doing nothing for 3 mins",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715211788,
+        "author": "",
+        "author_id": "",
+        "text": "235",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715211879,
+        "author": "",
+        "author_id": "",
+        "text": "245",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715211972,
+        "author": "",
+        "author_id": "",
+        "text": "238",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715211980,
+        "author": "hamiltonsandwich",
+        "author_id": "UCTTNC0mNWke1cmH0CJoB73A",
+        "text": "Hey WingsOfStackingRulesAndStillLosing1v1s",
+        "usd": 1.99
+    },
+    {
+        "event": "superchat",
+        "time": 1715211988,
+        "author": "John Maxwell",
+        "author_id": "UCDPQQpsfFn7BzfKXaE3KbhA",
+        "text": "dont forget to have a good time, maybe have a good game wings! big ups",
+        "usd": 5.0
+    },
+    {
+        "event": "ban",
+        "time": 1715211996,
+        "author": "don fanucci",
+        "author_id": "UC3w87HCiOefAuszHrTX8Xmg",
+        "text": "12 13 14 15 16",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715212004,
+        "author": "hamiltonsandwich",
+        "author_id": "UCTTNC0mNWke1cmH0CJoB73A",
+        "text": "Hey WingsOfStackingRulesAndStillLosing1v1s",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715212036,
+        "author": "rhm3",
+        "author_id": "UCD5kcP5DScBqXN7dhQU_h-w",
+        "text": "He doesn’t deserve your money ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715212064,
+        "author": "",
+        "author_id": "",
+        "text": "238",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715212155,
+        "author": "",
+        "author_id": "",
+        "text": "256",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715212247,
+        "author": "",
+        "author_id": "",
+        "text": "251",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715212278,
+        "author": "V9",
+        "author_id": "UCD3f6Q6CqHcePScr9TqmXww",
+        "text": "shout out lummox and the hoodlums ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715212338,
+        "author": "",
+        "author_id": "",
+        "text": "273",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715212430,
+        "author": "",
+        "author_id": "",
+        "text": "265",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715212431,
+        "author": "Cody Johnson",
+        "author_id": "UCOL005LEhyTCxPi2hLy0N7g",
+        "text": "camero lol",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715212503,
+        "author": "Shy",
+        "author_id": "UCSn97NKxznNf01u9RgCfK-w",
+        "text": "",
+        "usd": 50.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715212522,
+        "author": "",
+        "author_id": "",
+        "text": "270",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715212560,
+        "author": "Bunk",
+        "author_id": "UCqTmIzMMey4DOvXQ2rf-fAg",
+        "text": "Have a great stream pimp",
+        "usd": 9.99
+    },
+    {
+        "event": "viewcount",
+        "time": 1715212614,
+        "author": "",
+        "author_id": "",
+        "text": "266",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715212705,
+        "author": "",
+        "author_id": "",
+        "text": "268",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715212769,
+        "author": "SWM",
+        "author_id": "UCezVhxl8r076t-pRsUMtMOg",
+        "text": "what up richard",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715212797,
+        "author": "",
+        "author_id": "",
+        "text": "282",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715212889,
+        "author": "",
+        "author_id": "",
+        "text": "282",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715212963,
+        "author": "Thestigz",
+        "author_id": "UCnWuhBJiGNusjoHplhHVZ8A",
+        "text": "V6 is a joke with no torque ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715212971,
+        "author": "Professor Suge",
+        "author_id": "UCYiaLtNPTUlTKA9Qjn4oUBA",
+        "text": "Pound out the Sammy wingo",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715212979,
+        "author": "Drunk Dog",
+        "author_id": "UCrTkK1OJicQM0F-xE6fo7bw",
+        "text": "shirt wipe finger sniff combo",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715212980,
+        "author": "",
+        "author_id": "",
+        "text": "283",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715213072,
+        "author": "",
+        "author_id": "",
+        "text": "280",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715213076,
+        "author": "Léon Rififi",
+        "author_id": "UClfo1QCgDMswcxDkG5GwHow",
+        "text": "Ban junebug",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715213076,
+        "author": "Jenson D",
+        "author_id": "UCyLrakKqv--C79AeCMtlLqQ",
+        "text": "a one pump plump pimp... that's a sneak diss",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715213165,
+        "author": "",
+        "author_id": "",
+        "text": "272",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715213245,
+        "author": "Bunk",
+        "author_id": "UCqTmIzMMey4DOvXQ2rf-fAg",
+        "text": "did you like fallout 76 or you a big fallout 4 guy ",
+        "usd": 4.99
+    },
+    {
+        "event": "viewcount",
+        "time": 1715213256,
+        "author": "",
+        "author_id": "",
+        "text": "279",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715213278,
+        "author": "Professor Suge",
+        "author_id": "UCYiaLtNPTUlTKA9Qjn4oUBA",
+        "text": "Playing games with you is like a punishment ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715213348,
+        "author": "",
+        "author_id": "",
+        "text": "273",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715213358,
+        "author": "MilleniumEye",
+        "author_id": "UCuH0-2NSQ2qvdqiOBQJD14g",
+        "text": "pimp whats the best kitty u ever had",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715213415,
+        "author": "LeTron Biggums",
+        "author_id": "UCNOVmj7ZBgs35KMKS8J-bzQ",
+        "text": "You mopped that mcchicken up",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715213439,
+        "author": "",
+        "author_id": "",
+        "text": "262",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715213463,
+        "author": "Big Mad",
+        "author_id": "UCVLuOd4o0gUwlJ3Jc0EtK8g",
+        "text": "#stopdonating",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715213528,
+        "author": "ILikeHotDogs",
+        "author_id": "UCFn6X7NZaDq73dnsPrNEouA",
+        "text": "always bothers me when wings has bomb because he never makes it into objective",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715213531,
+        "author": "",
+        "author_id": "",
+        "text": "273",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715213623,
+        "author": "",
+        "author_id": "",
+        "text": "275",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715213714,
+        "author": "",
+        "author_id": "",
+        "text": "271",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715213806,
+        "author": "",
+        "author_id": "",
+        "text": "264",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715213898,
+        "author": "",
+        "author_id": "",
+        "text": "270",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715213990,
+        "author": "",
+        "author_id": "",
+        "text": "272",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715214011,
+        "author": "JuneBug",
+        "author_id": "UCcTgbxK2gb2KRtSA6aIi_Nw",
+        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715214068,
+        "author": "LeTron Biggums",
+        "author_id": "UCNOVmj7ZBgs35KMKS8J-bzQ",
+        "text": "Anyone else wanna see wings chuck a controller for old time sakes ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715214082,
+        "author": "",
+        "author_id": "",
+        "text": "285",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715214116,
+        "author": "V9",
+        "author_id": "UCD3f6Q6CqHcePScr9TqmXww",
+        "text": "how many games in a row where wings doesnt get a kill?",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715214173,
+        "author": "",
+        "author_id": "",
+        "text": "275",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715214205,
+        "author": "ILikeHotDogs",
+        "author_id": "UCFn6X7NZaDq73dnsPrNEouA",
+        "text": "everyone knows how to play coastline and Oregon",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715214265,
+        "author": "",
+        "author_id": "",
+        "text": "287",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715214356,
+        "author": "",
+        "author_id": "",
+        "text": "288",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715214366,
+        "author": "Desmond",
+        "author_id": "UCpK-LOpngQWScizPx1ttQqg",
+        "text": "fat",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715214448,
+        "author": "",
+        "author_id": "",
+        "text": "293",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715214540,
+        "author": "",
+        "author_id": "",
+        "text": "270",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715214600,
+        "author": "Chase Alexander",
+        "author_id": "UCr0nUHGtSmp0ojZ9pVxkgyA",
+        "text": "Is this bog?",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715214631,
+        "author": "",
+        "author_id": "",
+        "text": "285",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715214724,
+        "author": "",
+        "author_id": "",
+        "text": "288",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715214816,
+        "author": "",
+        "author_id": "",
+        "text": "291",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715214907,
+        "author": "",
+        "author_id": "",
+        "text": "293",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715214999,
+        "author": "",
+        "author_id": "",
+        "text": "287",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715215091,
+        "author": "",
+        "author_id": "",
+        "text": "279",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715215183,
+        "author": "",
+        "author_id": "",
+        "text": "288",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715215274,
+        "author": "",
+        "author_id": "",
+        "text": "278",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715215366,
+        "author": "",
+        "author_id": "",
+        "text": "290",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715215405,
+        "author": "Oreo",
+        "author_id": "UCDH2xDT4P47QRNniWOb2DtQ",
+        "text": "how can army have spent time in the army and still be so damn bad at taking orders.....makes you wonder about the credentials behind the name",
+        "usd": 5.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715215458,
+        "author": "",
+        "author_id": "",
+        "text": "278",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715215526,
+        "author": "Oreo",
+        "author_id": "UCDH2xDT4P47QRNniWOb2DtQ",
+        "text": "I think if you ordered him to finish his dinner he would wait and ponder for a few hours on the decision, not ranger material i can tell",
+        "usd": 5.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715215549,
+        "author": "",
+        "author_id": "",
+        "text": "299",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715215599,
+        "author": "Oreo",
+        "author_id": "UCDH2xDT4P47QRNniWOb2DtQ",
+        "text": "bro drove trucks in the dessert and made it his personality lmao ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715215641,
+        "author": "",
+        "author_id": "",
+        "text": "287",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715215733,
+        "author": "",
+        "author_id": "",
+        "text": "282",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715215824,
+        "author": "",
+        "author_id": "",
+        "text": "285",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715215916,
+        "author": "",
+        "author_id": "",
+        "text": "299",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715216008,
+        "author": "",
+        "author_id": "",
+        "text": "285",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715216010,
+        "author": "Diamond Skittle",
+        "author_id": "UCdVkejDbauDOOIU3edUWukQ",
+        "text": "So you lost to a trash can ?",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715216100,
+        "author": "",
+        "author_id": "",
+        "text": "290",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715216179,
+        "author": "Back-Alley Sally",
+        "author_id": "UCGogJF15-Y8nZaV6cr194QQ",
+        "text": "Wings do you think George Floyd is a hero?",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715216192,
+        "author": "",
+        "author_id": "",
+        "text": "284",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715216275,
+        "author": "Garrett S",
+        "author_id": "UCz9XX8sSdVwYwmtyT1pjwzQ",
+        "text": "derek chauvin had a higher K/D",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715216284,
+        "author": "",
+        "author_id": "",
+        "text": "290",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715216376,
+        "author": "",
+        "author_id": "",
+        "text": "291",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715216380,
+        "author": "Léon Rififi",
+        "author_id": "UClfo1QCgDMswcxDkG5GwHow",
+        "text": "RIP the homie George floyd I’m sure he would’ve reached diamond if he wasn’t a fentanyl addict",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715216467,
+        "author": "",
+        "author_id": "",
+        "text": "293",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715216559,
+        "author": "",
+        "author_id": "",
+        "text": "292",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715216574,
+        "author": "Richard_is_Fat",
+        "author_id": "UChUeS7dpgQ2E-lm6GqC8XjA",
+        "text": "Found a place to sit i see good job wings ",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715216638,
+        "author": "Echos of Glthompson ",
+        "author_id": "UCsWUwUfQRi-6az7IOPHQ0XQ",
+        "text": "@akedai “laying on their pussie” ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715216651,
+        "author": "",
+        "author_id": "",
+        "text": "296",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715216742,
+        "author": "",
+        "author_id": "",
+        "text": "287",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715216834,
+        "author": "",
+        "author_id": "",
+        "text": "289",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715216926,
+        "author": "",
+        "author_id": "",
+        "text": "290",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715216944,
+        "author": "Sonic1595",
+        "author_id": "UCBC_grFnykem7uEePI_flxw",
+        "text": "yea gacha do you play slots?",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715216960,
+        "author": "GEORGE FLOYD",
+        "author_id": "UCzPaGlsCZo0Wd95gbJ1m8Fg",
+        "text": "I like to gamble myself",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715217018,
+        "author": "",
+        "author_id": "",
+        "text": "293",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715217057,
+        "author": "OhhGeee",
+        "author_id": "UCkTi8I5-MUbZPELjgFKLn7w",
+        "text": "Wings, thoughts on grown men in dresses reading to small children at school and or church? @Wings of Redemption ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715217110,
+        "author": "",
+        "author_id": "",
+        "text": "283",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715217201,
+        "author": "",
+        "author_id": "",
+        "text": "290",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715217226,
+        "author": "Oreo",
+        "author_id": "UCDH2xDT4P47QRNniWOb2DtQ",
+        "text": "driving trucks in the dessert and making it your personality is really similar to going to coachella once and making your gamertag coachella 2024 <3",
+        "usd": 5.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715217293,
+        "author": "",
+        "author_id": "",
+        "text": "285",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715217385,
+        "author": "",
+        "author_id": "",
+        "text": "281",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715217388,
+        "author": "Oreo",
+        "author_id": "UCDH2xDT4P47QRNniWOb2DtQ",
+        "text": "if army knows so much about wins why did they get backed down in the middle east, lots of war for nothing",
+        "usd": 5.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715217468,
+        "author": "Shy",
+        "author_id": "UCSn97NKxznNf01u9RgCfK-w",
+        "text": "",
+        "usd": 31.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715217476,
+        "author": "",
+        "author_id": "",
+        "text": "288",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715217568,
+        "author": "",
+        "author_id": "",
+        "text": "285",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715217660,
+        "author": "",
+        "author_id": "",
+        "text": "289",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715217686,
+        "author": "Hamburgler Helper",
+        "author_id": "UCaWKO5ZEyktlnE9-l9pCUaw",
+        "text": "why do they call you richard",
+        "usd": 1.46
+    },
+    {
+        "event": "superchat",
+        "time": 1715217694,
+        "author": "lospenchejos",
+        "author_id": "UC_vKiAkaEqY_RvjjpGf82kA",
+        "text": "Ban Oreo!",
+        "usd": 5.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715217751,
+        "author": "",
+        "author_id": "",
+        "text": "289",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715217759,
+        "author": "Oreo",
+        "author_id": "UCDH2xDT4P47QRNniWOb2DtQ",
+        "text": "bro stop watching ltg and go outside it will get better i promise ",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715217759,
+        "author": "Peyton Manning",
+        "author_id": "UC6uuGTwMxRcZ89aILL_KyZg",
+        "text": "Tell hydro to spin to address the allegations",
+        "usd": 2.0
+    },
+    {
+        "event": "ban",
+        "time": 1715217767,
+        "author": "Montex",
+        "author_id": "UCxMGBvnncf9ZzwKtqovZy1w",
+        "text": "WINGS BOTTOM OF THE LEADERBOARD AGAIN THIS GUY IS HOT GARBAGE!!!!",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715217844,
+        "author": "",
+        "author_id": "",
+        "text": "295",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715217936,
+        "author": "",
+        "author_id": "",
+        "text": "305",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715217936,
+        "author": "Matt",
+        "author_id": "UCzpcZnAwzYrmQe5iFlbVKRw",
+        "text": "@Riverbed Overland King Vitaly live catching preds on Kick :red_circle:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715217984,
+        "author": "Steven Yen",
+        "author_id": "UC5tp1wdj8JhXtET0855L56Q",
+        "text": "should've clutched that, CarriedUAV",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715218027,
+        "author": "",
+        "author_id": "",
+        "text": "295",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715218089,
+        "author": "Kingle Dangle",
+        "author_id": "UCT1qqqFL9pUKxB2-gVrWi_A",
+        "text": "Fucking love you Wingo. Shoutout Sean Ranklin. Big Up Liquid Richard.",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715218119,
+        "author": "",
+        "author_id": "",
+        "text": "291",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715218211,
+        "author": "",
+        "author_id": "",
+        "text": "289",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715218302,
+        "author": "",
+        "author_id": "",
+        "text": "286",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715218394,
+        "author": "",
+        "author_id": "",
+        "text": "290",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715218486,
+        "author": "",
+        "author_id": "",
+        "text": "280",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715218500,
+        "author": "slayalee",
+        "author_id": "UC0XuKb1ex1-2SS3RS6J9ZmA",
+        "text": "Giving 1v1's :face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715218577,
+        "author": "",
+        "author_id": "",
+        "text": "273",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715218669,
+        "author": "",
+        "author_id": "",
+        "text": "278",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715218750,
+        "author": "Cody Johnson",
+        "author_id": "UCOL005LEhyTCxPi2hLy0N7g",
+        "text": "0-4 lol",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715218761,
+        "author": "",
+        "author_id": "",
+        "text": "287",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715218790,
+        "author": "slayalee",
+        "author_id": "UC0XuKb1ex1-2SS3RS6J9ZmA",
+        "text": "the playstation breathing as well as George floyd",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715218846,
+        "author": "Tea",
+        "author_id": "UCwN7wBB8EYeUFf_TT1BZgCg",
+        "text": "How many years has Mac Miller been clean now? ",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715218853,
+        "author": "",
+        "author_id": "",
+        "text": "278",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715218927,
+        "author": "DivineTiger97",
+        "author_id": "UC2qjHvHb-tea4OAm3XGmwDA",
+        "text": "theres a rogue mod",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715218944,
+        "author": "",
+        "author_id": "",
+        "text": "292",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715218983,
+        "author": "Juan Carrasco",
+        "author_id": "UCKyVi3nAL3ejYTKEAPCf5WQ",
+        "text": "patetic :cigarette::moai:",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715219036,
+        "author": "",
+        "author_id": "",
+        "text": "293",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715219048,
+        "author": "Gummb0",
+        "author_id": "UC0Co8NikGnGiuNOg9aiSz2w",
+        "text": "Wings... 1 v 1 me on Bog!",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715219104,
+        "author": "GEORGE FLOYD",
+        "author_id": "UCzPaGlsCZo0Wd95gbJ1m8Fg",
+        "text": "missed some ez shots",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715219128,
+        "author": "",
+        "author_id": "",
+        "text": "299",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715219219,
+        "author": "",
+        "author_id": "",
+        "text": "285",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715219311,
+        "author": "",
+        "author_id": "",
+        "text": "285",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715219322,
+        "author": "Drunk Dog",
+        "author_id": "UCrTkK1OJicQM0F-xE6fo7bw",
+        "text": "Remember when you said you were going to burn the Spiderman shirt when you lost the weight? What happened bro?",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715219404,
+        "author": "",
+        "author_id": "",
+        "text": "279",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1715219491,
+        "author": "Slick Rick",
+        "author_id": "UCNaaoAiCaRXYccTHqwobU-Q",
+        "text": "Wings you gave army some of those SSRIs",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715219495,
+        "author": "",
+        "author_id": "",
+        "text": "274",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715219587,
+        "author": "",
+        "author_id": "",
+        "text": "275",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715219679,
+        "author": "",
+        "author_id": "",
+        "text": "274",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715219771,
+        "author": "",
+        "author_id": "",
+        "text": "298",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715219863,
+        "author": "",
+        "author_id": "",
+        "text": "268",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715219954,
+        "author": "",
+        "author_id": "",
+        "text": "227",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715220046,
+        "author": "",
+        "author_id": "",
+        "text": "253",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715220138,
+        "author": "",
+        "author_id": "",
+        "text": "266",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1715220208,
+        "author": "Cody Johnson",
+        "author_id": "UCOL005LEhyTCxPi2hLy0N7g",
+        "text": "This is rapture piemp, miss raging with u on cod",
+        "usd": 2.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715220230,
+        "author": "",
+        "author_id": "",
+        "text": "277",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715220321,
+        "author": "",
+        "author_id": "",
+        "text": "291",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1715220413,
+        "author": "",
+        "author_id": "",
+        "text": "286",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1715221171,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 140.43
+    }
+]
