@@ -1,0 +1,642 @@
+[
+    {
+        "event": "start",
+        "time": 1714755748,
+        "author": "WingsofRedemption",
+        "author_id": "sDUG1qUFmxE",
+        "text": "Fallout 4 - Protecting the Commonwealth 2024-05-03 17:02",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1714755750,
+        "author": "K",
+        "author_id": "UCSkyQytvKe9S3qrLywlU52g",
+        "text": "Pepsi on me, pimp.",
+        "usd": 2.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714755750,
+        "author": "",
+        "author_id": "",
+        "text": "86",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714755841,
+        "author": "",
+        "author_id": "",
+        "text": "136",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714755932,
+        "author": "",
+        "author_id": "",
+        "text": "152",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714755991,
+        "author": "Kylejoes",
+        "author_id": "UCND-KCt2pdSDpeDbUEUsZPw",
+        "text": "How’s ozempic going? lol",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714756024,
+        "author": "",
+        "author_id": "",
+        "text": "163",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714756115,
+        "author": "",
+        "author_id": "",
+        "text": "166",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714756207,
+        "author": "",
+        "author_id": "",
+        "text": "181",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714756297,
+        "author": "Ethan",
+        "author_id": "UCHNvo-gFOX2tQSbsCSSfQpQ",
+        "text": "Kelly got the ole bean flick this morning. Happy days",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714756298,
+        "author": "",
+        "author_id": "",
+        "text": "188",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714756389,
+        "author": "",
+        "author_id": "",
+        "text": "184",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714756481,
+        "author": "",
+        "author_id": "",
+        "text": "171",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714756573,
+        "author": "",
+        "author_id": "",
+        "text": "164",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714756664,
+        "author": "",
+        "author_id": "",
+        "text": "192",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714756756,
+        "author": "",
+        "author_id": "",
+        "text": "190",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714756847,
+        "author": "",
+        "author_id": "",
+        "text": "195",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1714756884,
+        "author": "Bunk",
+        "author_id": "UCqTmIzMMey4DOvXQ2rf-fAg",
+        "text": "",
+        "usd": 4.99
+    },
+    {
+        "event": "viewcount",
+        "time": 1714756938,
+        "author": "",
+        "author_id": "",
+        "text": "214",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714757013,
+        "author": "RyanRyanRyanDanielJordie",
+        "author_id": "UCgZl2XZ4l1w9dyEPe01LutQ",
+        "text": "you make that sound when you sniff kellys farts",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714757021,
+        "author": "Lil Gothix",
+        "author_id": "UCYrSVv7z1V-HDXSFggDKF0A",
+        "text": "I wish I was black",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714757030,
+        "author": "",
+        "author_id": "",
+        "text": "224",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714757109,
+        "author": "Filthyheartz",
+        "author_id": "UCiHd2Renyx5WZGbBDZzpu_Q",
+        "text": "Soon he’ll be complaining about the car note.",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714757121,
+        "author": "",
+        "author_id": "",
+        "text": "238",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714757213,
+        "author": "",
+        "author_id": "",
+        "text": "232",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714757254,
+        "author": "foyss",
+        "author_id": "UCvtnu5eNFsp7Ob4tyRtU0bQ",
+        "text": "why not lose weight?",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714757304,
+        "author": "",
+        "author_id": "",
+        "text": "251",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714757396,
+        "author": "",
+        "author_id": "",
+        "text": "239",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714757487,
+        "author": "Thomas Matthews",
+        "author_id": "UCq3odt-sXx_NXKaIoaIAC2Q",
+        "text": "thought on Kat being a BBW?",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714757487,
+        "author": "",
+        "author_id": "",
+        "text": "249",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714757579,
+        "author": "",
+        "author_id": "",
+        "text": "251",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714757670,
+        "author": "",
+        "author_id": "",
+        "text": "258",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714757737,
+        "author": "eli",
+        "author_id": "UCIa9F_dB_cwDNEzlGzLSc6g",
+        "text": "Kelly, reel tawk. Wendies :face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714757761,
+        "author": "",
+        "author_id": "",
+        "text": "255",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714757853,
+        "author": "",
+        "author_id": "",
+        "text": "247",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714757944,
+        "author": "",
+        "author_id": "",
+        "text": "259",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714757962,
+        "author": "Meowfather",
+        "author_id": "UCkze6cEWM_jZ3ivwAoqVuMQ",
+        "text": "shout-out rank Sean lin",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714758036,
+        "author": "",
+        "author_id": "",
+        "text": "283",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714758127,
+        "author": "",
+        "author_id": "",
+        "text": "285",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714758219,
+        "author": "",
+        "author_id": "",
+        "text": "278",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714758311,
+        "author": "",
+        "author_id": "",
+        "text": "288",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714758402,
+        "author": "",
+        "author_id": "",
+        "text": "287",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714758461,
+        "author": "Straddlin’ Madelyn",
+        "author_id": "UCWCjEyiAQV_rMQOSA0zqylA",
+        "text": "They make the outfit Wings!",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714758493,
+        "author": "",
+        "author_id": "",
+        "text": "282",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714758585,
+        "author": "",
+        "author_id": "",
+        "text": "269",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714758589,
+        "author": "Banana",
+        "author_id": "UCmLnrsEgFLnVciRObnYbouw",
+        "text": "She argues like she's a trophy wife lmao",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714758676,
+        "author": "",
+        "author_id": "",
+        "text": "274",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714758686,
+        "author": "rhm3",
+        "author_id": "UCD5kcP5DScBqXN7dhQU_h-w",
+        "text": "That is the loneliest thing I’ve ever heard",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714758768,
+        "author": "",
+        "author_id": "",
+        "text": "268",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714758859,
+        "author": "",
+        "author_id": "",
+        "text": "273",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1714758903,
+        "author": "Joey Stufflebeam",
+        "author_id": "UCJOGjGtSfybtkFoH8k9hD8g",
+        "text": "would youu rather be called wingo of redemption or wingy of redemption",
+        "usd": 4.99
+    },
+    {
+        "event": "viewcount",
+        "time": 1714758951,
+        "author": "",
+        "author_id": "",
+        "text": "277",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714759042,
+        "author": "",
+        "author_id": "",
+        "text": "282",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714759134,
+        "author": "",
+        "author_id": "",
+        "text": "288",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714759225,
+        "author": "",
+        "author_id": "",
+        "text": "283",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714759317,
+        "author": "",
+        "author_id": "",
+        "text": "268",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714759409,
+        "author": "",
+        "author_id": "",
+        "text": "277",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714759500,
+        "author": "",
+        "author_id": "",
+        "text": "275",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714759592,
+        "author": "",
+        "author_id": "",
+        "text": "280",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714759683,
+        "author": "",
+        "author_id": "",
+        "text": "259",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714759772,
+        "author": "PhilMccracken",
+        "author_id": "UCkrDEQTbKtt0GbrLlxwhDqA",
+        "text": "wings is a jew",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714759775,
+        "author": "",
+        "author_id": "",
+        "text": "260",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714759796,
+        "author": "eli",
+        "author_id": "UCIa9F_dB_cwDNEzlGzLSc6g",
+        "text": "Kelly weird",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714759866,
+        "author": "",
+        "author_id": "",
+        "text": "265",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714759957,
+        "author": "",
+        "author_id": "",
+        "text": "275",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714760049,
+        "author": "",
+        "author_id": "",
+        "text": "262",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714760140,
+        "author": "",
+        "author_id": "",
+        "text": "271",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714760232,
+        "author": "",
+        "author_id": "",
+        "text": "250",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714760303,
+        "author": "pngbear",
+        "author_id": "UCn94oB1AvpUPe8klL68CEnQ",
+        "text": "I bet Wings house smells like cat pee.",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714760323,
+        "author": "",
+        "author_id": "",
+        "text": "251",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714760415,
+        "author": "",
+        "author_id": "",
+        "text": "238",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714760506,
+        "author": "",
+        "author_id": "",
+        "text": "246",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1714760520,
+        "author": "Hunter Lewis",
+        "author_id": "UCbPYHbBsqNRD5oR14j7U1pw",
+        "text": "Is blade still sober?",
+        "usd": 1.99
+    },
+    {
+        "event": "ban",
+        "time": 1714760585,
+        "author": "L. Ron Hoyabembe",
+        "author_id": "UCydIz_nARXa3gEqJfgIOepA",
+        "text": "Ive been having a kinda bad day, not exactly where I want to be in my life...but watching your streams makes me feel better about my situation. at least I'm not you.",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714760597,
+        "author": "",
+        "author_id": "",
+        "text": "247",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714760657,
+        "author": "wiggyp1v2",
+        "author_id": "UC-lmFzXsQeRYF30PSjzu0_g",
+        "text": "Remember The Wings VS Keem back in the Machina. It got that bad Mr Sark had to try and make peace lol",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714760689,
+        "author": "",
+        "author_id": "",
+        "text": "246",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1714760714,
+        "author": "Bojangles getting lied to",
+        "author_id": "UCMPozH98ZzOJwxQ9EeZ9Zlg",
+        "text": "it's my fault for donating thinking I could trust anything jordie says so I'm not mad. he's just a big stinky liar",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1714760780,
+        "author": "",
+        "author_id": "",
+        "text": "233",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1714761531,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 13.97
+    }
+]
