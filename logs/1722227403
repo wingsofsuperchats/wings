@@ -1,0 +1,1594 @@
+[
+    {
+        "event": "start",
+        "time": 1722227403,
+        "author": "WingsofRedemption",
+        "author_id": "DDBL4sMGEXE",
+        "text": "Rainbow Six - Late Night Rank Stream 2024-07-29 04:30",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1722227405,
+        "author": "Hunter Lewis",
+        "author_id": "UCDvmecgwdb6fJp7mi81JtKQ",
+        "text": "I think lolcow is long overdue for a visit from blade. ps what's your go to prime flavor?",
+        "usd": 10.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722227406,
+        "author": "",
+        "author_id": "",
+        "text": "115",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722227498,
+        "author": "",
+        "author_id": "",
+        "text": "119",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722227590,
+        "author": "",
+        "author_id": "",
+        "text": "124",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722227682,
+        "author": "",
+        "author_id": "",
+        "text": "131",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722227774,
+        "author": "",
+        "author_id": "",
+        "text": "133",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722227866,
+        "author": "",
+        "author_id": "",
+        "text": "130",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722227958,
+        "author": "",
+        "author_id": "",
+        "text": "133",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722228051,
+        "author": "",
+        "author_id": "",
+        "text": "144",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722228056,
+        "author": "Chiggaboo",
+        "author_id": "UCgNGJ0JDiHH0Xm2W09SE0lQ",
+        "text": "Like destiny said we are not accepting your ba excuses or fake sympathy",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722228143,
+        "author": "",
+        "author_id": "",
+        "text": "145",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722228235,
+        "author": "",
+        "author_id": "",
+        "text": "154",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722228327,
+        "author": "",
+        "author_id": "",
+        "text": "154",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722228419,
+        "author": "",
+        "author_id": "",
+        "text": "159",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722228511,
+        "author": "",
+        "author_id": "",
+        "text": "163",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722228602,
+        "author": "",
+        "author_id": "",
+        "text": "172",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722228694,
+        "author": "",
+        "author_id": "",
+        "text": "177",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722228786,
+        "author": "",
+        "author_id": "",
+        "text": "183",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722228879,
+        "author": "",
+        "author_id": "",
+        "text": "186",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722228971,
+        "author": "",
+        "author_id": "",
+        "text": "198",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722229063,
+        "author": "",
+        "author_id": "",
+        "text": "200",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722229155,
+        "author": "",
+        "author_id": "",
+        "text": "186",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722229247,
+        "author": "",
+        "author_id": "",
+        "text": "191",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722229339,
+        "author": "",
+        "author_id": "",
+        "text": "204",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722229431,
+        "author": "",
+        "author_id": "",
+        "text": "195",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722229523,
+        "author": "",
+        "author_id": "",
+        "text": "201",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722229615,
+        "author": "",
+        "author_id": "",
+        "text": "206",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722229706,
+        "author": "",
+        "author_id": "",
+        "text": "211",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722229799,
+        "author": "",
+        "author_id": "",
+        "text": "208",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722229891,
+        "author": "",
+        "author_id": "",
+        "text": "208",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722229983,
+        "author": "",
+        "author_id": "",
+        "text": "203",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722230075,
+        "author": "",
+        "author_id": "",
+        "text": "201",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722230167,
+        "author": "",
+        "author_id": "",
+        "text": "207",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722230181,
+        "author": "piggy",
+        "author_id": "UCcsIHh9hut1Ovh1w81k1EGA",
+        "text": "guys qqwwe",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722230246,
+        "author": "nick ney",
+        "author_id": "UCWwIa9yKoEEBhTAdo13GpJw",
+        "text": "hey Jeremy, you ever heard of pg 5?",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722230259,
+        "author": "",
+        "author_id": "",
+        "text": "204",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722230351,
+        "author": "",
+        "author_id": "",
+        "text": "204",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722230443,
+        "author": "",
+        "author_id": "",
+        "text": "207",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722230535,
+        "author": "",
+        "author_id": "",
+        "text": "206",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722230627,
+        "author": "",
+        "author_id": "",
+        "text": "201",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722230719,
+        "author": "",
+        "author_id": "",
+        "text": "198",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722230811,
+        "author": "",
+        "author_id": "",
+        "text": "197",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722230903,
+        "author": "",
+        "author_id": "",
+        "text": "194",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722230995,
+        "author": "",
+        "author_id": "",
+        "text": "195",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722231087,
+        "author": "",
+        "author_id": "",
+        "text": "205",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722231179,
+        "author": "",
+        "author_id": "",
+        "text": "207",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722231271,
+        "author": "",
+        "author_id": "",
+        "text": "200",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722231363,
+        "author": "",
+        "author_id": "",
+        "text": "194",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722231455,
+        "author": "",
+        "author_id": "",
+        "text": "197",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722231547,
+        "author": "",
+        "author_id": "",
+        "text": "203",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722231638,
+        "author": "",
+        "author_id": "",
+        "text": "205",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722231730,
+        "author": "",
+        "author_id": "",
+        "text": "201",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722231823,
+        "author": "",
+        "author_id": "",
+        "text": "190",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722231915,
+        "author": "",
+        "author_id": "",
+        "text": "199",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722232007,
+        "author": "",
+        "author_id": "",
+        "text": "213",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722232099,
+        "author": "",
+        "author_id": "",
+        "text": "203",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722232191,
+        "author": "",
+        "author_id": "",
+        "text": "214",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722232283,
+        "author": "",
+        "author_id": "",
+        "text": "209",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722232375,
+        "author": "",
+        "author_id": "",
+        "text": "223",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722232468,
+        "author": "",
+        "author_id": "",
+        "text": "219",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722232560,
+        "author": "",
+        "author_id": "",
+        "text": "217",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722232634,
+        "author": "Suburbanson",
+        "author_id": "UCQS8p4-N1KZV6QJGF7e1t9Q",
+        "text": "another loss",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722232652,
+        "author": "",
+        "author_id": "",
+        "text": "216",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722232744,
+        "author": "",
+        "author_id": "",
+        "text": "207",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722232836,
+        "author": "",
+        "author_id": "",
+        "text": "198",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722232928,
+        "author": "",
+        "author_id": "",
+        "text": "196",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722233021,
+        "author": "",
+        "author_id": "",
+        "text": "196",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722233113,
+        "author": "",
+        "author_id": "",
+        "text": "199",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722233205,
+        "author": "",
+        "author_id": "",
+        "text": "207",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722233297,
+        "author": "",
+        "author_id": "",
+        "text": "198",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722233390,
+        "author": "",
+        "author_id": "",
+        "text": "204",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722233482,
+        "author": "",
+        "author_id": "",
+        "text": "197",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722233574,
+        "author": "",
+        "author_id": "",
+        "text": "196",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722233666,
+        "author": "",
+        "author_id": "",
+        "text": "200",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722233758,
+        "author": "",
+        "author_id": "",
+        "text": "203",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722233850,
+        "author": "",
+        "author_id": "",
+        "text": "202",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722233942,
+        "author": "",
+        "author_id": "",
+        "text": "203",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722234034,
+        "author": "",
+        "author_id": "",
+        "text": "193",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722234126,
+        "author": "",
+        "author_id": "",
+        "text": "196",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722234218,
+        "author": "",
+        "author_id": "",
+        "text": "194",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722234310,
+        "author": "",
+        "author_id": "",
+        "text": "188",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722234401,
+        "author": "",
+        "author_id": "",
+        "text": "186",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722234436,
+        "author": "cake cow",
+        "author_id": "UCqOF70-A3oMWW38dOOt3DBw",
+        "text": "Page 5",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722234493,
+        "author": "",
+        "author_id": "",
+        "text": "196",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722234586,
+        "author": "",
+        "author_id": "",
+        "text": "201",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722234678,
+        "author": "",
+        "author_id": "",
+        "text": "194",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722234770,
+        "author": "",
+        "author_id": "",
+        "text": "189",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722234862,
+        "author": "",
+        "author_id": "",
+        "text": "190",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722234955,
+        "author": "",
+        "author_id": "",
+        "text": "191",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722235047,
+        "author": "",
+        "author_id": "",
+        "text": "191",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722235139,
+        "author": "",
+        "author_id": "",
+        "text": "187",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722235145,
+        "author": "Rik Dammen",
+        "author_id": "UCBZev5FIZMPv-NSLYNvIWtA",
+        "text": "He cant get any kills lmao",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722235231,
+        "author": "",
+        "author_id": "",
+        "text": "197",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1722235243,
+        "author": "Tim's Totality",
+        "author_id": "UCMws2XB7G1pGqMIJzAIVlTQ",
+        "text": "So Keem won't be on the acual show any more?",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1722235300,
+        "author": "Tim's Totality",
+        "author_id": "UCMws2XB7G1pGqMIJzAIVlTQ",
+        "text": "Are you a fan of him stepping away?",
+        "usd": 2.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722235323,
+        "author": "",
+        "author_id": "",
+        "text": "196",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722235415,
+        "author": "",
+        "author_id": "",
+        "text": "173",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722235507,
+        "author": "",
+        "author_id": "",
+        "text": "180",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722235600,
+        "author": "",
+        "author_id": "",
+        "text": "185",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722235692,
+        "author": "",
+        "author_id": "",
+        "text": "192",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722235781,
+        "author": "WeeTawd",
+        "author_id": "UCe66x-xNi0_9KDwz-xf_CcQ",
+        "text": "lol",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722235785,
+        "author": "",
+        "author_id": "",
+        "text": "200",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722235877,
+        "author": "",
+        "author_id": "",
+        "text": "206",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722235969,
+        "author": "",
+        "author_id": "",
+        "text": "205",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722236010,
+        "author": "Loaf General Pnp Enjoyer",
+        "author_id": "UCvfStKDesw4G232NxhgIhJw",
+        "text": "me on the page that comes after 4 = :face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722236061,
+        "author": "",
+        "author_id": "",
+        "text": "202",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722236154,
+        "author": "",
+        "author_id": "",
+        "text": "199",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722236246,
+        "author": "",
+        "author_id": "",
+        "text": "201",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722236338,
+        "author": "",
+        "author_id": "",
+        "text": "212",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722236430,
+        "author": "",
+        "author_id": "",
+        "text": "217",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722236522,
+        "author": "",
+        "author_id": "",
+        "text": "201",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722236614,
+        "author": "",
+        "author_id": "",
+        "text": "211",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722236706,
+        "author": "",
+        "author_id": "",
+        "text": "208",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722236798,
+        "author": "",
+        "author_id": "",
+        "text": "216",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722236891,
+        "author": "",
+        "author_id": "",
+        "text": "203",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722236982,
+        "author": "",
+        "author_id": "",
+        "text": "186",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722237074,
+        "author": "",
+        "author_id": "",
+        "text": "195",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722237167,
+        "author": "",
+        "author_id": "",
+        "text": "195",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722237259,
+        "author": "",
+        "author_id": "",
+        "text": "195",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722237351,
+        "author": "",
+        "author_id": "",
+        "text": "196",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722237443,
+        "author": "",
+        "author_id": "",
+        "text": "189",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722237502,
+        "author": "Juice Ginyu",
+        "author_id": "UCZtRf5wVBbl5Ti-JbNDz0Gg",
+        "text": "One less viewer. Itll be 189. Ill take myself out",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722237535,
+        "author": "",
+        "author_id": "",
+        "text": "193",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722237627,
+        "author": "",
+        "author_id": "",
+        "text": "194",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722237719,
+        "author": "",
+        "author_id": "",
+        "text": "195",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722237730,
+        "author": "dotnox5e",
+        "author_id": "UCN5Qo-vGrGeFPm4yUkEyzcA",
+        "text": "it'",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722237811,
+        "author": "",
+        "author_id": "",
+        "text": "193",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722237903,
+        "author": "",
+        "author_id": "",
+        "text": "197",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1722237967,
+        "author": "Shy",
+        "author_id": "UCSn97NKxznNf01u9RgCfK-w",
+        "text": "",
+        "usd": 400.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722237995,
+        "author": "",
+        "author_id": "",
+        "text": "192",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722238008,
+        "author": "dotnox5e",
+        "author_id": "UCN5Qo-vGrGeFPm4yUkEyzcA",
+        "text": "dl5 spamming btw",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722238087,
+        "author": "",
+        "author_id": "",
+        "text": "196",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722238179,
+        "author": "",
+        "author_id": "",
+        "text": "190",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722238271,
+        "author": "",
+        "author_id": "",
+        "text": "194",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722238363,
+        "author": "",
+        "author_id": "",
+        "text": "187",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722238455,
+        "author": "",
+        "author_id": "",
+        "text": "192",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722238547,
+        "author": "",
+        "author_id": "",
+        "text": "186",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722238639,
+        "author": "",
+        "author_id": "",
+        "text": "184",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722238731,
+        "author": "",
+        "author_id": "",
+        "text": "179",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722238742,
+        "author": "kerri",
+        "author_id": "UCiUAJP1lyM8UFdUSPC8p42A",
+        "text": "would love to see you on their show",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722238823,
+        "author": "",
+        "author_id": "",
+        "text": "179",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722238915,
+        "author": "",
+        "author_id": "",
+        "text": "180",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722239007,
+        "author": "",
+        "author_id": "",
+        "text": "178",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722239099,
+        "author": "",
+        "author_id": "",
+        "text": "174",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722239192,
+        "author": "",
+        "author_id": "",
+        "text": "183",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722239263,
+        "author": "Ghost of Leon Rififi",
+        "author_id": "UCgZOTy3LxFojsY1YQBQtVRA",
+        "text": "Kelly getting robusted by Zane DL5?",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722239284,
+        "author": "",
+        "author_id": "",
+        "text": "177",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722239376,
+        "author": "",
+        "author_id": "",
+        "text": "167",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722239435,
+        "author": "MorninAfterKill",
+        "author_id": "UCKw3UQ7AMPXkJ5nYxfg_Gyg",
+        "text": "ban world aint so bad",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722239468,
+        "author": "",
+        "author_id": "",
+        "text": "162",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722239560,
+        "author": "",
+        "author_id": "",
+        "text": "152",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722239652,
+        "author": "",
+        "author_id": "",
+        "text": "165",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722239744,
+        "author": "",
+        "author_id": "",
+        "text": "168",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722239836,
+        "author": "",
+        "author_id": "",
+        "text": "172",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722239928,
+        "author": "",
+        "author_id": "",
+        "text": "167",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722239949,
+        "author": "anon",
+        "author_id": "UC_7fjQj8J65Zsu1da54JoLA",
+        "text": "I cant be banned I know the leader and elden looooorrrrr of the shadow mawd klan:cat-orange-whistling:",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722239981,
+        "author": "dotnox5e",
+        "author_id": "UCN5Qo-vGrGeFPm4yUkEyzcA",
+        "text": ":face-blue-smiling::face-blue-smiling::face-blue-smiling::face-blue-smiling::face-blue-smiling::face-blue-smiling::face-blue-smiling::face-blue-smiling:",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722240020,
+        "author": "",
+        "author_id": "",
+        "text": "167",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722240095,
+        "author": "Ghost of Leon Rififi",
+        "author_id": "UCgZOTy3LxFojsY1YQBQtVRA",
+        "text": "Sabotaging a red wall is a bannable offence",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722240112,
+        "author": "",
+        "author_id": "",
+        "text": "168",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722240204,
+        "author": "",
+        "author_id": "",
+        "text": "174",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722240250,
+        "author": "Steve",
+        "author_id": "UC1Og6rgZwYQ8cF9GDSy0RlQ",
+        "text": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722240297,
+        "author": "",
+        "author_id": "",
+        "text": "167",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722240389,
+        "author": "",
+        "author_id": "",
+        "text": "164",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722240481,
+        "author": "",
+        "author_id": "",
+        "text": "161",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722240573,
+        "author": "",
+        "author_id": "",
+        "text": "154",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722240665,
+        "author": "",
+        "author_id": "",
+        "text": "149",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722240756,
+        "author": "",
+        "author_id": "",
+        "text": "151",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722240848,
+        "author": "",
+        "author_id": "",
+        "text": "153",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722240941,
+        "author": "",
+        "author_id": "",
+        "text": "160",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722241033,
+        "author": "",
+        "author_id": "",
+        "text": "165",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722241125,
+        "author": "",
+        "author_id": "",
+        "text": "163",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722241217,
+        "author": "",
+        "author_id": "",
+        "text": "162",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722241309,
+        "author": "",
+        "author_id": "",
+        "text": "168",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722241402,
+        "author": "",
+        "author_id": "",
+        "text": "174",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722241494,
+        "author": "",
+        "author_id": "",
+        "text": "175",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1722241498,
+        "author": "Determined",
+        "author_id": "UCr2T0Ksg_G2yKjqVozYZVOA",
+        "text": "My dude dont Forget xbox 360 Store closes tonight",
+        "usd": 2.0
+    },
+    {
+        "event": "superchat",
+        "time": 1722241571,
+        "author": "Determined",
+        "author_id": "UCr2T0Ksg_G2yKjqVozYZVOA",
+        "text": "Yea so grab what you can while you can :superhero:",
+        "usd": 2.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722241586,
+        "author": "",
+        "author_id": "",
+        "text": "177",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1722241612,
+        "author": "misfit90s",
+        "author_id": "UC3UITiQvik-MEYW0ExkDd1g",
+        "text": "i wonder if kellys family is trying to find her a new husband",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722241679,
+        "author": "",
+        "author_id": "",
+        "text": "175",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722241771,
+        "author": "",
+        "author_id": "",
+        "text": "170",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722241863,
+        "author": "",
+        "author_id": "",
+        "text": "170",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722241954,
+        "author": "",
+        "author_id": "",
+        "text": "168",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722242046,
+        "author": "",
+        "author_id": "",
+        "text": "166",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722242138,
+        "author": "",
+        "author_id": "",
+        "text": "168",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1722242175,
+        "author": "Mwn",
+        "author_id": "UCL9SrGvEEpauwUwFie1urpQ",
+        "text": "Do you still play with rippin and physco mantiss",
+        "usd": 1.99
+    },
+    {
+        "event": "viewcount",
+        "time": 1722242231,
+        "author": "",
+        "author_id": "",
+        "text": "171",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722242323,
+        "author": "",
+        "author_id": "",
+        "text": "177",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722242415,
+        "author": "",
+        "author_id": "",
+        "text": "171",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722242507,
+        "author": "",
+        "author_id": "",
+        "text": "169",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722242599,
+        "author": "",
+        "author_id": "",
+        "text": "173",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722242691,
+        "author": "",
+        "author_id": "",
+        "text": "172",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722242783,
+        "author": "",
+        "author_id": "",
+        "text": "173",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722242875,
+        "author": "",
+        "author_id": "",
+        "text": "176",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722242968,
+        "author": "",
+        "author_id": "",
+        "text": "182",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1722243060,
+        "author": "",
+        "author_id": "",
+        "text": "169",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1722243712,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 419.99
+    }
+]
