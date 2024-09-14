@@ -1,0 +1,978 @@
+[
+    {
+        "event": "start",
+        "time": 1726342203,
+        "author": "WingsofRedemption",
+        "author_id": "3szZjl_6HMM",
+        "text": "Wings Plays - Dark Souls and Chill 2024-09-14 19:30",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726342204,
+        "author": "",
+        "author_id": "",
+        "text": "128",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726342295,
+        "author": "",
+        "author_id": "",
+        "text": "137",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726342386,
+        "author": "",
+        "author_id": "",
+        "text": "142",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726342478,
+        "author": "",
+        "author_id": "",
+        "text": "159",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726342567,
+        "author": "mako",
+        "author_id": "UCmMKOJKUhiLd4V84r_ZiSrA",
+        "text": "showed up to dislike the stream",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726342569,
+        "author": "",
+        "author_id": "",
+        "text": "169",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726342660,
+        "author": "",
+        "author_id": "",
+        "text": "181",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726342751,
+        "author": "",
+        "author_id": "",
+        "text": "177",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726342843,
+        "author": "",
+        "author_id": "",
+        "text": "179",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726342934,
+        "author": "",
+        "author_id": "",
+        "text": "184",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726343025,
+        "author": "",
+        "author_id": "",
+        "text": "191",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726343037,
+        "author": "Drimes",
+        "author_id": "UC5m0qsta6IaS86mLGXxQ2Wg",
+        "text": "RICHARD",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726343117,
+        "author": "",
+        "author_id": "",
+        "text": "197",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726343208,
+        "author": "",
+        "author_id": "",
+        "text": "205",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726343263,
+        "author": "Texas Hank",
+        "author_id": "UCtv9HgpHA4S5VGCX0NcPGWw",
+        "text": "How’s the trailboss Richard?",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726343299,
+        "author": "",
+        "author_id": "",
+        "text": "205",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726343390,
+        "author": "",
+        "author_id": "",
+        "text": "186",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726343482,
+        "author": "",
+        "author_id": "",
+        "text": "194",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726343573,
+        "author": "",
+        "author_id": "",
+        "text": "199",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726343664,
+        "author": "",
+        "author_id": "",
+        "text": "203",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726343755,
+        "author": "",
+        "author_id": "",
+        "text": "203",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726343847,
+        "author": "",
+        "author_id": "",
+        "text": "199",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726343939,
+        "author": "",
+        "author_id": "",
+        "text": "207",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726344030,
+        "author": "",
+        "author_id": "",
+        "text": "213",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726344121,
+        "author": "",
+        "author_id": "",
+        "text": "218",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726344213,
+        "author": "",
+        "author_id": "",
+        "text": "223",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726344304,
+        "author": "",
+        "author_id": "",
+        "text": "220",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726344396,
+        "author": "",
+        "author_id": "",
+        "text": "219",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726344487,
+        "author": "",
+        "author_id": "",
+        "text": "234",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726344578,
+        "author": "",
+        "author_id": "",
+        "text": "243",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726344669,
+        "author": "",
+        "author_id": "",
+        "text": "235",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726344704,
+        "author": "JuneBug is Xbottles and loves BBC",
+        "author_id": "UC5K4f5HIkBLGhEeUGeoBsCQ",
+        "text": "JuneBug aka Xbottles rewatches old Wings streams to ban people who laugh at him. He loves BBC",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726344760,
+        "author": "",
+        "author_id": "",
+        "text": "240",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726344852,
+        "author": "",
+        "author_id": "",
+        "text": "249",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726344943,
+        "author": "",
+        "author_id": "",
+        "text": "240",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726345034,
+        "author": "",
+        "author_id": "",
+        "text": "248",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726345125,
+        "author": "",
+        "author_id": "",
+        "text": "247",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726345156,
+        "author": "slonkgangweed",
+        "author_id": "UCDArVlMIznlxWRAQG5Qhjug",
+        "text": "richard",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726345213,
+        "author": "Mark K",
+        "author_id": "UCeY2VCxfvw3h9EwcfZD6n0w",
+        "text": "Imagine telling your wife she can't do a 5K because she isn't doing good enough in a video game she has no interest in. Literal POS",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726345217,
+        "author": "",
+        "author_id": "",
+        "text": "232",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726345308,
+        "author": "",
+        "author_id": "",
+        "text": "226",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726345399,
+        "author": "",
+        "author_id": "",
+        "text": "233",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726345447,
+        "author": "GetMoneyGoLegit",
+        "author_id": "UCRaDFpso-YCR56fPkTllKcg",
+        "text": "Man is gawking for no reason double hand twist mcghee",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726345490,
+        "author": "",
+        "author_id": "",
+        "text": "236",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726345581,
+        "author": "",
+        "author_id": "",
+        "text": "236",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726345673,
+        "author": "",
+        "author_id": "",
+        "text": "239",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1726345706,
+        "author": "Bigearn82",
+        "author_id": "UCqvkTewqbKcByCZWeeiCwQQ",
+        "text": "Wings I will be the Godfather for baby Jordie lmk",
+        "usd": 4.99
+    },
+    {
+        "event": "viewcount",
+        "time": 1726345764,
+        "author": "",
+        "author_id": "",
+        "text": "247",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726345855,
+        "author": "",
+        "author_id": "",
+        "text": "250",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726345884,
+        "author": "Pimp Hard",
+        "author_id": "UCyFKDWUPpI7Y6gKOXqxvVag",
+        "text": "When you lose weight your perspective of life changes also",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726345947,
+        "author": "",
+        "author_id": "",
+        "text": "253",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726346038,
+        "author": "",
+        "author_id": "",
+        "text": "268",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726346062,
+        "author": "Daddy is here JuneBug aka Xbottles BBC Lover",
+        "author_id": "UCi9KlvryyOlL3dwh2bVijcA",
+        "text": "Malnurished JuneBug gets bent over by Apollo everyday.",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726346129,
+        "author": "",
+        "author_id": "",
+        "text": "263",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726346220,
+        "author": "",
+        "author_id": "",
+        "text": "271",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726346312,
+        "author": "",
+        "author_id": "",
+        "text": "276",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726346345,
+        "author": "Apollo sticks his thick 4 in JuneBug everyday",
+        "author_id": "UCtEBat_f1av_P50-1EQy78w",
+        "text": "JuneBug copes cause he loves BBC",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726346403,
+        "author": "",
+        "author_id": "",
+        "text": "282",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726346495,
+        "author": "",
+        "author_id": "",
+        "text": "289",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726346586,
+        "author": "",
+        "author_id": "",
+        "text": "293",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726346677,
+        "author": "",
+        "author_id": "",
+        "text": "284",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726346769,
+        "author": "",
+        "author_id": "",
+        "text": "270",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726346860,
+        "author": "",
+        "author_id": "",
+        "text": "273",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726346951,
+        "author": "",
+        "author_id": "",
+        "text": "270",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726346967,
+        "author": "Drimes",
+        "author_id": "UC5m0qsta6IaS86mLGXxQ2Wg",
+        "text": "Richard is bad at GTA",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726346984,
+        "author": "slonkgangweed",
+        "author_id": "UCDArVlMIznlxWRAQG5Qhjug",
+        "text": "Richard the alliance maker",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726347042,
+        "author": "",
+        "author_id": "",
+        "text": "267",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726347133,
+        "author": "",
+        "author_id": "",
+        "text": "268",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726347225,
+        "author": "",
+        "author_id": "",
+        "text": "258",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1726347283,
+        "author": "bEAN",
+        "author_id": "UCZa6WbhXDwrrxc6fjz7rGMg",
+        "text": "Greetings pimp do you have a favorite megadeth song?",
+        "usd": 10.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726347316,
+        "author": "",
+        "author_id": "",
+        "text": "260",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726347407,
+        "author": "",
+        "author_id": "",
+        "text": "267",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726347498,
+        "author": "",
+        "author_id": "",
+        "text": "261",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726347589,
+        "author": "",
+        "author_id": "",
+        "text": "259",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726347598,
+        "author": "sweb",
+        "author_id": "UCnLF1e5fYUTKHrg1q9XjhQg",
+        "text": "why did you kiick me",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726347681,
+        "author": "",
+        "author_id": "",
+        "text": "250",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726347772,
+        "author": "",
+        "author_id": "",
+        "text": "256",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726347863,
+        "author": "",
+        "author_id": "",
+        "text": "244",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726347954,
+        "author": "",
+        "author_id": "",
+        "text": "255",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726348045,
+        "author": "",
+        "author_id": "",
+        "text": "251",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726348137,
+        "author": "",
+        "author_id": "",
+        "text": "249",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1726348204,
+        "author": "sweb",
+        "author_id": "UChazwJUotdfczMvrY3dW6TQ",
+        "text": "Why did your mod ban me",
+        "usd": 1.99
+    },
+    {
+        "event": "viewcount",
+        "time": 1726348228,
+        "author": "",
+        "author_id": "",
+        "text": "249",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726348285,
+        "author": "Bread Man",
+        "author_id": "UCOE75BIEu4UUdfyseRTqRag",
+        "text": "L mod",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726348319,
+        "author": "",
+        "author_id": "",
+        "text": "245",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726348410,
+        "author": "",
+        "author_id": "",
+        "text": "246",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726348502,
+        "author": "",
+        "author_id": "",
+        "text": "244",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726348593,
+        "author": "",
+        "author_id": "",
+        "text": "246",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726348684,
+        "author": "",
+        "author_id": "",
+        "text": "242",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1726348753,
+        "author": "Cincinnati Harry",
+        "author_id": "UCxnGGapFYcvLhNYTDZO5J_g",
+        "text": "Kelly baby, Uncle Harry says got fine written on you like a parking ticket. You, me and wings how about a Wendy’s family style date? My treat",
+        "usd": 4.99
+    },
+    {
+        "event": "viewcount",
+        "time": 1726348775,
+        "author": "",
+        "author_id": "",
+        "text": "254",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726348866,
+        "author": "",
+        "author_id": "",
+        "text": "253",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726348958,
+        "author": "",
+        "author_id": "",
+        "text": "256",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726349049,
+        "author": "",
+        "author_id": "",
+        "text": "249",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726349140,
+        "author": "",
+        "author_id": "",
+        "text": "250",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726349231,
+        "author": "",
+        "author_id": "",
+        "text": "250",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726349322,
+        "author": "",
+        "author_id": "",
+        "text": "251",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1726349352,
+        "author": "Cincinnati Harry",
+        "author_id": "UCxnGGapFYcvLhNYTDZO5J_g",
+        "text": "Kelly, Shhh dont tell them we’re meeting next week",
+        "usd": 1.99
+    },
+    {
+        "event": "viewcount",
+        "time": 1726349414,
+        "author": "",
+        "author_id": "",
+        "text": "255",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1726349497,
+        "author": "BOB MAINE #2",
+        "author_id": "UCqDflLcA9WlYw1jj73UDKyQ",
+        "text": "SECOND ACOUNT PLEASE DONT BAN BIG UPS CHAT",
+        "usd": 10.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726349505,
+        "author": "",
+        "author_id": "",
+        "text": "241",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726349596,
+        "author": "",
+        "author_id": "",
+        "text": "240",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1726349618,
+        "author": "Anthony Evans",
+        "author_id": "UCe8x1kLUUWZp2ei4sR-B0ZQ",
+        "text": "Wings I resent that, I bought a brand new 22 scat chally and almost done playing it off :face_with_tears_of_joy:",
+        "usd": 4.99
+    },
+    {
+        "event": "viewcount",
+        "time": 1726349687,
+        "author": "",
+        "author_id": "",
+        "text": "237",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726349778,
+        "author": "",
+        "author_id": "",
+        "text": "242",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726349869,
+        "author": "",
+        "author_id": "",
+        "text": "253",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726349961,
+        "author": "",
+        "author_id": "",
+        "text": "247",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726350052,
+        "author": "",
+        "author_id": "",
+        "text": "241",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726350143,
+        "author": "",
+        "author_id": "",
+        "text": "244",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726350234,
+        "author": "",
+        "author_id": "",
+        "text": "240",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726350325,
+        "author": "",
+        "author_id": "",
+        "text": "239",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726350416,
+        "author": "",
+        "author_id": "",
+        "text": "243",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726350508,
+        "author": "",
+        "author_id": "",
+        "text": "236",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726350599,
+        "author": "",
+        "author_id": "",
+        "text": "228",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726350690,
+        "author": "",
+        "author_id": "",
+        "text": "226",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726350726,
+        "author": "Apollos Basement Victims",
+        "author_id": "UCgGaXIIz6eIlAqq3zzAG4gg",
+        "text": "Page 5 pooping out Kenny pillies",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726350781,
+        "author": "",
+        "author_id": "",
+        "text": "227",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726350872,
+        "author": "",
+        "author_id": "",
+        "text": "218",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1726350963,
+        "author": "",
+        "author_id": "",
+        "text": "220",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1726351001,
+        "author": "Max Power",
+        "author_id": "UCxS9dJitx2BqhQGEm9cYXsA",
+        "text": "Hey Sam",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1726351714,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 38.949999999999996
+    }
+]
