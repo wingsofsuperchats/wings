@@ -1,0 +1,794 @@
+[
+    {
+        "event": "start",
+        "time": 1731069005,
+        "author": "WingsofRedemption",
+        "author_id": "7iSwj5Tgugg",
+        "text": "Quick TDM Session 2024-11-08 12:30",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1731069006,
+        "author": "SpraysGGs",
+        "author_id": "UCrWjbUrZIePE-iqil2thLiQ",
+        "text": "Good morning wings!!",
+        "usd": 1.99
+    },
+    {
+        "event": "viewcount",
+        "time": 1731069006,
+        "author": "",
+        "author_id": "",
+        "text": "113",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731069098,
+        "author": "",
+        "author_id": "",
+        "text": "126",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731069189,
+        "author": "",
+        "author_id": "",
+        "text": "135",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731069281,
+        "author": "",
+        "author_id": "",
+        "text": "147",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1731069281,
+        "author": "SpraysGGs",
+        "author_id": "UCrWjbUrZIePE-iqil2thLiQ",
+        "text": "Hey wings are you excited about the new battlefield coming out in 2025?",
+        "usd": 4.99
+    },
+    {
+        "event": "viewcount",
+        "time": 1731069372,
+        "author": "",
+        "author_id": "",
+        "text": "163",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731069463,
+        "author": "",
+        "author_id": "",
+        "text": "169",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731069555,
+        "author": "",
+        "author_id": "",
+        "text": "172",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731069646,
+        "author": "",
+        "author_id": "",
+        "text": "174",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1731069685,
+        "author": "poopies",
+        "author_id": "UCy7DJeeraHKFXc6AC_jY3cg",
+        "text": "Good morning dude have a great day",
+        "usd": 4.99
+    },
+    {
+        "event": "viewcount",
+        "time": 1731069737,
+        "author": "",
+        "author_id": "",
+        "text": "174",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731069829,
+        "author": "",
+        "author_id": "",
+        "text": "180",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1731069846,
+        "author": "respawnn",
+        "author_id": "UC88Ollf1yENGJedl-6yNLmg",
+        "text": "This is such exciting gameplay when nothing to going on",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1731069854,
+        "author": "That hooligan",
+        "author_id": "UC9b8kV0WDBzXxBNAYA-gCzQ",
+        "text": "Riveting gameplay",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1731069862,
+        "author": "T.D.",
+        "author_id": "UCySc_zO_3IJR3xQiPoV72tw",
+        "text": "AHA",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731069920,
+        "author": "",
+        "author_id": "",
+        "text": "187",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731070012,
+        "author": "",
+        "author_id": "",
+        "text": "189",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731070103,
+        "author": "",
+        "author_id": "",
+        "text": "196",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731070195,
+        "author": "",
+        "author_id": "",
+        "text": "203",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731070286,
+        "author": "",
+        "author_id": "",
+        "text": "210",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731070377,
+        "author": "",
+        "author_id": "",
+        "text": "221",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731070469,
+        "author": "",
+        "author_id": "",
+        "text": "216",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731070560,
+        "author": "",
+        "author_id": "",
+        "text": "221",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731070652,
+        "author": "",
+        "author_id": "",
+        "text": "223",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731070743,
+        "author": "",
+        "author_id": "",
+        "text": "233",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731070835,
+        "author": "",
+        "author_id": "",
+        "text": "238",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731070926,
+        "author": "",
+        "author_id": "",
+        "text": "232",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1731070994,
+        "author": "Shinobi Ben",
+        "author_id": "UCc93wiGn4Qk32At6mmu0Ckw",
+        "text": "Gonna play Soul Reaver 1&2 when it drops on Dec12?",
+        "usd": 2.59
+    },
+    {
+        "event": "viewcount",
+        "time": 1731071018,
+        "author": "",
+        "author_id": "",
+        "text": "229",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731071109,
+        "author": "",
+        "author_id": "",
+        "text": "237",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731071200,
+        "author": "",
+        "author_id": "",
+        "text": "244",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731071292,
+        "author": "",
+        "author_id": "",
+        "text": "240",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731071383,
+        "author": "",
+        "author_id": "",
+        "text": "242",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1731071446,
+        "author": "Jon Favreau",
+        "author_id": "UCoWJD-FRubRaAXEFot8Zj5A",
+        "text": "1.1 KD whilst camping",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731071474,
+        "author": "",
+        "author_id": "",
+        "text": "245",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1731071495,
+        "author": "Jackacake1892",
+        "author_id": "UCeAFTVlm2L8d-zOOmU2RM0Q",
+        "text": "",
+        "usd": 1.3
+    },
+    {
+        "event": "viewcount",
+        "time": 1731071566,
+        "author": "",
+        "author_id": "",
+        "text": "251",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1731071624,
+        "author": "Shinobi Ben",
+        "author_id": "UCc93wiGn4Qk32At6mmu0Ckw",
+        "text": "You gonna play Soul Reaver 1&2 Dec 12th when it drops? Also would love to see you play Kingdom Come Deliverance 2 on Feb 11th as well. Looks amazing!",
+        "usd": 6.48
+    },
+    {
+        "event": "viewcount",
+        "time": 1731071657,
+        "author": "",
+        "author_id": "",
+        "text": "255",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731071749,
+        "author": "",
+        "author_id": "",
+        "text": "257",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731071840,
+        "author": "",
+        "author_id": "",
+        "text": "260",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731071932,
+        "author": "",
+        "author_id": "",
+        "text": "260",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731072023,
+        "author": "",
+        "author_id": "",
+        "text": "260",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731072115,
+        "author": "",
+        "author_id": "",
+        "text": "262",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731072206,
+        "author": "",
+        "author_id": "",
+        "text": "273",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731072298,
+        "author": "",
+        "author_id": "",
+        "text": "278",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731072389,
+        "author": "",
+        "author_id": "",
+        "text": "272",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731072481,
+        "author": "",
+        "author_id": "",
+        "text": "267",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731072572,
+        "author": "",
+        "author_id": "",
+        "text": "275",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731072664,
+        "author": "",
+        "author_id": "",
+        "text": "274",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731072755,
+        "author": "",
+        "author_id": "",
+        "text": "264",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731072847,
+        "author": "",
+        "author_id": "",
+        "text": "259",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731072938,
+        "author": "",
+        "author_id": "",
+        "text": "271",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731073030,
+        "author": "",
+        "author_id": "",
+        "text": "262",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731073121,
+        "author": "",
+        "author_id": "",
+        "text": "263",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731073213,
+        "author": "",
+        "author_id": "",
+        "text": "261",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731073304,
+        "author": "",
+        "author_id": "",
+        "text": "262",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731073396,
+        "author": "",
+        "author_id": "",
+        "text": "259",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731073487,
+        "author": "",
+        "author_id": "",
+        "text": "267",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1731073555,
+        "author": "Matt",
+        "author_id": "UClRoQHyDowY6kqqSLMoT7UA",
+        "text": "Have a good weekend wings!",
+        "usd": 10.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731073579,
+        "author": "",
+        "author_id": "",
+        "text": "264",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731073674,
+        "author": "",
+        "author_id": "",
+        "text": "266",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731073765,
+        "author": "",
+        "author_id": "",
+        "text": "274",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731073856,
+        "author": "",
+        "author_id": "",
+        "text": "268",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731073948,
+        "author": "",
+        "author_id": "",
+        "text": "278",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731074039,
+        "author": "",
+        "author_id": "",
+        "text": "287",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731074131,
+        "author": "",
+        "author_id": "",
+        "text": "279",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731074222,
+        "author": "",
+        "author_id": "",
+        "text": "283",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731074314,
+        "author": "",
+        "author_id": "",
+        "text": "290",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731074405,
+        "author": "",
+        "author_id": "",
+        "text": "297",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731074497,
+        "author": "",
+        "author_id": "",
+        "text": "285",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731074588,
+        "author": "",
+        "author_id": "",
+        "text": "286",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731074680,
+        "author": "",
+        "author_id": "",
+        "text": "280",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731074771,
+        "author": "",
+        "author_id": "",
+        "text": "285",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1731074783,
+        "author": "N S",
+        "author_id": "UCT_Unh_RI2wIUHD_XE_XOMA",
+        "text": "We love you Wings join the MAGA movement be like Keem :black_heart::heart_hands:",
+        "usd": 4.99
+    },
+    {
+        "event": "ban",
+        "time": 1731074799,
+        "author": "John Trump Bono",
+        "author_id": "UC16ZuX7cDDuq3sEn_8WhgDw",
+        "text": "how is diablo 2 not boring already?",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731074862,
+        "author": "",
+        "author_id": "",
+        "text": "278",
+        "usd": 0.0
+    },
+    {
+        "event": "superchat",
+        "time": 1731074936,
+        "author": "Azurah Plays",
+        "author_id": "UCSqRI6KVFDzS9yeIMBWGldw",
+        "text": "ive watched you since mw2 love your content",
+        "usd": 6.48
+    },
+    {
+        "event": "viewcount",
+        "time": 1731074954,
+        "author": "",
+        "author_id": "",
+        "text": "273",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731075045,
+        "author": "",
+        "author_id": "",
+        "text": "275",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731075137,
+        "author": "",
+        "author_id": "",
+        "text": "276",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731075228,
+        "author": "",
+        "author_id": "",
+        "text": "272",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731075320,
+        "author": "",
+        "author_id": "",
+        "text": "265",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731075412,
+        "author": "",
+        "author_id": "",
+        "text": "276",
+        "usd": 0.0
+    },
+    {
+        "event": "ban",
+        "time": 1731075469,
+        "author": "G",
+        "author_id": "UCTB5iWNB2bklTn6yKUck2uw",
+        "text": "boring and depressing my viewers 2024",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731075503,
+        "author": "",
+        "author_id": "",
+        "text": "288",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731075595,
+        "author": "",
+        "author_id": "",
+        "text": "298",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731075686,
+        "author": "",
+        "author_id": "",
+        "text": "282",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731075778,
+        "author": "",
+        "author_id": "",
+        "text": "270",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731075869,
+        "author": "",
+        "author_id": "",
+        "text": "272",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731075961,
+        "author": "",
+        "author_id": "",
+        "text": "281",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731076052,
+        "author": "",
+        "author_id": "",
+        "text": "269",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731076144,
+        "author": "",
+        "author_id": "",
+        "text": "274",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731076235,
+        "author": "",
+        "author_id": "",
+        "text": "282",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731076326,
+        "author": "",
+        "author_id": "",
+        "text": "279",
+        "usd": 0.0
+    },
+    {
+        "event": "viewcount",
+        "time": 1731076418,
+        "author": "",
+        "author_id": "",
+        "text": "278",
+        "usd": 0.0
+    },
+    {
+        "event": "end",
+        "time": 1731077063,
+        "author": "",
+        "author_id": "",
+        "text": "",
+        "usd": 43.81
+    }
+]
